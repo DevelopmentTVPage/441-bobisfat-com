@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Bob"
+baseURL = "https:\/\/bobisfat.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758166"
+subfolder = ""
+firstpartycookies = false
+cookiedomain = "bobisfat.com"
