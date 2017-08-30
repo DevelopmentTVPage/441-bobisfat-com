@@ -1,0 +1,97 @@
+{
+    "title": "Power Juicer",
+    "description": "",
+    "referenceId": "4224",
+    "date_created": "1502924568",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180413",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Power-Juicer-FTP5739",
+    "category": "",
+    "duration": "192",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "192",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "192",
+        "prettyDuration": "00:03:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/thumb-4224-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180413\/437fc\/media.m3u8"
+    },
+    "transcripts": "Jack La Lanne's Power Juicer\u0099 - As Seen On TV \r\n\r\nJack La Lanne, the godfather of fitness, has created a juicer that lets you get the freshest, healthiest juice quickly right in your own home.  Jack La Lanne's Power Juicer - As Seen on TVThe 3,600 RPM motor is a powerhouse in the kitchen, yet it is surprisingly quiet. It features an extra-large feeder, detachable pulp collector and a surgical quality stainless steel blade. The large feeder tube lets you put most fruits and vegetables in whole, saving you the preparation time. The patented extraction technology gives you the most juice from fruits and vegetables, far more than from other juicers. As a built-in safety feature, the unit will not operate unless it has been properly assembled. Dishwasher safe parts. UL listed. Lifetime motor guarantee.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 962.3106,
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009",
+    "creator": null
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Riedel Pouring Wine",
+    "description": "",
+    "referenceId": "20390",
+    "date_created": "1502923885",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180112",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Riedel-Pouring-Wine",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 320,
+            "height": 240
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/thumb-20390-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180112\/5a3a1\/media.m3u8"
+    },
+    "transcripts": "Out of one bottle of wine typical Cabernet bottle for example. You can easily fill or poor six glasses of wine. It's all about balance in the glass. You need enough room within the glass to swirl the wine, so you can lift aromas. we say 2 fingers i where you should poor it. Each glass will hold 21 and a half ounces but at the end wine is about sharing we want to make sure that your 6 friends all get an equal amount of wine. First glass, I like to tilt before i get started pouring the rest of the glasses this is about the two fingers to the four ounces that we would like to see in the glasses and here as you can see very easy the wine goes into the glass. The glass have been prepared and have been polished. Before you serve the wine, what i suggest always is that you prepare the glasses for your friends and don't worry just because the glass is are not full doesn't mean they don't appreciate your friendship there's just a little bit left in the wine bottle to share, and these are the six glasses filled with beautiful Cabernet. I suggest you try thus at home",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1394.1561,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "12\/29\/2012",
+    "created_date": "",
+    "creator": null
+}

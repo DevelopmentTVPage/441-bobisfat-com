@@ -1,0 +1,97 @@
+{
+    "title": "Dyson Animal DC28 Vacuum Cleaner",
+    "description": "",
+    "referenceId": "5560",
+    "date_created": "1502924701",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180502",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Dc28-Amended-01-FT7440",
+    "category": "",
+    "duration": "104",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "104",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "104",
+        "prettyDuration": "00:01:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/thumb-5560-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180502\/48e92\/media.m3u8"
+    },
+    "transcripts": "Although they claim to work on all floor types, most vacuums only work well on either bare floors or carpets. On bare floors, the machines tend to sit higher on the floor surface, allowing a suction leak. Some of our competitors use very heavy cleaner heads to make sure the brush bar is constantly driven deep into the carpet. DC28 is specifically designed to work on both bare floors and carpets. There are three components to the Airmuscle technology. The high torque clutch, a powered cam, and pneumatic actuator. The pneumatic actuator uses pressure from the vacuum motor to compress only when you select the medium pile and deep pile carpet settings.\r\n\r\nThat in turn puts the force onto the brush bar. That pulls the cleaner head down into the carpet. The brush bar is on a cam system. When you choose the deep pile carpet mode, the bristles protrude below the plates. What happens then is the bristles sweep deep within the carpet pile to get the ingrained dirt and debris that can be trapped there from everyday use.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1218.1742,
+    "delete": "",
+    "notes": null,
+    "uploader": "Kyle.Lukiewski",
+    "modified_date": "11\/25\/2013",
+    "created_date": "10\/29\/2009",
+    "creator": null
+}

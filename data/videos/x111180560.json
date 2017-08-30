@@ -1,0 +1,97 @@
+{
+    "title": "Waring Pro WO50 Professional Wine Opener",
+    "description": "",
+    "referenceId": "5780",
+    "date_created": "1502924758",
+    "date_modified": "1504049178",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180560",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Waring-Pro-WO50-Professional-Wine-Opener-FT7538",
+    "category": "",
+    "duration": "103",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "103",
+            "width": 480,
+            "height": 270
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "103",
+        "prettyDuration": "00:01:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/thumb-5780-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180560\/29a8a\/media.m3u8"
+    },
+    "transcripts": "Hello, my name is Febritzio Valtera. I'm the executive chef for Waring. Let's talk about the cordless rechargeable wine opener. Here we go. We have a cutter that will fit right on top of the bottle. See how simple it is? You can remove it, bring it any one you want. It takes about 80 cork - out of every bottle of wine that you will open - about 80 times. It has a nickel metal hydrate battery.\r\n\r\nSimple to use. It goes in. And out it goes. Isn't that simple? Let's try another one. How about a white wine. I'm going to be drinking a lot today. Very simple to operate. Perfect. Right inside. Out it goes. And here it is. So removes up to 80 cork with one full charge, also synthetic corks. It has a rechargeable base unit, foil cutter included, battery pack. And let's enjoy the wine from Waring Cork Remover.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1265.8938,
+    "delete": "",
+    "notes": null,
+    "uploader": "jason",
+    "modified_date": "12\/10\/2011",
+    "created_date": "11\/4\/2009",
+    "creator": null
+}

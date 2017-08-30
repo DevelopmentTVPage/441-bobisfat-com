@@ -1,0 +1,97 @@
+{
+    "title": "Egg Genie Electric Egg Cooker",
+    "description": "",
+    "referenceId": "11768",
+    "date_created": "1502923347",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179876",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Egg-Genie-Electric-Egg-Cooker",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "72",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/thumb-11768-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179876\/c7acb\/media.m3u8"
+    },
+    "transcripts": "Egg Genie\u00ae Electric Egg Cooker\r\n\r\nThe Egg Genie\u00ae steam cooks perfect eggs in minutes. It is ideal for soft, medium or hard-boiled eggs and can cook up to seven eggs at a time. Simply place eggs into the Egg Genie\u00ae, add the required amount of water using the provided measuring cup, and turn the unit on. A sound and light indicator lets you know when your eggs are ready. Features an auto-off and a built-in cooking timer, and includes a built-in steel piercing pin, measuring cup, and an egg poacher tray to easily transport and serve eggs from. Unit measures 7\" H x 6 1\/2\" in diameter. UL listed. Model # 8095.\r\n\r\nEgg Genie\u00ae Electric Egg Cooker Video Transcript\r\n\r\nSoft boiled eggs that are too hard.  Hard boiled eggs that are too soft.  Do your boiled eggs look like this?  What a mess.  Introducing Egg Genie, the automatic egg cooker that cooks perfect soft boiled, medium boiled, or hard boiled eggs every time.  Don\u0092t lug that heavy pot of water. With Egg Genie, just fill the measuring beaker with water to level and pour in base.  Then pierce eggs with piercing pin.  Place up to seven eggs in unit and cover.  Egg Genie steam cooks your eggs to perfect consistency in minutes exactly as you ordered. So now, you can prepare perfect soft-boiled eggs for delicious eggs Benedict or hard-boiled for a healthy, protein rich salad. \r\n\r\nMake egg salad sandwiches for a scrumptious luncheon.  With Egg Genie, whipping up a party platter of deviled eggs has never been easier.  Over boiled eggs tend to taste hard and rubbery.  But Egg Genie has an indicator light for shut off and continuous audible signal that prevents overcooking.  Now it\u0092s a breeze to stick to your diet with quick and easy low cal snacks that always taste just right.  Egg Genie, the automatic egg cooker that cooks perfect soft boiled, medium boiled, or hard boiled eggs every time.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2364.1138,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/19\/2010",
+    "creator": null
+}

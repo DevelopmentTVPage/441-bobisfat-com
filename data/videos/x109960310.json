@@ -1,0 +1,109 @@
+{
+    "title": "Real Simple Slimline Hangers with Built-in Hooks",
+    "description": "",
+    "referenceId": "10075",
+    "date_created": "1502517009",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109960310",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Real-Simple-Slimline-Hangers-with-Built-in-Hooks",
+    "category": "",
+    "duration": "95",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "95",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/thumb-c94e6d4d723e51c975ba82c093092a2b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960310\/769b3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109960310\/cc\/vtt\/en_1503527136.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "12",
+        "18",
+        "7"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 203.15712,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/26\/2013",
+    "created_date": "3\/5\/2010",
+    "creator": null
+}

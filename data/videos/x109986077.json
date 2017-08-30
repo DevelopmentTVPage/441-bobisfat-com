@@ -1,0 +1,99 @@
+{
+    "title": "mifold Grab-n-Go Booster Car Seat",
+    "description": "",
+    "referenceId": "1635180864",
+    "date_created": "1502522049",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109986077",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "mifold-Grab-n-Go-Booster-Car-Seat-3-notes",
+    "category": "",
+    "duration": "47",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "47",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/thumb-7af51e2df8a8f092da2344e1559319ed-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986077\/e74b9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 511.80676,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "4\/12\/2017",
+    "created_date": "4\/12\/2017",
+    "creator": null
+}

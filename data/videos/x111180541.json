@@ -1,0 +1,97 @@
+{
+    "title": "Cuisinart ICE 50BC Supreme Ice Cream Maker",
+    "description": "",
+    "referenceId": "5660",
+    "date_created": "1502924740",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180541",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Cuisinart-ICE-50BC-Supreme-Ice-Cream-Maker-FT7485",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "72",
+            "width": 480,
+            "height": 270
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/thumb-5660-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/media.m3u8"
+    },
+    "transcripts": "Hi, I'm Mary Rogers, Director of Marketing Communications for Cuisinart. This is the Cuisinart Supreme Commercial Quality Ice Cream Maker. It uses a compressor so you don't have to do any pre preparation to make ice cream, plus, you can make batch after batch. It's really simple to use.\r\n\r\nLike I said, it has a compressor inside, so if you come home and you fancy some fresh ice cream, you can make it immediately. It's really easy to use. This is the arm. This is the dasher. This is your lid. And this your little 1-quart basket that you're gonna make your ice cream in. You basically put this in here. You put your ingredients right in here. This is your dasher, which I mounted on here already on the lid. You just put this in, put the arm on.\r\n\r\nYou can use the 60-minute timer, depending on what type of ice cream you're making. You can also make sorbet or frozen yogurt. You use the timer. You turn it on, and basically, it goes up to 60 minutes. It will turn off automatically when your ice cream is done.\r\n\r\nIt's made of all stainless steel. It has some great handles on the side. And you can make fresh, homemade ice cream any time you want.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1663.0543,
+    "delete": "",
+    "notes": null,
+    "uploader": "jason",
+    "modified_date": "12\/3\/2013",
+    "created_date": "10\/30\/2009",
+    "creator": null
+}

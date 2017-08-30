@@ -1,0 +1,98 @@
+{
+    "title": "Dorm Video Canada THE RIGHT WEB VERSION",
+    "description": "",
+    "referenceId": "4283",
+    "date_created": "1502924588",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180424",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Dorm-Video-Canada-THE-RIGHT-WEB-VERSION-FTP5773",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "53",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/thumb-4283-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180424\/bf577\/media.m3u8"
+    },
+    "transcripts": "Welcome to the dorm room. It's not much but for thousands of students who go to college every year, it's home. It's small, it's cramped, it's bare when they get there, but you have the chance to change that. Dorm rooms need a lot of stuff, a lot of innovative stuff students can use to excel and do their best in school. Do you have a great idea for dorm rooms? It doesn't matter if you're a current student, were a student, or just a student of life. Bed, Bath, and Beyond wants to hear from you and maybe your idea can be sold on Bed, Bath, and Beyond store shelves and be used in dorm rooms across the country. To learn how to submit your invention to the Students of Invention search please visit bedbathandbeyond.ca from July 1st to September 30th.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 976.7636,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

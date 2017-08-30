@@ -1,0 +1,99 @@
+{
+    "title": "OXO On Barista Brain 9-Cup Coffee Maker",
+    "description": "",
+    "referenceId": "1580268360",
+    "date_created": "1502521657",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109983938",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "OXO-On-Barista-Brain-9-Cup-Coffee-Maker-3-notes",
+    "category": "",
+    "duration": "208",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "208",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "208",
+        "prettyDuration": "00:03:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/thumb-88207fb03616dec0f490023adc544b6e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983938\/9b636\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 609.4961,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "10\/28\/2015",
+    "created_date": "10\/28\/2015",
+    "creator": null
+}

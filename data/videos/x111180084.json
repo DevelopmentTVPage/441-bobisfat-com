@@ -1,0 +1,97 @@
+{
+    "title": "Kenneth Cole Reaction Home Shagreen Bath Ensemble",
+    "description": "",
+    "referenceId": "1916516279",
+    "date_created": "1502923837",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180084",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Kenneth-Cole-Reaction-Home-Shagreen-Bath-Ensemble",
+    "category": "",
+    "duration": "49",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "49",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/thumb-1916516279-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180084\/cc908\/media.m3u8"
+    },
+    "transcripts": "Exclusively from Bed, Bath & Beyond Shagreen Bath accessories designed in the studios of Kenneth Cole was inspired by items in his collection.\r\n\r\nThis line features a tooth brush holder, a soap dish, a lotion pump, a waste paper basket, a tumbler and boutique tissue holder.\r\n\r\nThis collection is made of a clear layer of resin and casing appeal tile shagreen texture with just a hint of leister.\r\n\r\nAll of our Kenneth Cole Reaction Home Bath collections were designed to coordinate with any of the Kenneth Cole Reactions home shower curtains so feel free to make some match.\r\n\r\nThe Shagreen Bath accessories collection is part of the Kenneth Cole Reaction Home collection.\r\n\r\nIt is available exclusively online and at select Bed, Bath & Beyond stores.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "28"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 25.077478,
+    "delete": "",
+    "notes": null,
+    "uploader": "ender7647",
+    "modified_date": "2\/26\/2013",
+    "created_date": "2\/26\/2013",
+    "creator": null
+}

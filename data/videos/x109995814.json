@@ -1,0 +1,99 @@
+{
+    "title": "Pizzacraft&trade; Pizzeria Pronto&reg; Outdoor Pizza Oven",
+    "description": "",
+    "referenceId": "1894799851",
+    "date_created": "1502523961",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109995814",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Pizzacraft\u00e2-Pizzeria-Pronto\u00c2-Outdoor-Pizza-Oven-3-notes",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/thumb-91b2b5eb297375f5c7aab7cb7c42e55c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995814\/f7815\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Introducing the Pizzeria Pronto, the fast, portable pizza oven that gives you a pizzeria experience right in your own backyard. The Pizzeria Pronto will change pizza night forever. It\u0092s lightweight, portable, and safe on any surface, so you could take it anywhere you\u0092d like to serve up a slice. It\u0092s incredibly easy to use; simply hook it up to a propane tank (it can run for two hours on a one pound tank), and turn it on. Let it preheat for 10 minutes and you\u0092re ready to go.\r\n\r\nThe Pizzeria Pronto reaches cooking temperatures of over 700 degrees, and cooks a pizza in only five minutes. The pizzas you make on your Pizzeria Pronto are perfect every time, thanks to several patent-pending technologies. First is our heat-diffusing pizza stone. Its hollow core allows the air to heat the top of the stone evenly, preventing hot spots. The built-in heat shield reflects heat back down on top for the pizza so that your toppings cook at the same rate as your crispy crust. Finally, the moisture vent allows the moisture from your cooking ingredients to escape so that your pizza is never soggy. Once your pizza is done, the Pizzeria Pronto is immediately ready to bake another. With no waiting, you could serve a hungry crowd in no time.\r\n\r\n\r\n\r\nThe Pizzeria Pronto is perfect for tailgating, camping, or your regular family pizza night. You\u0092ll never order delivery again when your Pizzeria Pronto makes homemade pizza fast, easy, and delicious.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 304.3632,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "4\/17\/2015",
+    "created_date": "4\/17\/2015",
+    "creator": null
+}

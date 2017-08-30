@@ -1,0 +1,97 @@
+{
+    "title": "KitchenAid Can Opener Attachment",
+    "description": "",
+    "referenceId": "3708",
+    "date_created": "1502924457",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180341",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KitchenAid-Can-Opener-Attachment",
+    "category": "",
+    "duration": "32",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "32",
+            "width": 504,
+            "height": 336
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ],
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/thumb-3708-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/media.m3u8"
+    },
+    "transcripts": "KitchenAid\u00ae Stand Mixer Can Opener\r\n\r\nThis can opener is designed exclusively to use with all KitchenAid\u00ae stand mixers. Can opener with built in magnet is attached to mixer  KitchenAid Can Openeraccessory hub to allow for easy can opening. Cuts clean and keeps can secure until you remove it. Model # CO\r\n\r\nKitchenAid Stand Mixer Can Opener Attachment\r\nEverything just got easier with the KitchenAid Stand Mixer and Can Opener Accessory.   The Can Opener Accessory easily opens large, small, tall and even heavy restaurant-size cans.  The Can Opener Accessory fits all KitchenAid Stand Mixers and is easy to attach, use and clean.  For even more versatility, add a Slicer\/Shredder Accessory to your KitchenAid Stand Mixer.   So many ways to make it fresh.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1138.046,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

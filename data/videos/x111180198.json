@@ -1,0 +1,98 @@
+{
+    "title": "Miele S7 Jazz HEPA Upright Vacuum Cleaner",
+    "description": "",
+    "referenceId": "28898",
+    "date_created": "1502924089",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180198",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Miele-S7-Jazz-HEPA-Upright-Vacuum-Cleaner",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 560,
+            "height": 316
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 560,
+                "height": 316
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 560,
+                "height": 316
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 560,
+                "height": 316
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 560,
+                "height": 316
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/thumb-28898-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180198\/c8a8f\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 271.78876,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "6\/10\/2011",
+    "creator": null
+}

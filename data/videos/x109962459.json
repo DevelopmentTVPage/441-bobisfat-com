@@ -1,0 +1,99 @@
+{
+    "title": "Motorola&reg; Smart Nursery Dream Machine",
+    "description": "",
+    "referenceId": "1060716644",
+    "date_created": "1502517462",
+    "date_modified": "1504049168",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109962459",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Motorola\u00c2-Smart-Nursery-Dream-Machine-3-notes",
+    "category": "",
+    "duration": "39",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "39",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/thumb-877addbb4ea3c2fd1bf36a0b9f0f3a33-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962459\/be71a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 118.51038,
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "12\/21\/2016",
+    "created_date": "12\/21\/2016",
+    "creator": ""
+}

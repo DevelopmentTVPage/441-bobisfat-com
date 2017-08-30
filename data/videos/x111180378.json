@@ -1,0 +1,97 @@
+{
+    "title": "Mighty Mend It",
+    "description": "",
+    "referenceId": "3911",
+    "date_created": "1502924506",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180378",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Mighty-Mend-It-FTP5613",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/thumb-3911-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180378\/648e9\/media.m3u8"
+    },
+    "transcripts": "Mighty Mend It\u0099 Permanent Bonding Agent\r\n\r\nPermanently repair fabric tears quickly and effectively without the need to sew! Mighty Mend It\u0099 is not a glue but rather a flexible bonding Mighty Mend Itagent that quickly grabs, adheres and interlocks the fibers of fabrics. Dries crystal clear and is safe on most fabrics including lace, denim and leather. Bonds stay strong even after as many as 50 washes.\r\n\r\nMighty Mend It Permanent Bonding Agent\r\n\r\nIt happens. You rip, tear and never have time to repair. Wait. Before you throw it away, let Mighty Mend It save the day.\r\n\r\nHi, Billy Maze here for Mighty Mend It. The fast, easy way to mend, hem and wear it again, saving you money.\r\n\r\nMighty Mend It is not a glue, but a flexible bonding agent that grabs, adheres and interlocks the fibers of virtually any fabric for a permanent repair. \r\n\r\nSewing takes forever, but with Mighty Mend It, just apply, gently touch and mend it. It has the strength to withstand storm force winds. Amazing. \r\n\r\nEasily mend a hem at your desk to look your best. Even if you sit and split, Mighty Mend It will quickly fix it. Mend pillows and comforters right on the bed. Or make furniture repairs and save money.\r\n\r\nMighty Mend It dries crystal clear and is safe for most any fabric. Plus, it's machine washable. Even after fifty washes, the bond still stays strong. Whether it's denim, leather or lace, you can use Mighty Mend It anytime, any place.\r\n\r\nWe even repaired this parachute with Mighty Mend It and it still has the strength to safely bring down this sky diver from 13,000 feet. Now that's the power of Mighty Mend It.\r\n\r\nPlus it's ideal for scrapbook or craft projects. You'll find hundreds of money saving uses.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1678.9224,
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/26\/2009",
+    "creator": null
+}

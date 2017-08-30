@@ -1,0 +1,98 @@
+{
+    "title": "CSR - Fagor Induction - Part 5",
+    "description": "",
+    "referenceId": "27900",
+    "date_created": "1502924063",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180186",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "CSR-Fagor-Induction-Part-5-2-notes",
+    "category": "",
+    "duration": "57",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "57",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/thumb-27900-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180186\/e5e4f\/media.m3u8"
+    },
+    "transcripts": "Fagor's range of accessories are designed to enhance your pressure cooking experience as well as expand the versatility of the pressure cooker's use. Fagor accessories are available on our website at: www.fagoramerica.com. If you do not have internet access and would like to order by mail or wish to inquire about a local Fagor Accessory dealer, please call us at 1-800-207-0806.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 159.47633,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "6\/10\/2014",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Lamaze&reg; Flipping Felipe&trade;",
+    "description": "",
+    "referenceId": "1269335247",
+    "date_created": "1502519117",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109970073",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Lamaze\u00c2-Flipping-Felipe\u00e2-3-notes",
+    "category": "",
+    "duration": "36",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "36",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/thumb-693fc3a33305b504675ceb86406a8f2d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970073\/a2ec8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 260.75732,
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "6\/20\/2017",
+    "created_date": "6\/20\/2017",
+    "creator": ""
+}

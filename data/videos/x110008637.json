@@ -1,0 +1,99 @@
+{
+    "title": "4mom tub",
+    "description": "",
+    "referenceId": "5201",
+    "date_created": "1502526007",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110008637",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "4mom-tub",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "35",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/thumb-99cf1a0a90b3313da03ae3e2e4561b62-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008637\/50fcc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Cleanwater Infant Tub with Built in Thermometer by 4 Moms\r\n\r\nThis infant tub will make infant bathing easier for babies and parents. Its built-in digital thermometer brings a fresh approach to infant Cleanwater Infant Tub bathing. The unique design creates a gentle circulating flow within the tub, cradling baby in clean, warm water. The fast responding digital thermometer makes it easy to set and maintain a comfortable water temperature. The display is color-coded to indicate when the water is cold, warm, or hot. Additional benefits include sidewall drains which continually expel dirty water and a contoured bottom that enables the tub to be used in single- and double-basin sinks and all bath tubs. Never leave your child unattended in the bath tub. Discontinue use if product becomes damaged or broken. Requires 3 AA batteries (not included).\r\n\r\nCleanwater Infant Tub with Built in Thermometer by 4 Moms\r\n\r\nI\u0092m Jenn of 4 Moms and we developed the Cleanwater Infant Tub after our first child was born.\r\n\r\nThe problem with infant tubs is that they hold a small pool of water.  So after your baby spends a day in diapers, you wind-up bathing them in water that\u0092s dirty and gross.\r\n\r\nOur tub is the only one used with running water.  The clean water flows in while dirty water rinses away.  There\u0092s a clean water reservoir so you never have to rinse your baby in the water they\u0092ve been sitting in.  And getting the perfect temperature is a breeze with the built-in color changing thermometer.\r\n\r\nThe Cleanwater Infant Tub from 4 Moms.  Our water is clean because kids get dirty.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1900.1718,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/7\/2009",
+    "creator": null
+}

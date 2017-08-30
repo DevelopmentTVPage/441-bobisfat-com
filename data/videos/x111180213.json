@@ -1,0 +1,98 @@
+{
+    "title": "College Practical Solutions - Need More Electric Outlets?",
+    "description": "",
+    "referenceId": "29658",
+    "date_created": "1502924113",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180213",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "College-Practical-Solutions-Need-More-Electric-Outlets",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/thumb-29658-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180213\/b70f9\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "27"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 199.99937,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "9\/25\/2013",
+    "created_date": "",
+    "creator": null
+}

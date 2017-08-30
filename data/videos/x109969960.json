@@ -1,0 +1,101 @@
+{
+    "title": "Puj&reg;  Tub in Soft Infant Bath",
+    "description": "",
+    "referenceId": "1225610657",
+    "date_created": "1502518826",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109969960",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Puj\u00c2-Tub-in-Soft-Infant-Bath-3-notes",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/thumb-46a95dfa83dd1fc1a96aaa998c1c249f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969960\/8e720\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The design of the Puj Tub came from a personal need. I'm a mother and bathing my baby was difficult I felt like this should be a bonding experience for us.\r\n\r\n It's such a simple bath tub. It makes bath time easy for me and my child feels safe and secure and they're happy.\r\n\r\n The Puj Tub is warm to the touch, its non-slip, it hangs and stores flat, it doesn't even absorb water, it folds easily, it fits into your bathroom sink, it's comforting to my baby and they feel safe and secure.\r\n\r\n So now when I give my baby a bath in the Puj Tub it's a bonding experience for us and there are no distractions. It's just so simple and intuitive that I don't have to think about it and I can just enjoy that time with my baby.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "28",
+        "9",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 138.65439,
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/8\/2015",
+    "created_date": "4\/8\/2015",
+    "creator": ""
+}

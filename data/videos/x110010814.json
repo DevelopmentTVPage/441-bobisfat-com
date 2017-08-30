@@ -1,0 +1,99 @@
+{
+    "title": "Graco On-The-Go Travel Pack N Play",
+    "description": "",
+    "referenceId": "59320",
+    "date_created": "1502526304",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010814",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Graco-On-The-Go-Travel-Pack-N-Play-2-notes",
+    "category": "",
+    "duration": "95",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "95",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/thumb-f3a16b9a34e5270c3319ac0a689c396a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010814\/beb71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "21"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 372.90244,
+    "delete": "",
+    "notes": null,
+    "uploader": "tim.klahr",
+    "modified_date": "1\/24\/2013",
+    "created_date": "",
+    "creator": null
+}

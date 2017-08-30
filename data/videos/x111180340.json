@@ -1,0 +1,105 @@
+{
+    "title": "Kitchen Aid Ravioli Attachment",
+    "description": "",
+    "referenceId": "3707",
+    "date_created": "1502924457",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180340",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Kitchen-Aid-Ravioli-Attachment",
+    "category": "",
+    "duration": "39",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "39",
+            "width": 504,
+            "height": 336
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ],
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/thumb-3707-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180340\/cc\/vtt\/en_1503518580.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 101.177216,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "6\/11\/2014",
+    "created_date": "",
+    "creator": null
+}

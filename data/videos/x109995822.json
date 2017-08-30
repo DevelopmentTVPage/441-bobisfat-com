@@ -1,0 +1,101 @@
+{
+    "title": "Resolving Technical Difficulties",
+    "description": "",
+    "referenceId": "1896679557",
+    "date_created": "1502523991",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109995822",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Resolving-Technical-Difficulties-3-notes",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/thumb-3178e2f7778dc090adb1740a5c0fe47e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995822\/1a69c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Jessica: Hi, I'm Jessica with Campus and Beyond from Bed Bath and Beyond. Nicole: And I'm Nicole. I'm an incoming freshman and Jess has been helping me set up my new room. Jessica: You look like you've got quite the electronics stash there. Nicole: I do, but seriously, I need it all. Jessica: I totally understand what you mean. How many outlets do you have? Nicole: Well, there's two outlets which means there's only four plugs. Jessica: Well what you need is a power strip I like this one cause it bends. And you can fit big plugs on it and it fits pretty much anywhere. Nicole: That's perfect. And that will protect everything from power surges right? Jessica: Exactly. Nicole: Now, what to do about this messy desk? Jessica: I usually put my cords in this little organizer. It keeps everything under control. Nicole: Oh, and this way I'll know where everything is, right? Jessica: Exactly! And this guy is my secret weapon. Nicole: What's that? Jessica: He's a little hub man. You connect him to your laptop and then you put all your USB devices on it like your camera and your phone. It's just so easy to use! Nicole: Wow! Is that it? Jessica: No, not really. I have something for you. I usually use this laptop lock to connect to my bed so I never have to worry about my laptop going missing. Nicole: I would hate it if my laptop was taken! Jessica: Right? Nicole: Can you use it other places? Jessica: Yeah. You can bring it to the library with you and that way, when you're taking break you don't have to bring your computer with you. Nicole: Wow, that's perfect! Jessica: Yeah, I think you're done with your gadgets now. Thanks! Jessica: Not a problem.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "21",
+        "26",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 17.030006,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/26\/2013",
+    "created_date": "",
+    "creator": null
+}

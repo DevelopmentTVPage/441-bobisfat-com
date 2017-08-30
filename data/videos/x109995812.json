@@ -1,0 +1,100 @@
+{
+    "title": "Room For Studying",
+    "description": "",
+    "referenceId": "1893444850",
+    "date_created": "1502523957",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109995812",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Room-For-Studying-3-notes",
+    "category": "",
+    "duration": "84",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "84",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/thumb-2a24c71d7d6b809a0e8472b05dd3d353-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995812\/ddebd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": ">>Hi, I'm Jessica for Campus and Beyond from Bed Bath and Beyond. >>And I'm Nicole. I'm an incoming freshman, and Jess here has been helping me setup my room. >>Now, Nicole, are you ready to start studying? >>Oh, yeah, I guess that's one of the things you're supposed to do here. >>Yeah. And if you want to make it a more pleasant experience, you have to make your work-space work for you. And I see you got the desk chair. It's built for working at a desk, and your back will thank you for it. And a lot of people forget to bring a desk lamp, but I see you have one of those, too. And you'll able to see everything on your desk. >>Yeah. I mean that's gonna be great for when I do manicures at my desk, right? >>Well, yeah, that, too. And it's a good thing you thought of bringing a book case because they don't always provide them. >>Yeah. I saw my book list and I was like \"I definitely need a book case\". >>And I'm thinking you're probably going to do a lot of your homework right on your bed. >>Yeah, that's what I'm thinking. So, I actually got this thing. It gives me light where ever I need it. And I got this laptop cooling pad, which keeps my laptop from getting too hot. And my thighs. >>Nice. >>Oh, and this lamp here? I bought that, too. I like it so much better than the overhead lights in the room. >>Yes it's nice to have a floor lamp, too. You don't want to be squinting at your textbooks. >>Or your manicure. >>Hmm, now that you mention it...",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "21"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 125.796326,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/25\/2013",
+    "created_date": "",
+    "creator": null
+}

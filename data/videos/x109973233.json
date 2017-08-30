@@ -1,0 +1,101 @@
+{
+    "title": "semi-round sensor can",
+    "description": "",
+    "referenceId": "1320051117",
+    "date_created": "1502519659",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973233",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sensor-semiround-1080-mov-2-notes",
+    "category": "",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "79",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/thumb-4b4f7f320240c8ba8d57f6fa27435ade-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973233\/948fb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "SIMPLEHUMAN'S SEMI-ROUND SENSOR CAN makes tossing trash convenient, fast and fun. Unlike traditional step-cans, sensor cans are fast and effortless. You don't even need to touch the can to open it. The can won't open unexpectedly. When you're in the middle of using it, the sensor can puts itself in \"task mode,\" so the lid won't close before you're finished with your task. Our SEMI-ROUND SENSOR CAN features a flat back, so it fits easily against a wall. And its built-in mechanism allows for the widest opening possible. You won't have to worry about changing batteries all the time, either. They last up to one year with regular use. The SEMI-ROUND SENSOR CAN also features a trim ring that flips up and deactivates the sensor temporarily for easy and convenient liner changes. SIMPLEHUMAN'S SEMI-ROUND SENSOR CANS. Say goodbye to traditional trash cans and say hi to SENSOR.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "4",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.606443,
+    "delete": "",
+    "notes": null,
+    "uploader": "samir.p.shah",
+    "modified_date": "10\/9\/2013",
+    "created_date": "",
+    "creator": null
+}

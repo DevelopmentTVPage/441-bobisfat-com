@@ -1,0 +1,99 @@
+{
+    "title": "ICoffee&reg; Opus Single Serve Brewer",
+    "description": "",
+    "referenceId": "1191940423",
+    "date_created": "1502518583",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109968864",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ICoffee\u00c2-Opus-Single-Serve-Brewer-3-notes",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/thumb-71025c9f89d2452a17b5ab0e99ec6d6a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968864\/992ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Introducing iCoffee, a single-serve brewer that is guaranteed to accept all K-type cups. iCoffee works with every K-cup, as well as RealCup capsules, One Cup and all private label cups from every brand and maker.\r\n\r\nPlus you can use your own favorite coffee with our reusable iCup. iCoffee brews faster than fast, hotter than hot and smoother than smooth. How? It\u0092s iCoffee\u0092s spin brew technology. With conventional brewers, water travels straight through. iCoffee\u0092s exclusive spin-brew needle uses jets to spin, steam and stir right inside the cup. Creating a mini French press-like effect, that virtually eliminates any bitter or acidic after taste.\r\n\r\nWith Dial-a-Brew, you choose any size beverage from 4 to 12 ounces, allowing you to customize the strength and flavor. It\u0092s the perfect taste control.\r\n\r\nNo other single-serve brewer can do what iCoffee does! Your beverage comes out faster than fast, hotter than hot and always smoother than smooth.\r\n\r\n\r\n\r\nFinally the way coffee lovers expect coffee to taste from a single-server brewer. One sip....and you\u0092ll agree. iCoffee, the perfect blend of taste, innovation and technology. From Remington.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 233.44576,
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "12\/29\/2014",
+    "created_date": "12\/29\/2014",
+    "creator": null
+}

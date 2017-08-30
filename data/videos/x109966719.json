@@ -1,0 +1,100 @@
+{
+    "title": "2014 instore real simple shelving video.mov",
+    "description": "",
+    "referenceId": "1148133334",
+    "date_created": "1502518122",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109966719",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "2014-instore-real-simple-shelving-video-mov-2-notes",
+    "category": "",
+    "duration": "242",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "242",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "242",
+        "prettyDuration": "00:04:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/thumb-bc84503ef8de3f2bbb28b4f7c3729b9f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966719\/eff10\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The Decorative Shelve, Cubes and Rectangles by Real Simple were designed exclusively for Bed Bath and Beyond. Our Easy Mount system makes it simple and hassle free to hang any of the 3 decorative shelving units.   The set of 3 decorative shelves are available in varied finishes, which allows you to personalize the look to your unique style.  The set of 3 decorative rectangles are available in an espresso wood grain finish They can be installed horizontally or vertically to fit your unique style.  The set of 3 decorative cubes are available in black wood grain finish. The combination of small, medium, and large shelving add detailed design look in any home setting. Installation will be trouble-free with the template and built in level.  The easy mount brackets and its hardware will secure each shelf properly. Bottom screws ensure the shelf is held in place.\r\n\r\nTo install use the template with built in level and select where you want drill.\r\n\r\nMake sure the \u0093this side up\u0094 arrow is pointing up. Use the bubble level to ensure the template is straight before marking holes. Marking holes with a pencil is a great way to make sure you\u0092re drilling exactly where you need to be. Next drill onto your penciled marks and insert the anchor pins into the wall by pinching the anchor wings back.   After your anchor pins are in place take your mounting bracket and line the holes up on the bracket with the anchor pins. Make sure the arrow on the mounting bracket is facing up. Once you have everything lined up. Screw the mounting bracket into the anchor pins.  Take your shelving unit and identify the top and bottom of the shelf. The bottom which has the small drill holes should be facing down. Slide the shelf onto the mounting bracket.  Lastly screw the shelf from the bottom to finish the installation.  Use the stickers found inside the box to cover screw for a more finished looked. \r\n\r\nNot only are the decorative Shelves, cubes, and rectangle easy to install they also come in varied styles to fit all taste.  The Decorative Shelves, Cubes and Rectangles are part of the Real Simple Collection. They are available exclusively online and at select Bed Bath & Beyond stores.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 26.403439,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/7\/2014",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "5059GRAN6600rev1 H264",
+    "description": "",
+    "referenceId": "4438",
+    "date_created": "1502924596",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180430",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "5059GRAN6600rev1-H264-FT5829",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/thumb-4438-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180430\/02a3b\/media.m3u8"
+    },
+    "transcripts": "DeLonghi Gran Dama Espresso Machine\r\n\r\nThe sleek, stainless steel Gran Dama is ideal for the high-end kitchen. The bright blue LCD display provides adjustable start time, DeLonghi Gran Dama Espresso Machineauto shut-off and clock functions, and there are five settings for coffee strength from extra-mild to extra-strong. A piped double boiler eliminates wait time between brewing and steaming and its patented, single touch system with latte, cappuccino and macchiato settings makes the perfect brew. The coffee spouts can be adjusted to accommodate any size mug and the convenient cup warmer preheats your cup perfectly. DeLonghi's professional quality, low-pitch conical burr grinder delivers fast, consistent grinds without excessive noise and the built-in frothing system not only froths and steams automatically, but it is also self cleans - a rare feature in a frother! Includes a detachable 25-ounce milk container and a 60-ounce removable water tank. Features a 1-3 hour adjustable automatic shut off. All parts are dishwasher safe. UL listed. Model ESAM6600.\r\n\r\nWith single-touch buttons for cappuccino, latte and Italian macchiato a whole range of fully programmable digital functions, a built-in professional quality grinder, and sleek Italian design, the Gran Dama Digital Super Automatic Espresso Machine from DeLonghi is an incredible combination of style and performance.\r\n\r\nIt all starts with the beans.  The integrated conical burr grinder gives you the freshest taste possible, since what you grind is what you brew.  Choose the settings you want, then brew instantly for exquisite crema and unsurpassable flavor.  And the quality, stainless steel piped double-boiler means there\u0092s no wait between espresso and steam, allowing you to make a perfect cappuccino or macchiato at the touch of a button.\r\n\r\nThere\u0092s an instant reheat function, so you\u0092re always ready to brew.  Adjustable spouts to fit your cup of choice.  An automatic cleaning message is displayed to let you know when it\u0092s time to decalcify the machine.  And the patented and compact brewing system is easily removable for convenient cleaning.\r\n\r\nIt\u0092s so easy to use, all you really have to do is sit back and enjoy the performance, convenience, and exquisite flavor of the Gran Dama Digital Super Automatic Espresso Machine from DeLonghi.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3082.5789,
+    "delete": "",
+    "notes": null,
+    "uploader": "bhilgendorf",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

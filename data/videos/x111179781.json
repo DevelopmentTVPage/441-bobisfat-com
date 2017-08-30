@@ -1,0 +1,105 @@
+{
+    "title": "Breville Art of Coffee Series - Latte Art - Tulip",
+    "description": "",
+    "referenceId": "11267",
+    "date_created": "1502923122",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179781",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Breville-Art-of-Coffee-Series-Latte-Art-Tulip",
+    "category": "",
+    "duration": "59",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "59",
+            "width": 592,
+            "height": 332
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/thumb-11267-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179781\/cc\/vtt\/en_1503533578.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 676.11536,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "6\/2\/2013",
+    "created_date": "4\/30\/2010",
+    "creator": null
+}

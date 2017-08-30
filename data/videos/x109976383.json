@@ -1,0 +1,99 @@
+{
+    "title": "Climate Control",
+    "description": "",
+    "referenceId": "1380802804",
+    "date_created": "1502520043",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109976383",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Climate-Control-3-notes",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/thumb-f1ee386c78b571d522c0605c1fafe2c1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976383\/89c5f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Jessica from Campus and Beyond from Bed Bath & Beyond. And I'm Nicole. I'm an incoming freshman and Jess here has been helping me set up my new room. Jess it's so hot in here though, aren't you hot? Yeah, it's hard to control the temperature in your room when you can't control the thermostat, but that's why you have to come prepared. With what? My own personal air conditioner? No,a fan. I mean, you need a floor fan and a desk fan to keep it cool in here or you can have a portable fan. This one has a cord and batteries so you can carry it where ever you need to. Hey, that's pretty nice! Oh, and please tell me you have something lighter than this comforter? Oh yeah, I have this light weight blanket here, comforters only make it look nice. In a couple months you're going to wish it was hotter I know, hard to imagine right now but Trust me, these rooms get pretty chilly but it's so easy to get cozy and you're already half way there with this comforter. Yeah, it is pretty comfy and the blanket will be good as an extra layer when it gets really cold. Perfect! I use this cuddly throw for wrapping around me when I'm studying or for an extra layer at night. Yeah. I've even got flannel sheets too, but I just hate being cold. Hey, you know why don't we try this thing",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 220.77025,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/3\/2013",
+    "created_date": "",
+    "creator": null
+}

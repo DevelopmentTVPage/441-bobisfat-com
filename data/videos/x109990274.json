@@ -1,0 +1,102 @@
+{
+    "title": "Make Your Bed Better",
+    "description": "",
+    "referenceId": "1706204378",
+    "date_created": "1502522582",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109990274",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Make-Your-Bed-Better-3-notes",
+    "category": "",
+    "duration": "117",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "117",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "117",
+        "prettyDuration": "00:01:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/thumb-8041886f1642eeb65181cb11178aa731-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990274\/492d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": []
+    },
+    "transcripts": "Jessica:Hi I'm Jessica for Campus and Beyond from Bed Bath & Beyond with tips on how to make your bed better. Nicole's just moved into her room and she is not very happy about this bed. Nicole:Yeah. This mattress is terrible. Jessica:Yeah and other people have slept on it before. Nicole: Eww. Gross. I hadn't even thought about that. Jessica: But I know the solution. I got totally grossed out too, but Bed Bath & Beyond hooked me up with a mattress protector. This protector encases the mattress creating a barrier between you and the bed and it keeps out dust mites and bed bugs. Nicole: Eww. I wouldn't want any of those. Jessica: Now let's talk comfort. On top of the protector we added a foam mattress topper, its soft and gives support and I have one too it is so comfortable. Nicole: Yeah. I can tell.It's awesome. Jessica:Another option is a fiber bed which is a slightly different feel. More squishy. Nicole: Yeah, your right, but I kinda like them all together. Jessica: Nice sheets. Nicole: Thanks. I had to get these sheets called Twin XL. I had never even heard of them before. Jessica: Yeah well a lot of colleges have extra long mattresses. Nicole: Yeah, I mean the nice thing is that I got to buy a new pair of sheets. Feel them they are so comfy. Jessica: They are so nice. You know Bed Bath & Beyond has a ton of Twin XL sheets you can choose from so you can get the style and color you want. Nicole I love your comforter its so quirky, and fun and colorful and these pillows are so cool. Nicole: I know right.Thanks. Jessica: You're welcome. Do you get a body pillow? Nicole: I did and its so comfortable. Jessica: I know it provides a lot of support when you are leaning against the wall. Nicole: Right and I figured why not incorporate my own style into it. I mean this is the centerpiece of my room and all. Jessica: Exactly and plus this is where you're going to study and where your friends are going to hang out. Nicole: Exactly! Jessica: So, that's how you make your bed better.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "9",
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 193.57741,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/26\/2013",
+    "created_date": "",
+    "creator": null
+}

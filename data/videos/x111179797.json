@@ -1,0 +1,97 @@
+{
+    "title": "Mr. Coffee Cafe Frappe",
+    "description": "",
+    "referenceId": "11301",
+    "date_created": "1502923166",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179797",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Mr-Coffee-Cafe-Frappe",
+    "category": "",
+    "duration": "38",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "38",
+            "width": 500,
+            "height": 300
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 300
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 300
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 300
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 300
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 192
+            }
+        ],
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/thumb-11301-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179797\/9d30f\/media.m3u8"
+    },
+    "transcripts": "Mr. Coffee Caf\u00e9 Frappe\r\n\r\nSo how do you frappe? With the Mr. Coffee Caf\u00e9 Frappe, it's easy to make gourmet frozen creations right at home. Just add coffee to the brew basket, then add ice and your favorite ingredients to the blender jar. With the touch of a button, Caf\u00e9 Frappe quickly brews the coffee, then blends automatically, turning your countertop into a customized coffeehouse.\r\n\r\nAnd since you make them yourself, they can be as healthy or as decadent as you wish. So whip up a few of our favorites from the included recipe booklet.\r\n\r\nMr. Coffee Caf\u00e9 Frappe, the easy one-touch way to make frosty frappes in minutes. That's how you frappe.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 912.08295,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/4\/2010",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "CSR - Fagor Induction - Part 2",
+    "description": "",
+    "referenceId": "27894",
+    "date_created": "1502924055",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180183",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "CSR-Fagor-Induction-Part-2-2-notes",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/thumb-27894-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/media.m3u8"
+    },
+    "transcripts": "Fagor also offers a line of small electrics that provide a fast, healthy and versatile way to cook. Fagor's Portable Induction Cooktop is made with a durable, easy-to-clean, high quality EUROKERA glass surface. Has temperature settings that range from 190 to 430 degrees Fahrenheit with 6 power level settings to meet all of your cooking needs. Is safe to use, the unit will not generate heat and will shut off automatically after one minute if no cookware is detected. Has a built in digital timer. Must be used with cookware that has a ferromagnetic bottom that a magnet will stick to. All Fagor cookware is induction compatible. Uses regular household, 110 volt electrical power and is UL approved. Fagor's Electric Multi Cooker features programmable timer for up to 8 hours of delay and an LED screen with soft-touch control buttons. Has a self-locking lid and an automatic pressure release setting for your convenience. Comes with two independent pressure control valves and anti-overheating protection for added security. Has an exterior made of brushed stainless steel. Requires regular 110 volt household power. Is ETL approved.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "33",
+        "12",
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 144.64246,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "6\/10\/2014",
+    "created_date": "",
+    "creator": null
+}

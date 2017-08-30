@@ -1,0 +1,101 @@
+{
+    "title": "Roomates",
+    "description": "",
+    "referenceId": "1585620529",
+    "date_created": "1502521699",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109983950",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Roomates-3-notes",
+    "category": "",
+    "duration": "108",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "108",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "108",
+        "prettyDuration": "00:01:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/thumb-0081a732c41636f9f5175205bf494dcb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983950\/1f113\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Living with a roommate can be fantastic or a challenge. Here are some tips. Before school starts, meet with your roommate online or on the phone and talk logistics. There might be things you can share. Find out what your school allows and doesn't by using Bed Bath and Beyond's college information sheet. For example, one of you can bring a rug to warm up your common space, while the other is responsible for the curtains. Another point, personal style. If your into slick and modern and your roommate is all about pink and girly, you'll have to compromise. With shared things like lighting, try to find something neutrally agreeable, or just keep your style to your side of the room. Are you a morning person or a night owl? Your roommate may be the opposite. Curtains, headphones, and ear plugs all help, but there will be times when your just want to be left alone. Talk it through with your roommate on how to manage me time. Maybe your someone who likes your things just so. Will it bother you if she sits on your bed or borrows your computer? Let your roommate know what's cool and what isn't from the start. Food, it's one of the most common roommate fights. Don't dip into her precious junk food stash if she's not okay sharing, no matter how hungry you are. Then there's how to define clean. You might think no visible dirt or smells is enough, while your roomie maybe be more of a clean freak. And last but not least, a good dry erase board has saved more than one roommate relationship. Communicating well is the key, and it keeps little issues from becoming big ones. These tips for living with a roommate are brought to you by Bed Bath and Beyond. Get the things you need for college at Bed Bath and Beyond. Shop at your nearest store or online.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "21",
+        "4",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.677269,
+    "delete": "",
+    "notes": null,
+    "uploader": "felipe.deleon",
+    "modified_date": "7\/3\/2013",
+    "created_date": "",
+    "creator": null
+}

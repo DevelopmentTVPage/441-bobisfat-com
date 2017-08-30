@@ -1,0 +1,100 @@
+{
+    "title": "Nap Nanny Baby Sleep Positioner",
+    "description": "",
+    "referenceId": "9651",
+    "date_created": "1502526438",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010877",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Nap-Nanny-Baby-Sleep-Positioner",
+    "category": "",
+    "duration": "55",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "55",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/thumb-211d754b4e1228d99a256052c786d863-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010877\/da128\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Nap Nanny\u0099 Baby Sleep Positioner\r\n\r\nThe Nap Nanny\u00ae is a groundbreaking product designed by a mother to help improve infant sleep. This portable baby recliner has a special Nap Nanny Baby Sleep Positionerharness making sure baby sleeps safely and securely at a 30\u00b0 incline. I's designed to help comfort and improve sleep for all babies and may be helpful for those with colic, reflux, gas, colds and earaches. Its waterproof liner protects the foam for greater longevity and durability. The Nap Nanny\u00ae is portable and stores easily. It's also ideal for bottle feeding twins simultaneously. (Never leave on an elevated surface. Never leave child unattended.) Measures 32\" L x 17 1\/2\" W x 10\" H. For infants weighing eight pounds and above.\r\n\r\nThis is the Nap Nanny.  It's an infant recliner designed to help infants sleep. It features a 30 degree angle along the back which doctors often recommend for babies with reflux, colds, colic, or ear infections.\r\n\r\nThe front is angled at 40 degrees to keep the baby from sliding, and it has side panels to hold the baby in place.\r\n\r\nIt's easy to use. Simply place the Nap Nanny on the floor, put the baby into the recliner and secure them with the point harness.\r\n\r\nThe Nap Nanny includes a washable cover with a waterproof liner to protect the foam. To remove the cover, simply unzip the bottom and unlatch the Velcro straps inside. At three pounds, it's lightweight and portable.\r\n\r\nIn addition, once your baby has outgrown the Nap Nanny for sleeping, it seconds as a toddler chair with no top end weight limit.\r\n\r\nYou can buy Nap Nanny at a buy buy Baby near you, or online at buybuyBaby.com.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}}}",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1840.8877,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "9\/21\/2012",
+    "created_date": "3\/18\/2010",
+    "creator": null
+}

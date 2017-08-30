@@ -1,0 +1,97 @@
+{
+    "title": "5685PrimulaTea",
+    "description": "",
+    "referenceId": "4313",
+    "date_created": "1502924590",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180426",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "5685PrimulaTea-FTP5785",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "60",
+            "width": 320,
+            "height": 240
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/thumb-4313-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180426\/aa264\/media.m3u8"
+    },
+    "transcripts": "Primula Tea\u00ae Flowering Teas (12-Pack)\r\n\r\nExperience the health benefits of green tea like never before. Artisans in China have blended handpicked green tea leaves with jasmine Primula Tea Flowering Teasthen combined the mixture with different dried flowers to create an encapsulated pod. Simply place a tea pod in a teapot, pour boiling water over the pod, and watch it magically unfurl into an exquisite flower as it steeps. Includes twelve exotic teas: Floral Passion, Wild Flowers, Juliet's Kiss, Oriental Beauty, Guilded Lotus, Noble Madam, London Fog, Fairy Lily, Lover's Blossom, Camellia Joy, Butterfly Floret, and Summer Boquet. Tea flowers are packed in an attractive cardboard container with a green rope handle.\r\n\r\nIn the world of tea, something extraordinary is brewing.  Introducing Primula Flowering Teas, a one of a kind tea experience.  Our secret is that we handpick the finest tea leaves, infuse a beautiful flower in the center, and compress it into a tea flower.\r\n\r\nSimply place the tea flower in the pot, add hot water, and watch as the magic happens.  The flower blooms while the tea brews.  It tastes as good as it looks.  It\u0092ll really spark up a party.\r\n\r\nServe Primula Flowering Teas at your next get together and watch the reaction.  And because Primula is rich in natural, healthy antioxidants, it\u0092s better for you, your kids, everyone.  Wakeup your senses with the flavor and aroma of jasmine, peach, vanilla, and peppermint.\r\n\r\nOrder right now, and receive 12 individually packaged tea flowers.  That\u0092s 180 cups of tea.  Share the Primula tea experience.  Order now.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1421.6631,
+    "delete": "",
+    "notes": null,
+    "uploader": "bhilgendorf",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

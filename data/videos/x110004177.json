@@ -1,0 +1,100 @@
+{
+    "title": "CTA Wi-Bowl Bowling Ball for Wii",
+    "description": "",
+    "referenceId": "35315",
+    "date_created": "1502524986",
+    "date_modified": "1504049172",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110004177",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "CTA-Wi-Bowl-Bowling-Ball-for-Wii",
+    "category": "",
+    "duration": "159",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "159",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "159",
+        "prettyDuration": "00:02:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/thumb-36d45b3d958af4e6913c990688da1a2c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004177\/5da3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Another quality innovation from CTA Digital. Turn every Wii bowling experience into a perfect 300 with the bowling ball for Wii from CTA Digital. This ultra realistic accessory allows you to mimic all the critical motions a striking performance requires. This peripheral is the first of its kind to be fashioned after an authentic bowling ball, turning your Wii remote into the optimum performance enhancing accessory. The ball has been scaled to feel like a real bowling ball, yet it only weighs a little over one pound: all of the fun without the fatigue. Your Wii remote actually fits inside the ball. And, the ingenious design provides for you to operate any of the controls from buttons on the outside of the ball. To operate, simply press the release button to open the ball. The two halves are safely held together by the wrist strap. Place the Wii remote into the compartment inside and close the ball. There is even room for a Wii Motion Plus adaptor, if you have one. Once the remote is set inside, put your thumb and fingers into the three holes just like you would a real bowling ball. You can turn on the power, zoom in and out and even move the position. The B button is conveniently placed right where you need it. The ball comes with a special wrist strap to keep the ball safely in your hand. The strap is adjustable to fit any size hand; just tighten the strap to fit comfortably around your wrist, lock the strap in place and you're ready to bowl virtual strikes like a pro. The package includes one Wii bowling ball with the attached adjustable wrist safety strap and six removable finger plugs to make the finger holes exactly your size. It's compatible with all these Wii games and any other Wii bowling games that require the Wii remote. The bowling ball for Wii: another quality innovation from CTA Digital.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "22",
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 240.94167,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "5\/27\/2013",
+    "created_date": "11\/2\/2011",
+    "creator": null
+}
