@@ -1,0 +1,1281 @@
+{
+    "pageNumber": 29,
+    "data": [
+        {
+            "id": "111180001",
+            "title": "Making Amaretto Cookies w Breville Stand Mixer",
+            "date_created": "1502923639",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "300",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "300",
+                "prettyDuration": "00:05:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/thumb-16429-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180001\/119b6\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180001\/cc\/vtt\/en_1503537713.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/making-amaretto-cookies-w-breville-stand-mixer\/111091684-111180001"
+        },
+        {
+            "id": "111180000",
+            "title": "Baking a Lemon Meringue Napoleon w Breville Stand Mixer",
+            "date_created": "1502923636",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "214",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "214",
+                "prettyDuration": "00:03:34",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/thumb-16424-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180000\/8b8a1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180000\/cc\/vtt\/en_1503536852.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/baking-a-lemon-meringue-napoleon-w-breville-stand-mixer\/111091684-111180000"
+        },
+        {
+            "id": "111179999",
+            "title": "Breville BEM800XL 5-Quart Die-Cast Stand Mixer",
+            "date_created": "1502923635",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/thumb-16402-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179999\/3cdd1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179999\/cc\/vtt\/en_1503536579.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-bem800xl-5-quart-die-cast-stand-mixer\/111091684-111179999"
+        },
+        {
+            "id": "111179998",
+            "title": "Microplane Pizza Cutter",
+            "date_created": "1502923634",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/thumb-1632550016-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179998\/12800\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/microplane-20pizza-20cutter-mp4-2-notes\/111091684-111179998"
+        },
+        {
+            "id": "111179997",
+            "title": "Soda Stream Soda Machine",
+            "date_created": "1502923631",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "128",
+                    "width": 872,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 872,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 872,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 470
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 352
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 176
+                    }
+                ],
+                "mediaDuration": "128",
+                "prettyDuration": "00:02:08",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/thumb-16265-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/soda-stream-soda-machine-223-notes\/111091684-111179997"
+        },
+        {
+            "id": "111179996",
+            "title": "Kenneth Cole Reaction Home Etched Floral Comforter Set",
+            "date_created": "1502923625",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/thumb-1618943417-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179996\/53162\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-etched-floral-comforter-set-2-notes\/111091684-111179996"
+        },
+        {
+            "id": "111179995",
+            "title": "BBB TESTONLY",
+            "date_created": "1502923621",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "143",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "143",
+                "prettyDuration": "00:02:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/thumb-16160-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179995\/81d00\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bbb-testonly\/111091684-111179995"
+        },
+        {
+            "id": "111179994",
+            "title": "Fagor Portable Induction Cooktop",
+            "date_created": "1502923620",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "177",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "177",
+                "prettyDuration": "00:02:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/thumb-16063-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179994\/cc\/vtt\/en_1503536560.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/fagor-portable-induction-cooktop\/111091684-111179994"
+        },
+        {
+            "id": "111179993",
+            "title": "Passport Bath Ensemble",
+            "date_created": "1502923620",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/thumb-1604423368-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179993\/09334\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/passport-bath-ensemble-2-notes\/111091684-111179993"
+        },
+        {
+            "id": "111179992",
+            "title": "LG Life's Good Kompressor Plus Upright Vacuum -LuV300B",
+            "date_created": "1502923618",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 960,
+                    "height": 540
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/thumb-16016-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179992\/2f87d\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179992\/cc\/vtt\/en_1503536538.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/lg-life-s-good-kompressor-plus-upright-vacuum-luv300b\/111091684-111179992"
+        },
+        {
+            "id": "111179991",
+            "title": "LG Life's Good Kompressor Pet Care Upright Vacuum - LuV200R",
+            "date_created": "1502923615",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 960,
+                    "height": 540
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/thumb-16015-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179991\/97339\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/lg-life-s-good-kompressor-pet-care-upright-vacuum-luv2\/111091684-111179991"
+        },
+        {
+            "id": "111179990",
+            "title": "Sealy Select Crib Mattress",
+            "date_created": "1502923610",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/thumb-15995-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179990\/4c52a\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sealy-select-crib-mattress\/111091684-111179990"
+        },
+        {
+            "id": "111179989",
+            "title": "Bona Kemi Mop Commercial BRANDED Bed Bath Comp",
+            "date_created": "1502923608",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "70",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/thumb-15962-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179989\/bcf6f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bona-kemi-mop-commercial-branded-bed-bath-comp\/111091684-111179989"
+        },
+        {
+            "id": "111179988",
+            "title": "Cuisinart CCP 10 Cookie Press",
+            "date_created": "1502923606",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "95",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "95",
+                "prettyDuration": "00:01:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/thumb-15856-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179988\/8d116\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179988\/cc\/vtt\/en_1503536517.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ccp-10-cookie-press\/111091684-111179988"
+        },
+        {
+            "id": "111179987",
+            "title": "Cuisinart WAF 100 4 Slice Belgian Waffle Maker",
+            "date_created": "1502923605",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "101",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "101",
+                "prettyDuration": "00:01:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/thumb-15855-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-waf-100-4-slice-belgian-waffle-maker\/111091684-111179987"
+        },
+        {
+            "id": "111179986",
+            "title": "Cuisinart WCH 1500 Clean Water Water Filtration System",
+            "date_created": "1502923603",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "179",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "179",
+                "prettyDuration": "00:02:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/thumb-15853-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-wch-1500-clean-water-water-filtration-system\/111091684-111179986"
+        },
+        {
+            "id": "111179985",
+            "title": "Cuisianrt CDF 100 Deep Fryer",
+            "date_created": "1502923603",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/thumb-15852-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179985\/40dbe\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179985\/cc\/vtt\/en_1503536486.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisianrt-cdf-100-deep-fryer\/111091684-111179985"
+        },
+        {
+            "id": "111179984",
+            "title": "Cuisinart SmartPower Duet Blender Food Processor",
+            "date_created": "1502923601",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "189",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "189",
+                "prettyDuration": "00:03:09",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/thumb-15850-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179984\/23b87\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-smartpower-duet-blender-food-processor\/111091684-111179984"
+        },
+        {
+            "id": "111179983",
+            "title": "Cuisinart CSB 77 Smart Stick Hand Blender",
+            "date_created": "1502923598",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "114",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "114",
+                "prettyDuration": "00:01:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/thumb-15849-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179983\/5e326\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-csb-77-smart-stick-hand-blender\/111091684-111179983"
+        },
+        {
+            "id": "111179982",
+            "title": "Cuisinart WCH 1000 Clean Water Water Flitration System",
+            "date_created": "1502923597",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "111",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "111",
+                "prettyDuration": "00:01:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/thumb-15848-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179982\/c8429\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-wch-1000-clean-water-water-flitration-system\/111091684-111179982"
+        }
+    ]
+}

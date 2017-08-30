@@ -1,0 +1,103 @@
+{
+    "title": "Wagan Deluxe Velour Heated Seat Cushion",
+    "description": "The luxuriously-soft and warm Wagan Deluxe Velour Heated Seat Cushion makes any car seat cozier. Features an ergonomic hand controller with 3 modes and an integrated pressure pad with auto shut-off safety feature. Includes a 12V car adapter.",
+    "referenceId": "c5d49d3620345f2ef396a0d24b6d57bb",
+    "date_created": "1503340196",
+    "date_modified": "1503590510",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "n_a",
+    "id": "112311833",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "DeluxeVelourHeatedSeatCushion-60749253-mp4",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "65",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/thumb-c5d49d3620345f2ef396a0d24b6d57bb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/112311833\/0c1af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4757.572,
+    "delete": "",
+    "notes": "No spoken words. Closed Captions not needed.",
+    "uploader": "Maya Cherbaka",
+    "modified_date": "",
+    "created_date": "",
+    "creator": "Vendor"
+}

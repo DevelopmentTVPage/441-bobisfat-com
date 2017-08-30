@@ -1,0 +1,97 @@
+{
+    "title": "Calphalon 4 Qt Digital Slow Cooker",
+    "description": "",
+    "referenceId": "34364",
+    "date_created": "1502924377",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180311",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Calphalon-4-Qt-Digital-Slow-Cooker-2-notes",
+    "category": "",
+    "duration": "76",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "76",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "76",
+        "prettyDuration": "00:01:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/thumb-34364-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180311\/7d449\/media.m3u8"
+    },
+    "transcripts": "Presenting the 4 Qt. Digital Slow Cooker from the Calphalon Kitchen Electrics Collection. Delicious home-cooked meals can be prepared up to 24 hours in advance.\r\n\r\nSimply set the easy to use digital timer and the slow cooker will have your meal perfectly cooked and ready to serve at your chosen time. Select from high, low and warm heat settings. The slow cooker automatically switches to warm at the end of the cooking cycle to keep your food at serving temperature so food is ready when you are.\r\n\r\nIt\u009ds great for every day and entertaining.\r\n\r\nThe cool touch handles stay comfortable even through extended cooking times.\r\n\r\nAnd when it\u009ds time to clean up the removable crock and cover can go right in the dishwasher and the cord neatly wraps underneath the base for travel or storage.\r\n\r\nCalphalon\u009ds exclusive Opti-Heat system ensures accurate temperature control and even heat delivery for reliable results you can count on every time.\r\n\r\nThe Calphalon 4 Qt. Digital Slow Cooker, style, performance, simplicity.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 291.78473,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "10\/14\/2011",
+    "created_date": "10\/14\/2011",
+    "creator": null
+}

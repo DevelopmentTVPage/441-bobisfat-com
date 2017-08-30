@@ -1,0 +1,101 @@
+{
+    "title": "Cares",
+    "description": "",
+    "referenceId": "6030",
+    "date_created": "1502526396",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010865",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Cares-FT7654",
+    "category": "",
+    "duration": "234",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "234",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "234",
+        "prettyDuration": "00:03:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/thumb-07a39c7f3095849a96cb3dfb67d5ece4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010865\/34d20\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "CARES\u0099 Child Aviation Safety Restraint\r\n\r\nThe CARES\u0099 aviation restraint is an elegantly designed belt and buckle device for kids 22 to 44 pounds. It is easy to use and creates a safe airplane seat for your child without the hassle of carrying a 20  CARES Child Aviation Safety Restraintpound car seat. It is the only harness type child aviation safety restraint certified by the FAA. It weighs just one pound and fits into a 6\" stuff sack. It's simple to install, adjustable to virtually any size airplane seat, and keeps your child as safe as a car seat would. Made of the same industrial-strength webbing as your own seatbelt, it is engineered and manufactured by AmSafe Aviation, the world's foremost manufacturer of airline seatbelts. Includes restraint, stuff sack and instructional DVD.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "25",
+        "12",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 895.71796,
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "12\/8\/2011",
+    "created_date": "12\/7\/2009",
+    "creator": null
+}

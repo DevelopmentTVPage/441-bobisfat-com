@@ -1,0 +1,101 @@
+{
+    "title": "How To Carve a Turkey",
+    "description": "",
+    "referenceId": "1309625473",
+    "date_created": "1502519585",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973199",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Carve-a-Turkey",
+    "category": "",
+    "duration": "127",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "127",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "127",
+        "prettyDuration": "00:02:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/thumb-b2494bed50d1477bf9f904cb10ed42e1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973199\/a426a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "14",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 79.28045,
+    "delete": "",
+    "notes": null,
+    "uploader": "kkelly",
+    "modified_date": "3\/15\/2013",
+    "created_date": "10\/15\/2012",
+    "creator": null
+}

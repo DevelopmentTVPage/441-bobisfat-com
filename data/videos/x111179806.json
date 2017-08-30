@@ -1,0 +1,98 @@
+{
+    "title": "BONA Hardwood Floor Mop",
+    "description": "",
+    "referenceId": "11333",
+    "date_created": "1502923192",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179806",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "BONA-Hardwood-Floor-Mop",
+    "category": "",
+    "duration": "94",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "94",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/thumb-11333-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179806\/909ac\/media.m3u8"
+    },
+    "transcripts": "Bona\u00ae Hardwood Floor Mop Kit and Floor Cleaner Refills\r\n\r\nJust spray, clean and enjoy the natural beauty of your hardwood floors. The Bona\u00ae Hardwood Floor Mop takes easy cleaning to the next level BONA Hardwood Floor Mopby combining a high quality cleaner with a durable, premium spray mop and washable microfiber pad. It is quick and easy to use, safe for wood, and leaves no dulling residue. Includes mop, one 28 3\/4 ounce cartridge of Bona\u00ae Hardwood Floor Cleaner, microfiber cleaning pad and a hardwood floor care guide.\r\n\r\nIf you're cleaning wood floors with vinegar, all-purpose cleaners or just dust mopping, stop!  They will dull your floors!  I have great news if you have hardwood floors.  Get a professional clean with the new  Hardwood Floor Mop from BONA, the world leader in hardwood floor care since 1919.   Now this professional cleaner is available for your home.  BONA's non toxic cleaner combined with their durable premium micro fiber spray mop, makes caring for your hardwood floors quick, easy and safe.  There's no mixing, no buckets, no batteries.  Just spray and clean.  It's safe for your floors, your family, and the environment.  \r\n\r\nAnd unlike flimsy squirt mops that dribble and break, the lightweight  BONA mop is built to last and sprays a controlled mist, just where you want it.  You know, lots of folks think their floors are clean just from dust mopping but they're not.  Dust mops just move the dust but spray the cleaner from the BONA Hardwood Floor Mop and pick up every last speck.  \r\n\r\nProfessionals rely on BONA products because they're safe and formulated to be used on all types of wood.  Unlike other mops, the Bona Hardwood Floor Mop won't streak and won't leave behind a dulling residue.  \r\n\r\nIt removes tough dried on sticky stains quickly and easily.  Plus the pads are washable and reusable, saving you money versus disposables.  Ordinary mops push the dirt around.  BONA's micro fiber mop pad grabs and traps the mess and locks it in.  Trust BONA to bring out the best in your hardwood floors and clean like the pros!",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2476.6753,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/1\/2010",
+    "creator": null
+}

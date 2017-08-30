@@ -1,0 +1,107 @@
+{
+    "title": "Brookstone Aero Wine Aerator",
+    "description": "",
+    "referenceId": "1971307611",
+    "date_created": "1502524648",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110002048",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Brookstone-Aero-Wine-Aerator-3-notes",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "51",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/thumb-d529d340ccfad22cb3484cd6fa60d6b4-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002048\/51386\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/110002048\/cc\/vtt\/en_1503689474.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 29.197662,
+    "delete": "",
+    "notes": null,
+    "uploader": "christina.steel",
+    "modified_date": "10\/17\/2013",
+    "created_date": "10\/17\/2013",
+    "creator": null
+}

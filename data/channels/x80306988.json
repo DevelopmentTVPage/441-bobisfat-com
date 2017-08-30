@@ -1,0 +1,21 @@
+{
+    "title": "14248 - Laundry Care",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1479255848",
+    "date_modified": "1479255848",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "80306988",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "14248-Laundry-Care",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "__SMARTLIST__": "$channels = array(67264710,66716699,66658652,66281476,66185736,7163988,7163985,6410338,6410336,6410335,6410334,6288535,6288482,6288382,6288329,6287553,6287504,6287449,6287448,6287393,6287340,6287240,6287008,6286995,6286856,6286802,6286047);\nforeach ($channels as $channel) {\n\n    RE::add(\n        RE::videos(\n            RE::condition()\n                ->compare('category1', '12062')\n                ->order('dateCreated')\n        )\n        ->channel($channel)\n        ->of(RE::REL_MANUAL_PRODUCT_VIDEOS)\n    );\n    \n    if(RE::getResultCount() >= 30)\n        break;\n    \n};"
+    },
+    "transcripts": null
+}

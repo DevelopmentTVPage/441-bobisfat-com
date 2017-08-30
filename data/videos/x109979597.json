@@ -1,0 +1,109 @@
+{
+    "title": "Tiny Love 3 in 1 Rocker Napper",
+    "description": "",
+    "referenceId": "1458109848",
+    "date_created": "1502520682",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979597",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Tiny-Love-3-in-1-Rocker-Napper",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "63",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/thumb-f40dab9267254d016ccb60670ff4aeda-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979597\/3e025\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109979597\/cc\/vtt\/en_1503621834.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "3",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 217.71408,
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017",
+    "creator": null
+}

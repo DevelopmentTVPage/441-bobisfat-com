@@ -1,0 +1,43 @@
+{
+    "title": "Demo -- Brand Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1500488963",
+    "date_modified": "1500489105",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "106021117",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Demo-Brand-Channel",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "Block",
+                "add": "videos",
+                "conditions": {
+                    "order": "conversion_score",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "brand": ""
+                    }
+                },
+                "options": {},
+                "extras": {
+                    "channelName": ""
+                }
+            }
+        ]
+    },
+    "transcripts": null
+}

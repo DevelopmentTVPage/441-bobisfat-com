@@ -1,0 +1,101 @@
+{
+    "title": "SVS BBQ Intro URL Master Web",
+    "description": "",
+    "referenceId": "30286",
+    "date_created": "1502924143",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180223",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "959",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "SVS-BBQ-Intro-URL-Master-Web-FT20279",
+    "category": "",
+    "duration": "113",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "113",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/thumb-30286-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180223\/14ad3\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 26.385786,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "3\/5\/2014",
+    "created_date": "",
+    "creator": null
+}

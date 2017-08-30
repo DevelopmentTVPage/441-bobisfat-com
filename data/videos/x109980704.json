@@ -1,0 +1,101 @@
+{
+    "title": "47673741393224344.mp4",
+    "description": "",
+    "referenceId": "1501086134",
+    "date_created": "1502520970",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109980704",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4383",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "47673741393224344-mp4",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/thumb-7e9468d422fe4c938fbf25d13ccbf5e8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980704\/2216f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Welcome to the Primula caf\u00e9. Introducing the new Flavor it pitcher. The 3\u0096in-1 beverage system for creating exciting and new beverages prepared the way you want it. Brew it. Flavor it. Chill it. The Flavor It pitcher has a sleek design which stores 2.9 quarts of your favorite beverage. And fits easily inside the door of a refrigerator. Featuring a sturdy frame that won\u0092t crack or spill the Flavor It pitcher is suitable for any occasion, whether relaxing outside by the pool or even traveling to a park or picnic. And it does more than just pour and store. Need a little morning pick me up? Bring out the sweet notes with every sip with the tea infuser. Perfect for iced coffee or tea using the Flavor It cold brewing method. You simply use cold water and let your ground coffee or loose tea and herbs sit overnight. The results: a morning drink to get your day going right. Want to add an extra splash of flavor to your beverage? Use the Flavor It pitcher\u0092s fruit infuser to create countless new and stimulating taste sensations. Just place your favorite fruit inside the infuser and turn something as simple as black tea into a peach or berry flavored delicacy. Keep all your drinks cold using the Flavor It pitcher\u0092s Chill Core. Made from non-toxic gel, just freeze and insert into the pitcher. This is great for mixed cocktails, sangria or just plain ice water. The Flavor It pitcher is refrigerator friendly and dishwater safe. Made from high clarity BPA-free Tritan, the Flavor It pitcher is engineered to accommodate hot or cold liquids making it the perfect beverage system for all your favorite drinks. The Flavor It pitcher is shatter-resistant, odor-resistant and stain-resistant. Primula and the Flavor It pitcher, promoting a healthier and more eco-friendly lifestyle through innovation. Primula. Something extraordinary is brewing.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2261.579,
+    "delete": "",
+    "notes": null,
+    "uploader": "karen.northover",
+    "modified_date": "4\/1\/2014",
+    "created_date": "",
+    "creator": null
+}

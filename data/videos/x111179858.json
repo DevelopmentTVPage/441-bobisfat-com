@@ -1,0 +1,99 @@
+{
+    "title": "Jupiter Jack Hands Free Cell Phone Device",
+    "description": "",
+    "referenceId": "11639",
+    "date_created": "1502923310",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179858",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Jupiter-Jack-Hands-Free-Cell-Phone-Device",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/thumb-11639-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179858\/10290\/media.m3u8"
+    },
+    "transcripts": "Are you guilty of driving while talking on your cell phone?\r\n\r\nHi. Anthony Sullivan here for the Jupiter Jack, the most convenient hands-free device for any cell phone, guaranteed. Watch this. All you do is plug it into any phone and mount it on the dash. Preset your radio to 99.3 FM and you're ready to go.\r\n\r\nJupiter Jack transmits quality sound through the speakers in your car. So instead of hearing music, you hear the other person. If you want more volume, just turn up the radio. No plugs. No wires and no hands.\r\n\r\nHey, it's Sully.\r\n\r\nCarla: Hey, Sully. It's Carla. I need you over at the studio for a production meeting.\r\n\r\nAnthony Sullivan: I'll be there in about 20 minutes.\r\n\r\nCarla: Okay.\r\n\r\nAnthony Sullivan: See you then.\r\n\r\nIn my car, the Jupiter Jack is the only system that I use because I can safely talk and drive at the same time. It's compact and portable and works with any phone in any car. Jupiter Jack transmits your conversation through the speakers of your car. Instead of hearing music, you hear the other person.\r\n\r\nIt's so easy. I just plug it into my phone and start talking and I feel so much safer because I don't have to hold my phone while I drive.\r\n\r\nTake yours home today.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "18",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1396.1508,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "12\/9\/2011",
+    "created_date": "5\/12\/2010",
+    "creator": null
+}

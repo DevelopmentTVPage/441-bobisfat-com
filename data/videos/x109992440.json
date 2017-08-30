@@ -1,0 +1,100 @@
+{
+    "title": "Adventure Position w\/ K'tan Baby Carrier",
+    "description": "",
+    "referenceId": "17710",
+    "date_created": "1502523124",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109992440",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Adventure-Position-w-K-tan-Baby-Carrier",
+    "category": "",
+    "duration": "147",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "147",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "147",
+        "prettyDuration": "00:02:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/thumb-aa1c11fd3f37aaa1419c614eedb53cb6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992440\/81ba3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 25.335167,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "11\/10\/2010",
+    "creator": null
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Wall decor",
+    "description": "",
+    "referenceId": "1315009695",
+    "date_created": "1502519638",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973224",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Walll-decor-3-notes",
+    "category": "",
+    "duration": "98",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "98",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/thumb-74e8f89d7d14f0bd4f4705fae1998406-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973224\/ae37b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Dorm room walls are not easy to decorate, you\u0092re not allowed to paint or put nails in the wall, and they\u0092re often brick or cinder block. Fortunately, there are three good ways to get around these problems and personalize your room. So you can make your mark, without making a mark. Number one, start with a dorm decorator\u0092s best friend; damage free removable hooks. These special hooks are designed to stick without damaging paint or dry wall. Since you can use them to hang a wide variety of light weight objects, they give you lots of flexibility. Try framed art, a clock, or objects that strike your fancy. Anything goes, as long as it\u0092s not too heavy. The hooks come in different sizes, so make sure you get one that holds the weight of the item you\u0092re hanging. You can even use them for extra storage, never a bad idea in a dorm room. When it\u0092s time to go, you can remove them and they won\u0092t damage the walls. Decorating idea number two; there are lots of great peel and stick items, especially designed with the college student in mind. Sticker frames let you plaster photos, or anything else you want to frame, all over the walls, and when you want to change them they just easily peel off. Some even come with pockets for extra flexibility. And decorating tip number three. Want to right on the wall? No problem, adhesive dry-erase boards come in all styles and sizes. So don\u0092t let those bare walls scare you, now you\u0092re ready to show your style, all over those walls. Get the things you need for college at Bed Bad & Beyond. Shop at your nearest store or online.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.961779,
+    "delete": "",
+    "notes": null,
+    "uploader": "felipe.deleon",
+    "modified_date": "7\/2\/2013",
+    "created_date": "",
+    "creator": null
+}

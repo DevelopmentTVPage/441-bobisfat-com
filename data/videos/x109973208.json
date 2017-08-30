@@ -1,0 +1,101 @@
+{
+    "title": "292452014.8.26 bbb kc night floral comforter v5.mp4",
+    "description": "",
+    "referenceId": "1311938515",
+    "date_created": "1502519606",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973208",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4876",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "292452014-8-26-bbb-kc-night-floral-comforter-v5-mp4",
+    "category": "",
+    "duration": "74",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "74",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/thumb-fc7e7c8952cca284b90580a3528b701f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973208\/cd1ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.183239,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "10\/18\/2014",
+    "created_date": "",
+    "creator": null
+}

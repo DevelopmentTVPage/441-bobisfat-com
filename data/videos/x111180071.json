@@ -1,0 +1,101 @@
+{
+    "title": "How To Inject Insulin Final",
+    "description": "",
+    "referenceId": "18720",
+    "date_created": "1502923799",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180071",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "1388",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "How-To-Inject-Insulin-Final",
+    "category": "",
+    "duration": "292",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "292",
+            "width": 854,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "292",
+        "prettyDuration": "00:04:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/thumb-18720-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180071\/8ca2c\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "9",
+        "15",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 81.87833,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "3\/5\/2014",
+    "created_date": "",
+    "creator": null
+}

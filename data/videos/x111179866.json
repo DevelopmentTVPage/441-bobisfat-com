@@ -1,0 +1,97 @@
+{
+    "title": "Chef N Garlic Zoom",
+    "description": "",
+    "referenceId": "11657",
+    "date_created": "1502923327",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179866",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Chef-N-Garlic-Zoom",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "51",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/thumb-11657-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179866\/a46f1\/media.m3u8"
+    },
+    "transcripts": "Chef 'n Garlic Zoom\r\n\r\nWith a space-saving design and stainless steel blade, Garlic Zoom is a fun way to chop or mince garlic in seconds. Blade is removable for easy cleaning. Top rack dishwasher safe\r\n\r\nChef 'n Garlic Zoom  Video transcript\r\n\r\n\r\n\r\nHey, you and you, come here a minute, I want to show you something.  This is my brand new invention, the Garlic Zoom.  It's a revolutionized way to chop garlic, just throw in a clove of garlic, close the lid, and zoom it across the table and you have chopped bits of garlic.  You pull out the blade and just give that a little tap and a turn and look how simple and fast is that.  \r\n\r\nNow when you were busy watching that video, I was busy making garlic bread.  Check it out, garlic bread, and I also made some scampi.  Hey, pick one of these up.  You're going to love it.  The Garlic Zoom by Chef'n.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1420.1238,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/13\/2010",
+    "creator": null
+}

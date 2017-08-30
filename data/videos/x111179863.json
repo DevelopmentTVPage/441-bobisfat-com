@@ -1,0 +1,97 @@
+{
+    "title": "Sure Clip Nail Clipper",
+    "description": "",
+    "referenceId": "11646",
+    "date_created": "1502923319",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179863",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Sure-Clip-Nail-Clipper",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "63",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/thumb-11646-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179863\/73019\/media.m3u8"
+    },
+    "transcripts": "Sure Clip\u0099 Nail Clipper\r\nSure Clip\u0099 is an advanced nail clipper with built-in nail catcher and a powerful 3X magnifier light for great results. It has wide, non-slip comfort grips for complete control and stainless steel blades for clean precise cuts.\r\n\r\n\r\n\r\n\r\nSure Clip\u0099 Nail Clipper  Video Transcript\r\n\r\nSick of nail clippers that slip and tear your nails?  Tired of struggling to see what you're clipping?  Hate cleaning up nail clippings?  Now there's Sure Clip, the better way to cut your nails.  With the wide rubberized nonstick grip, you get complete control.  Its professional quality stainless steel blades are guaranteed to never rust or tear, giving you a clean precise cut every time.  The extra-wide opening makes it easy to cut thick, hard nails.  Look.  Even this stack of five acrylic nails is clipped with easy.  \r\n\r\nAnd with its powerful three-times magnifier with super-bright light, you get amazing clarity.  Just look how easy it is to read this fine print.\r\n\r\nThe Sure Clip also features a nail clip catcher that catches all the clips.  Just open the door to empty it out. \r\n\r\nThe Sure Clip has it all, a powerful magnifier light, clip catcher and Sure Grip.  It's great.\r\n\r\nThe Sure Clip makes cutting toenails a breeze.  It's great for people with arthritis or stiff hands.\r\n\r\nSo stop struggling to see what you're cutting, stop cleaning up nail clippings, and stop losing control and tearing your nails.  Now, there's Sure Clip, the better way to cut your nails.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1777.7527,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/12\/2010",
+    "creator": null
+}

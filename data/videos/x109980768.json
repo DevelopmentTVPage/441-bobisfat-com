@@ -1,0 +1,99 @@
+{
+    "title": "Shark&reg; Rotator&reg; Powered Lift-Away&reg; Vacuum",
+    "description": "",
+    "referenceId": "1520705345",
+    "date_created": "1502521156",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109980768",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Shark\u00c2-Rotator\u00c2-Powered-Lift-Away\u00c2-Vacuum-15-notes",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 646,
+            "height": 376
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/thumb-f2b9e2951068ec5c96b2db4c543ab4ad-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 646,
+                "height": 376
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 646,
+                "height": 376
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 646,
+                "height": 376
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 620,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980768\/4353d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 186
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 29.054714,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "11\/13\/2015",
+    "created_date": "11\/13\/2015",
+    "creator": null
+}

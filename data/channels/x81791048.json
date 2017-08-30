@@ -1,0 +1,24 @@
+{
+    "title": "Small Appliances",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1481092690",
+    "date_modified": "1481092690",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "81791048",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Small-Appliances",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(RE::products(RE::condition()->requiredMatch('category_id_1','10517'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_2','10517'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_3','10517'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_4','10517'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_5','10517'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));"
+    },
+    "transcripts": null
+}

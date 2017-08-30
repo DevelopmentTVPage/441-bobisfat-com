@@ -1,0 +1,101 @@
+{
+    "title": "BakePops Kit",
+    "description": "",
+    "referenceId": "35304",
+    "date_created": "1502524977",
+    "date_modified": "1504049172",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110004172",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "BakePops-Kit",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "67",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/thumb-a446429e667db2f7667d13b5a85a85f7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004172\/a513b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "15",
+        "2",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.1946206,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "4\/24\/2013",
+    "created_date": "11\/2\/2011",
+    "creator": null
+}

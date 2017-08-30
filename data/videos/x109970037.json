@@ -1,0 +1,100 @@
+{
+    "title": "Doors",
+    "description": "",
+    "referenceId": "1257110426",
+    "date_created": "1502519025",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109970037",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Doors-3-notes",
+    "category": "",
+    "duration": "98",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "98",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/thumb-74a4f44fa41e03a79515ee002f3dc131-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970037\/16f9a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Dorm rooms and small apartments never have enough space to store your clothing and accessories, like purses, scarves, shoes and hats. Try a surprising storage solution: your door! The back of the door is perfect for storing shoes and there's lots of options. Get an over the door shoe rack in a color to match your decor or show off your shoe collection with one that lines them up, up to 36 pairs. If you're more about the purses than the shoes, no problem. They've got a rack for that. There's one that's great for holding scarves, too. And your hats? You're all set with this hanger made just for them. If your closet just isn't cutting it, try a back of the door closet rod. It adds a ton of extra hanging space. You'll find lots of uses for a row of hooks that doesn't require hammering holes in the door and walls. There's an over the door hamper, too. Mix and match to create a storage solution that looks great, too. Now don't forget about the front of the door. Use it for sharing notes, pictures, or art work that says something about you. The door is a fun place to add a personal, decorative touch. Maybe you can give visitors a hint of who's behind the door. Create a place on your door to capture messages to and from your friends. Sometimes texting just doesn't have the same charm. For great storage options and personalized decor, look no further than your own front door.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 15.331278,
+    "delete": "",
+    "notes": null,
+    "uploader": "felipe.deleon",
+    "modified_date": "7\/3\/2013",
+    "created_date": "",
+    "creator": null
+}

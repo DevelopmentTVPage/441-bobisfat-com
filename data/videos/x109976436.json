@@ -1,0 +1,99 @@
+{
+    "title": "noritake colorwave can.mov",
+    "description": "",
+    "referenceId": "1403673499",
+    "date_created": "1502520204",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109976436",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4649",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "noritake-colorwave-can-mov",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "44",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/thumb-0923cad53ceadb7c55a77e7258e99c87-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976436\/724fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0,
+    "delete": "",
+    "notes": null,
+    "uploader": "felipe.deleon",
+    "modified_date": "8\/29\/2013",
+    "created_date": "",
+    "creator": null
+}

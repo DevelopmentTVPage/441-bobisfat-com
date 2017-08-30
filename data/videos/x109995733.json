@@ -1,0 +1,99 @@
+{
+    "title": "Aerobie&reg; Aeropress&reg; Coffee &amp; Espresso Press",
+    "description": "",
+    "referenceId": "1861336504",
+    "date_created": "1502523773",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109995733",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Aerobie\u00c2-Aeropress\u00c2-Coffee-Espresso-Press-3-notes",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/thumb-e3aa46c025b092be4d10e7eb262b32d0-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995733\/190b2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 114.60778,
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "9\/29\/2015",
+    "created_date": "9\/29\/2015",
+    "creator": null
+}

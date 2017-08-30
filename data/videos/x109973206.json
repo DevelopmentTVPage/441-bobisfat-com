@@ -1,0 +1,109 @@
+{
+    "title": "Himalayan Glow Ionic Natural Salt Crystal Lamp",
+    "description": "",
+    "referenceId": "1310991756",
+    "date_created": "1502519603",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973206",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Himalayan-Glow-Ionic-Natural-Salt-Crystal-Lamp",
+    "category": "",
+    "duration": "36",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "36",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/thumb-d3c3e6c673ea0b63dda498b21f8b0850-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973206\/274be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109973206\/cc\/vtt\/en_1503615137.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "4",
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 26.060715,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017",
+    "creator": null
+}

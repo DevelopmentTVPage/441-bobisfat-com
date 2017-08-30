@@ -1,0 +1,24 @@
+{
+    "title": "Cuisinart",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438360748",
+    "date_modified": "1438360846",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6286802",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Cuisinart",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "473181926-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "473181926-00942531.jpg"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Frame Strollers",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1481091885",
+    "date_modified": "1481091885",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "81791045",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Frame-Strollers",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(RE::products(RE::condition()->requiredMatch('category_id_1','12962'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_2','12962'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_3','12962'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_4','12962'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_5','12962'))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));"
+    },
+    "transcripts": null
+}

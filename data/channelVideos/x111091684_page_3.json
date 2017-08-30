@@ -1,0 +1,1257 @@
+{
+    "pageNumber": 3,
+    "data": [
+        {
+            "id": "111180541",
+            "title": "Cuisinart ICE 50BC Supreme Ice Cream Maker",
+            "date_created": "1502924740",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/thumb-5660-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180541\/dc0cd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-50bc-supreme-ice-cream-maker-ft7485\/111091684-111180541"
+        },
+        {
+            "id": "111180540",
+            "title": "Cuisinart SM BL Blender Stand Mixer Attachment",
+            "date_created": "1502924740",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/thumb-5659-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180540\/dcf34\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180540\/cc\/vtt\/en_1503524084.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-sm-bl-blender-stand-mixer-attachment-ft7488\/111091684-111180540"
+        },
+        {
+            "id": "111180539",
+            "title": "Cuisinart SM PM Pasta Maker Stand Mixer Attachment",
+            "date_created": "1502924740",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/thumb-5655-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180539\/338fc\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-sm-pm-pasta-maker-stand-mixer-attachment-ft74\/111091684-111180539"
+        },
+        {
+            "id": "111180538",
+            "title": "Cuisinart SM CJ Juicer Stand Mixer Attachment",
+            "date_created": "1502924739",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/thumb-5648-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180538\/e1e15\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-sm-cj-juicer-stand-mixer-attachment-ft7479\/111091684-111180538"
+        },
+        {
+            "id": "111180537",
+            "title": "Cuisinart SM FP Food Processor Mixer Attachment",
+            "date_created": "1502924739",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/thumb-5646-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180537\/97eb9\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180537\/cc\/vtt\/en_1503524067.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-sm-fp-food-processor-mixer-attachment-ft7480-2-notes\/111091684-111180537"
+        },
+        {
+            "id": "111180536",
+            "title": "Cuisinart SM BL Blender Stand Mixer Attachment",
+            "date_created": "1502924738",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/thumb-5643-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180536\/5c515\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-sm-bl-blender-stand-mixer-attachment-ft7478\/111091684-111180536"
+        },
+        {
+            "id": "111180535",
+            "title": "Cuisinart ICE 50BC Supreme Ice Cream Maker",
+            "date_created": "1502924737",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/thumb-5639-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180535\/03da7\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-50bc-supreme-ice-cream-maker-ft7475\/111091684-111180535"
+        },
+        {
+            "id": "111180534",
+            "title": "BBB BenderBall 640x480",
+            "date_created": "1502924735",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "99",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "99",
+                "prettyDuration": "00:01:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/thumb-5635-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bbb-benderball-640x480-ft7474\/111091684-111180534"
+        },
+        {
+            "id": "111180533",
+            "title": "Cuisinart HSM 70 Power Advantage Hand Stand Mixer",
+            "date_created": "1502924735",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "132",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "132",
+                "prettyDuration": "00:02:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/thumb-5624-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180533\/7d758\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-hsm-70-power-advantage-hand-stand-mixer-ft747\/111091684-111180533"
+        },
+        {
+            "id": "111180532",
+            "title": "Cuisinart HM 70 Power Advantage 7 Speed Hand Mixer",
+            "date_created": "1502924734",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "93",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "93",
+                "prettyDuration": "00:01:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/thumb-5623-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-hm-70-power-advantage-7-speed-hand-mixer-ft74\/111091684-111180532"
+        },
+        {
+            "id": "111180531",
+            "title": "Cuisinart HSM 70 Power Advantage Hand Stand Mixer",
+            "date_created": "1502924734",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "132",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "132",
+                "prettyDuration": "00:02:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/thumb-5622-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180531\/62788\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-hsm-70-power-advantage-hand-stand-mixer-ft746\/111091684-111180531"
+        },
+        {
+            "id": "111180530",
+            "title": "Cuisinart EM 200 Programmable Espresso Maker",
+            "date_created": "1502924731",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "219",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "219",
+                "prettyDuration": "00:03:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/thumb-5621-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180530\/475aa\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-em-200-programmable-espresso-maker-ft7459\/111091684-111180530"
+        },
+        {
+            "id": "111180529",
+            "title": "Cuisinart Green Gourmet Hard Anodized Cookware",
+            "date_created": "1502924730",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/thumb-5620-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180529\/30413\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-green-gourmet-hard-anodized-cookware-ft7469\/111091684-111180529"
+        },
+        {
+            "id": "111180528",
+            "title": "Cuisinart HM 70 Power Advantage 7 Speed Hand Mixer",
+            "date_created": "1502924729",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "93",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "93",
+                "prettyDuration": "00:01:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/thumb-5619-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180528\/23494\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-hm-70-power-advantage-7-speed-hand-mixer-ft74\/111091684-111180528"
+        },
+        {
+            "id": "111180527",
+            "title": "Cuisinart FRC 800 Rice PlusTM Multi Cooker",
+            "date_created": "1502924729",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "257",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "257",
+                "prettyDuration": "00:04:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/thumb-5618-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180527\/6c49d\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-frc-800-rice-plustm-multi-cooker-ft7461\/111091684-111180527"
+        },
+        {
+            "id": "111180526",
+            "title": "Cuisinart ICE 30BC Yogurt Sorbet  Ice Cream Maker",
+            "date_created": "1502924728",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/thumb-5617-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180526\/79251\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180526\/cc\/vtt\/en_1503523994.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-30bc-yogurt-sorbet-ice-cream-maker-ft747\/111091684-111180526"
+        },
+        {
+            "id": "111180525",
+            "title": "Cuisinart Green Gourmet Hard Anodized Cookware",
+            "date_created": "1502924728",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/thumb-5616-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180525\/71303\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180525\/cc\/vtt\/en_1503523971.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-green-gourmet-hard-anodized-cookware-ft7464\/111091684-111180525"
+        },
+        {
+            "id": "111180524",
+            "title": "Cuisinart ICE 20 Yogurt Ice Cream  Sorbet Maker",
+            "date_created": "1502924727",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/thumb-5615-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-20-yogurt-ice-cream-sorbet-maker-ft7472\/111091684-111180524"
+        },
+        {
+            "id": "111180523",
+            "title": "Cuisinart ICE 30BC Yogurt Sorbet  Ice Cream Maker",
+            "date_created": "1502924726",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/thumb-5614-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180523\/48c25\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-30bc-yogurt-sorbet-ice-cream-maker-ft746\/111091684-111180523"
+        },
+        {
+            "id": "111180522",
+            "title": "Cuisinart ICE 20 Yogurt Ice Cream  Sorbet Maker",
+            "date_created": "1502924726",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/thumb-5613-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180522\/1b873\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-20-yogurt-ice-cream-sorbet-maker-ft7467\/111091684-111180522"
+        }
+    ]
+}

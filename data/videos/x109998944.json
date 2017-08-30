@@ -1,0 +1,108 @@
+{
+    "title": "Bold &amp; Free Spirited Anthology Kaya Blue Mosaic",
+    "description": "",
+    "referenceId": "1934060118",
+    "date_created": "1502524363",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109998944",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Bold-Free-Spirited-Anthology-Kaya-Blue-Mosaic",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "15",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/thumb-97041e9edf0611bd33ef780c591ccdfd-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998944\/d59ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109998944\/cc\/vtt\/en_1503697681.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "9",
+        "28"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 160.86656,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "8\/21\/2015",
+    "created_date": "8\/21\/2015",
+    "creator": null
+}

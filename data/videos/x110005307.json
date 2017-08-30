@@ -1,0 +1,101 @@
+{
+    "title": "Bialetti Trends 5-Quart Pasta Pots",
+    "description": "",
+    "referenceId": "47315",
+    "date_created": "1502525298",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110005307",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2854",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Bialetti-Trends-5-Quart-Pasta-Pots",
+    "category": "",
+    "duration": "167",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "167",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "167",
+        "prettyDuration": "00:02:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/thumb-655a7917e225144653d86b070a0ac7a4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005307\/d9d8f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 147.75253,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Dynamic PDP Widget",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1487189437",
+    "date_modified": "1496188758",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "85404659",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Dynamic-PDP-Widget",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(RE::products(RE::condition()->requiredMatch('referenceId',RE::parameter('referenceId')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));",
+        "blocks": [
+            {
+                "name": "SKU",
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "referenceId": ""
+                    }
+                },
+                "options": {},
+                "extras": {
+                    "channelName": ""
+                }
+            }
+        ]
+    },
+    "transcripts": null
+}

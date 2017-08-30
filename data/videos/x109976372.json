@@ -1,0 +1,107 @@
+{
+    "title": "Ergo Baby 360 Carrier",
+    "description": "",
+    "referenceId": "1376309658",
+    "date_created": "1502520018",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109976372",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Ergo-Baby-360-Carrier-2-notes",
+    "category": "",
+    "duration": "59",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "59",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/thumb-efd231ac455e6d6365836ca40287b7e8-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976372\/4f06d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109976372\/cc\/vtt\/en_1503618713.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 21.594511,
+    "delete": "",
+    "notes": null,
+    "uploader": "kwitinski",
+    "modified_date": "4\/22\/2014",
+    "created_date": "4\/22\/2014",
+    "creator": null
+}

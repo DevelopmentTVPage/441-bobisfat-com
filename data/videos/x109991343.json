@@ -1,0 +1,99 @@
+{
+    "title": "97375rs gatework v2.mp4",
+    "description": "",
+    "referenceId": "1731862929",
+    "date_created": "1502522789",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109991343",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3753",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "97375rs-gatework-v2-mp4",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/thumb-5073c3258364fb2626cd22a251186520-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991343\/dbfea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "7\/9\/2014",
+    "created_date": "",
+    "creator": null
+}

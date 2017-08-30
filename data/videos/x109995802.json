@@ -1,0 +1,103 @@
+{
+    "title": "27845_2016_wedding_registry_brand_video_hyannis_test-1080.mov",
+    "description": "",
+    "referenceId": "1887545700",
+    "date_created": "1502523917",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109995802",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3351",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "27845-2016-wedding-registry-brand-video-hyannis-test-108",
+    "category": "",
+    "duration": "255",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "255",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "255",
+        "prettyDuration": "00:04:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/thumb-ed68fa6c0548957c086cb2bb8ac2fbc8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995802\/4210a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20",
+        "11",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 20.50127,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "9\/21\/2016",
+    "created_date": "",
+    "creator": null
+}

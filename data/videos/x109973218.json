@@ -1,0 +1,101 @@
+{
+    "title": "iRobot&reg; Braava jet&trade; 240 Mopping Robot",
+    "description": "",
+    "referenceId": "1313841692",
+    "date_created": "1502519626",
+    "date_modified": "1504049173",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973218",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "iRobot\u00c2-Braava-jet\u00e2-240-Mopping-Robot-3-notes",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "99",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/thumb-2950228c6dd4118a67fd9649044c75f4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973218\/fa773\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "30",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 107.96396,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "4\/13\/2016",
+    "created_date": "4\/13\/2016",
+    "creator": null
+}

@@ -1,0 +1,103 @@
+{
+    "title": "bbbwamsutta bed mehandi.mov",
+    "description": "",
+    "referenceId": "1913339533",
+    "date_created": "1502524138",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109997876",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3277",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "bbbwamsutta-bed-mehandi-mov",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/thumb-92973c249eb5779d9677a3fee390bd98-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997876\/36e88\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "20",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.651569,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "10\/14\/2013",
+    "created_date": "",
+    "creator": null
+}

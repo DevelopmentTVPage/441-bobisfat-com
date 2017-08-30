@@ -1,0 +1,107 @@
+{
+    "title": "Nostalgia Electrics&trade; 50's Styled Stir Popper",
+    "description": "",
+    "referenceId": "1959339484",
+    "date_created": "1502923849",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180092",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "RSP100-Stir-Popper-mov",
+    "category": "",
+    "duration": "180",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "180",
+            "width": 480,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "180",
+        "prettyDuration": "00:03:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/thumb-1959339484-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180092\/d6eee\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180092\/cc\/vtt\/en_1503691385.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20",
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 6.79282,
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "6\/6\/2014",
+    "created_date": "12\/11\/2012",
+    "creator": null
+}

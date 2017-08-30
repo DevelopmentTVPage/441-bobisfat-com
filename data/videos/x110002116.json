@@ -1,0 +1,99 @@
+{
+    "title": "Sheex Performance Sheet Set",
+    "description": "",
+    "referenceId": "26690",
+    "date_created": "1502524842",
+    "date_modified": "1504049172",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110002116",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Sheex-Performance-Sheet-Set",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "110",
+            "width": 1360,
+            "height": 768
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/thumb-b99ce10487d0066d54e84f90a0312b0a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1360,
+                "height": 768
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1274,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 638,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002116\/8c7ff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 94.79908,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/6\/2013",
+    "created_date": "4\/18\/2011",
+    "creator": null
+}

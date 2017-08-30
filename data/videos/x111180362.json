@@ -1,0 +1,97 @@
+{
+    "title": "Dolce Gusto",
+    "description": "",
+    "referenceId": "3842",
+    "date_created": "1502924480",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180362",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Dolce-Gusto",
+    "category": "",
+    "duration": "108",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "108",
+            "width": 960,
+            "height": 540
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "108",
+        "prettyDuration": "00:01:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/thumb-3842-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180362\/da399\/media.m3u8"
+    },
+    "transcripts": "Krups\u00ae Nescafe Dolce Gusto Single Serve Beverage Machine\r\n\r\nIt may look cute, but this Krups\u00ae Nescafe Dolce Gusto Single Serve beverage machine means business. For making seriouslyKrups Nescape Dolce Gusto good drinks, this machine utilizes its 15 bar pressure extractor system to bring justice to each serving. Simply insert a capsule into the pull-out pod, press a button and enjoy. For lattes, insert the milk capsules afterward and watch frothy milk cover the top of your espresso. Fully adjustable, the Dolce Gusto compromises for tall and small mugs alike and it is also easy to clean with its removable drip tray and 51-ounce water tank. A wide variety of indulgent beverages are available in Dolce Gusto capsule packages (sold separately). Measures 12 1\/2\" H x 8 1\/2\" L x 12\" W. One year warranty and extra six months if registered\r\n\r\n\r\n\r\nWelcome to Nescaf\u00e9 Dolce Gusto, brought to you by Nescaf\u00e9 and Krups, combining the Nescaf\u00e9 knowledge of fine coffee making with the innovative coffee machine designs of Krups, together to introduce Nescaf\u00e9 Dolce Gusto! It\u0092s your own coffee house that never closes. The Dolce Gusto machine has unique and stylish design, available in black and cream\u0097and complements any kitchen d\u00e9cor. The Nescaf\u00e9 Dolce Gusto machine can make your favorite coffee house beverages in the comfort of your own home, using 15 bars of pressure that pumps water through our innovative capsules to extract the full flavor of coffee, creates delicious frothy milk just like a coffee house beverage. Also, our custom control lever allows you to be in control of your own drink. You can make it as strong or as mild as you like. Nescaf\u00e9 Dolce Gusto offers five coffee house quality drink varieties. A Caffe Lungo is the equivalent to your every day cup of coffee, a creamier cappuccino, and an exquisite espresso, a frothy latte macchiato and a choccocino is what we call a delicious hot chocolate. All drinks utilize our capsule technology that seals in 100% pure Arabica coffee flavor until you\u0092re ready to make it. Making each Dolce Gusto beverage is so easy and quick. It takes less than one minute, thanks to the exclusive Thermoblock technology by Krups. Simply pop a capsule into the holder, pull the handle down, turn the custom control lever to the right, and presto! No mess, no fuss, just great coffee! And when you make a purchase of the Nescaf\u00e9 Dolce Gusto machine you will receive a Welcome Kit as a thank you. The Welcome Kit includes a variety pack of all 5 flavors, a latte glass, a cappuccino cup and saucer, and a handy welcome guide. We welcome you to experience Nescaf\u00e9 Dolce Gusto today! Tasting is believing!",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3518.6226,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

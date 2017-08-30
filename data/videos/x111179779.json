@@ -1,0 +1,106 @@
+{
+    "title": "Breville Art Of Coffee - How to make a Cinnamon Stencil",
+    "description": "",
+    "referenceId": "11265",
+    "date_created": "1502923121",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179779",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Breville-Art-Of-Coffee-How-to-make-a-Cinnamon-Stencil",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "53",
+            "width": 592,
+            "height": 332
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/thumb-11265-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179779\/cc\/vtt\/en_1503533527.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 434.02692,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "3\/28\/2013",
+    "created_date": "",
+    "creator": null
+}

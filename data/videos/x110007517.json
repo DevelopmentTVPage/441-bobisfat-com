@@ -1,0 +1,103 @@
+{
+    "title": "Bialetti Collection Video CA.mp4",
+    "description": "",
+    "referenceId": "49082",
+    "date_created": "1502525654",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007517",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2647",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Bialetti-Collection-Video-CA-mp4",
+    "category": "",
+    "duration": "285",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "285",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "285",
+        "prettyDuration": "00:04:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/thumb-4672262321dd1013a1aaf20ab7caab58-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007517\/81e7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "20",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8.160667,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

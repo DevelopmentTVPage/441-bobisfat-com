@@ -1,0 +1,102 @@
+{
+    "title": "PizzaDome 4-Person Portable Italian Brick Oven",
+    "description": "",
+    "referenceId": "14276",
+    "date_created": "1502520426",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979508",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4579",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "PizzaDome-4-Person-Portable-Italian-Brick-Oven",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/thumb-29b91cc1627e0e6762879c40747fc848-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979508\/0a9db\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 27.259392,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

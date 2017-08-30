@@ -1,0 +1,48 @@
+{
+    "title": "Dynamic PLP Widget",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1481132004",
+    "date_modified": "1496192719",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "81791055",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "dynamic-plp-widget",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(RE::products(RE::condition()->requiredMatch('category_id_1',RE::parameter('category')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_2',RE::parameter('category')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_3',RE::parameter('category')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_4',RE::parameter('category')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));\n\nRE::add(RE::products(RE::condition()->requiredMatch('category_id_5',RE::parameter('category')))->withVideos(RE::condition()->keyword(RE::parameter('s'))->page(RE::parameter('p'))->limit(RE::parameter('n'))));",
+        "blocks": [
+            {
+                "name": "PLP",
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "category_id_1": "",
+                        "category_id_2": "",
+                        "category_id_3": "",
+                        "category_id_4": "",
+                        "category_id_5": ""
+                    }
+                },
+                "options": {},
+                "extras": {
+                    "channelName": ""
+                }
+            }
+        ]
+    },
+    "transcripts": null
+}

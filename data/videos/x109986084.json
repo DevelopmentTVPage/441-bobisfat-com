@@ -1,0 +1,99 @@
+{
+    "title": "Contours&reg; Twist Grow-With-Me Seat",
+    "description": "",
+    "referenceId": "1639042865",
+    "date_created": "1502522094",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109986084",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Contours\u00c2-Twist-Grow-With-Me-Seat",
+    "category": "",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "48",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/thumb-1a7a543029eb4b59598297289cc07055-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986084\/838ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 233.24786,
+    "delete": "",
+    "notes": null,
+    "uploader": "Julie.McLaughlin",
+    "modified_date": "7\/5\/2017",
+    "created_date": "",
+    "creator": null
+}

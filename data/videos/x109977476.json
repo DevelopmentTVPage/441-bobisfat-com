@@ -1,0 +1,101 @@
+{
+    "title": "the sensor mirror",
+    "description": "",
+    "referenceId": "1417153842",
+    "date_created": "1502520344",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109977476",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sensormirror-shortened-1080-mov-2-notes",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/thumb-22fb230abc52bac490ee9ef344a2ed36-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977476\/8d380\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Getting ready for the day is all about seeing yourself in the best light possible. That's why we created the new Simple Human Sensor Mirror featuring True Lux Lighting, sensor technology and cordless operation. What makes it different is it's 600 lux ultra bright light ring. Not only is it twice as bright as the next best mirror, the surgical grade LED has a color rendering index or CRI of 90. Much higher than other mirrors available and very close to sunlight which helps ensure makeup matches your skin tone flawlessly. You won't even have to press any buttons. The mirror lights up automatically when it senses your face approaching. Once the light is ON our multi-sense technology extends the trigger zone making the mirror more sensitive so the light doesn't turn off before you're done. We've designed the sensor mirror to be highly adjustable for different people and different needs. Adjusted up and down easily and even tilted fully back for use when standing. The sensor mirror doesn't have any cords to clutter up your counter and you have the freedom to move it easily wherever you need it to be. And with it's auto on off feature, it saves energy and you will never forget to turn it off. The Simple Human sensor mirror for a brighter, clearer, color-correct view so you can always be sure you always look your best.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "21",
+        "22",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.660419,
+    "delete": "",
+    "notes": null,
+    "uploader": "samir.p.shah",
+    "modified_date": "10\/8\/2013",
+    "created_date": "",
+    "creator": null
+}

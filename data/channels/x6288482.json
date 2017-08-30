@@ -1,0 +1,24 @@
+{
+    "title": "CampChef",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438630775",
+    "date_modified": "1438630786",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6288482",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "CampChef",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "998986428-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "998986428-0017197.jpg"
+    },
+    "transcripts": null
+}

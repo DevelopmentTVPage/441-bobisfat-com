@@ -1,0 +1,97 @@
+{
+    "title": "Conair",
+    "description": "",
+    "referenceId": "4252",
+    "date_created": "1502924573",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180414",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Conair",
+    "category": "",
+    "duration": "32",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "32",
+            "width": 320,
+            "height": 240
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/thumb-4252-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180414\/79ff7\/media.m3u8"
+    },
+    "transcripts": "Infiniti Professional Tourmaline Ionic Styler Hair Dryer in Pink by Conair\u0099\r\n\r\nThis powerful, 1875-watt hair dryer has a high torque DC motor for faster drying. Ionic technology reduces frizz and provides more  Infiniti Professional Tourmaline Ionic Styler Hair Dryer by Conairmanageability. Tourmaline Ceramic\u0099 technology helps smooth the cuticle layer, creating silky, shiny hair. Dryer features three heat and two speed settings and includes a diffuser for curly and wavy styles, plus a concentrator for pinpoint styling. Line cord is retractable for neat storage. Filter is removable for easy cleaning of dust buildup. UL listed. Model #223F\r\n\r\nConair Infiniti\r\n\r\nWhen you put so much into life, you've got to take something out. The Infiniti Cord Keeper by Conair Dryer is all you need. \r\n\r\nTurn it on and feel the rush as powerful technology calms down frizz to leave hair lusciously smooth. Then send the cord right back into the handle with the touch of a button. Pour on the shine and pump up the volume.\r\n\r\nCreate your own salon results at home with Infiniti by Conair. Life's too beautiful to miss.\r\n\r\nDon't let a cord slow you down.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1421.5079,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "1\/20\/2013",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Bloom Fresco Highchair",
+    "description": "",
+    "referenceId": "43313",
+    "date_created": "1502525188",
+    "date_modified": "1504049169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110004253",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Bloom-Fresco-Highchair",
+    "category": "",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "41",
+            "width": 624,
+            "height": 480
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/thumb-a5b6e6b34c827b82e619c28d90b1c36c-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 624,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 624,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 624,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 468,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004253\/a5bef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 312,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 12.897289,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "3\/6\/2012",
+    "created_date": "3\/5\/2012",
+    "creator": null
+}

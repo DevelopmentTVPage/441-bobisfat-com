@@ -1,0 +1,101 @@
+{
+    "title": "How To Set Up a Bar",
+    "description": "",
+    "referenceId": "1752347150",
+    "date_created": "1502523014",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109992397",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Set-Up-a-Bar",
+    "category": "",
+    "duration": "43",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "43",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/thumb-9a0949c5d88341ba76b55f9e5f8acffe-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992397\/5b57f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "25",
+        "15"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 385.09406,
+    "delete": "",
+    "notes": null,
+    "uploader": "kkelly",
+    "modified_date": "3\/15\/2013",
+    "created_date": "10\/15\/2012",
+    "creator": null
+}

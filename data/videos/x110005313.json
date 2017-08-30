@@ -1,0 +1,101 @@
+{
+    "title": "Breville Smart Toasters BTA820XL BTA840XL",
+    "description": "",
+    "referenceId": "47322",
+    "date_created": "1502525309",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110005313",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2848",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Breville-Smart-Toasters-BTA820XL-BTA840XL-FT9748",
+    "category": "",
+    "duration": "66",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "66",
+            "width": 1264,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/thumb-7d1181ba2f1bb8812287f355daef3050-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1264,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1264,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 844,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005313\/e5e56\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 19.282822,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

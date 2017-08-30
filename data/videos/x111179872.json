@@ -1,0 +1,97 @@
+{
+    "title": "Living Well HealthMaster Fruit and Vegetable Emulsifier",
+    "description": "",
+    "referenceId": "11746",
+    "date_created": "1502923336",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179872",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Living-Well-HealthMaster-Fruit-and-Vegetable-Emulsifier",
+    "category": "",
+    "duration": "119",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "119",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/thumb-11746-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179872\/b7607\/media.m3u8"
+    },
+    "transcripts": "Introducing the Living Well HealthMaster Fruit and Vegetable Emulsifier. The HealthMaster is more than a blender because blenders only blend and leave clumpy messes, while mixers only combine ingredients and leave even bigger messes, and juicers simply discard the nutrient rich skin, seeds and pulp. The HealthMaster truly is the kitchen appliance breakthrough that does what other machines simply can't. The secret is its amazing high speed digital emulsification system. This unique and proprietary process literally pulverizes and liquefies whole fruits, vegetables and leafy greens in just seconds, while retaining the powerful, potent and valuable vitamins, minerals, antioxidants and phytonutrients that other machines leave behind.\r\n\r\nAnd the HealthMaster saves you money by utilizing inexpensive fruits and vegetables from your grocer, turning them into healthy, vitamin rich, chilled juices, smoothies and power drinks and all natural, healthy baby foods, delicious hot soups, sensational low calorie salad dressings, plus instantly mix ingredients for cupcakes, muffins, pizza dough and breads. You can even make frozen desserts, like creamy, mouth watering ice cream and fresh fruit sorbets. The HealthMaster literally does it all, replacing over 20 kitchen appliances and performing over 31 jobs, saving you valuable time and money. The HealthMaster features a motor that's almost two horsepower, and these commercial grade culinary angled stainless steel blades that emulsify wet or dry whole foods at over 3,000 rpm. That's enough power and performance to decimate these chunks of solid concrete into a super fine powder, and the HealthMaster is still good as new. Why boil fresh vegetables and lose healthy nutrients when you can make hot soups and sauces right inside the extra large carafe? The key is the HealthMaster's centrifugal friction, which cooks foods naturally, retaining all the healthy nutrients and delivering hot, flavorful and robust soups in a snap.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1842.4863,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "12\/3\/2013",
+    "created_date": "5\/18\/2010",
+    "creator": null
+}

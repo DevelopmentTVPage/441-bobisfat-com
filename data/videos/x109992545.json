@@ -1,0 +1,101 @@
+{
+    "title": "L&iacute;ll&eacute;baby&reg; Baby Carriers",
+    "description": "",
+    "referenceId": "1805998268",
+    "date_created": "1502523413",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109992545",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "L\u00c3-ll\u00c3-baby\u00c2-Baby-Carriers-3-notes",
+    "category": "",
+    "duration": "102",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "102",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "102",
+        "prettyDuration": "00:01:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/thumb-b36d573eb6e5adea5423493eddda36b8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992545\/6c242\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "26",
+        "12",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 22.686365,
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "5\/19\/2017",
+    "created_date": "5\/19\/2017",
+    "creator": null
+}

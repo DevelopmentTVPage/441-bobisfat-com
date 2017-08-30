@@ -1,0 +1,24 @@
+{
+    "title": "Hamilton Beach Brands",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438377533",
+    "date_modified": "1438377597",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6287340",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Hamilton-Beach-Brands",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "712819983-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "712819983-220485262.jpg"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Nambe Heritage Collection 11 9 11 CA.mp4",
+    "description": "",
+    "referenceId": "49113",
+    "date_created": "1502525778",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007543",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2621",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Nambe-Heritage-Collection-11-9-11-CA-mp4",
+    "category": "",
+    "duration": "74",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "74",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/thumb-e4c993d5c3b7f972432d1855b2bd4e1d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007543\/4cf4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 17.300749,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

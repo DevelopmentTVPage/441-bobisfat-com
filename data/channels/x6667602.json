@@ -1,0 +1,21 @@
+{
+    "title": "Seasonal-Outdoor Living",
+    "description": "Outdoor_Living",
+    "referenceId": null,
+    "date_created": "1444851564",
+    "date_modified": "1444851564",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6667602",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Seasonal-Outdoor_Living",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "__SMARTLIST__": "\n      RE::add(\n       RE::videos(\n        RE::condition()\n         \n        ->compare(\"video_type\", \"outdoor_living\")\n        ->compare(\"status\", \"approved\")\n        ->compare(\"visibility\", 1)\n       )\n       ->channel(6410334)\n      );\n    "
+    },
+    "transcripts": null
+}

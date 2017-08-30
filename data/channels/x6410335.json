@@ -1,0 +1,24 @@
+{
+    "title": "Cooking",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1442441381",
+    "date_modified": "1484613897",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6410335",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Cooking",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "454379297-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "454379297-01500281.png"
+    },
+    "transcripts": null
+}

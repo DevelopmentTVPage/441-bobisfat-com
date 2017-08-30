@@ -1,0 +1,103 @@
+{
+    "title": "bbbwamsutta bed french country v2.mov",
+    "description": "",
+    "referenceId": "1439671570",
+    "date_created": "1502520560",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979564",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4523",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "bbbwamsutta-bed-french-country-v2-mov",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/thumb-b34d5bc962cffc8d9a36443f1167c083-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979564\/53087\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "9",
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.618031,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "10\/20\/2013",
+    "created_date": "",
+    "creator": null
+}

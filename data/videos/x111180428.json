@@ -1,0 +1,97 @@
+{
+    "title": "5055MAG3300Rev3 H264",
+    "description": "",
+    "referenceId": "4431",
+    "date_created": "1502924592",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180428",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "5055MAG3300Rev3-H264-FT5827",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/thumb-4431-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180428\/05feb\/media.m3u8"
+    },
+    "transcripts": "Delonghi Magnifica Super Automatic Espresso Machine ESAM3300\r\n\r\nFulfill all of your coffee desires with this multi-functional 1150-watt brewing system with 15 bars of pressure. Direct-to-brew system withDeLonghi Magnifica Super Automatic Hot Beverage Machine Thermo Block Technology provides excellent heat distribution and is removable for easy cleaning. Beans are ground instantly to ensure freshness so what you grind is what you brew. Double boiler with new stainless steel piped espresso boiler means no waiting between espresso and steam and faster heating of water. Height adjustable coffee spouts for espresso, demitasse or 12-ounce cups. Professional quality conical integrated burr grinder produces consistent, fresh and aromatic espresso or coffee. Warming plate on top allows you to preheat your cup. Features instant heat function, patented cappuccino frother, decalcification system, removable used coffee container, drip tray, three-hour automatic shut-off and one to two-cup selector. Removable 1.8-liter water tank. Measures 11\" W x 15\" D x 14\" H. UL listed. Model # ESAM3300.\r\n\r\nWith sleek Italian design, a patented frothing system, and a built-in professional quality grinder, the Magnifica Super Automatic Espresso Machine from DeLonghi is an incredible combination of style and performance.\r\n\r\nIt all starts with the beans.  The integrated conical burr grinder gives you the freshest taste possible, since what you grind is what you brew.  Choose the settings you want, then brew instantly for exquisite crema and unsurpassable flavor.  The quality, stainless steel piped double-boiler means there\u0092s no wait between espresso and steam, and the unique frothing system includes a special chamber that mixes steam and milk to create rich, creamy drinks every time.\r\n\r\nThere\u0092s an instant reheat function, so you\u0092re always ready to brew.  Adjustable spouts to fit your cup of choice, an automatic shutoff for safety, plus an automatic indicator light to let you know when it\u0092s time to decalcify the machine.  And the patented, compact brewing system is easily removable for convenient cleaning.\r\n\r\nIt\u0092s so easy to use, all you really have to do is sit back and enjoy the performance, convenience, and exquisite flavor of the Magnifica Super Automatic Espresso Machine from DeLonghi.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2953.1274,
+    "delete": "",
+    "notes": null,
+    "uploader": "bhilgendorf",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

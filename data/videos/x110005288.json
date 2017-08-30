@@ -1,0 +1,99 @@
+{
+    "title": "Fridge Binz Stackable Wine Rack",
+    "description": "",
+    "referenceId": "46727",
+    "date_created": "1502525270",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110005288",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Fridge-Binz-Stackable-Wine-Rack-3-notes",
+    "category": "",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "41",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/thumb-69b72e479d8d3266a2b33af834ccdcdb-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi I\u009dm Nancy from Bad Bath and Beyond and I\u009dm here to tell you about the Fridge Binz stackable wine rack.\r\n\r\nThis system can turn your kitchen refrigerator into a wine fridge. Many wine enthusiasts recommend storing wine on its side. This keeps the wine in contact with the cork and prevents air from getting into the wine.\r\n\r\nNot only do these racks save space in your fridge, they also allow you to store and chill your wind properly. The Fridge Binz organization system helps you organize and maximize the space in your fridge.\r\n\r\nThese versatile pieces let you create customized storage and make the most of every inch. They make your fridge simple to navigate and the food easy to find.\r\n\r\nThe stackable wine rack and the Fridge Binz system is available online and at a Bed Bath & Beyond store near you.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 254.98964,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "1\/14\/2014",
+    "created_date": "2\/28\/2012",
+    "creator": null
+}

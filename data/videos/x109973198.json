@@ -1,0 +1,107 @@
+{
+    "title": "Star Wars BB-8 Sphero",
+    "description": "",
+    "referenceId": "1309245402",
+    "date_created": "1502519582",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109973198",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Star-Wars-BB-8-Sphero",
+    "category": "",
+    "duration": "122",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "122",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/thumb-49092c0edf4e9bca72870ce888ceedea-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973198\/6b272\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109973198\/cc\/vtt\/en_1503590575.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 284.33194,
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "9\/3\/2015",
+    "created_date": "9\/3\/2015",
+    "creator": null
+}

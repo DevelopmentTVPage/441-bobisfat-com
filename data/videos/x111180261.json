@@ -1,0 +1,98 @@
+{
+    "title": "Crispy Corners Brownie Pan",
+    "description": "",
+    "referenceId": "31667",
+    "date_created": "1502924216",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180261",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Crispy-Corners-Brownie-Pan",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/thumb-31667-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/media.m3u8"
+    },
+    "transcripts": "Hi. My name is Emily from Bed Bath and Beyond, and I'm here to tell you about the Crispy Corners Brownie Pan. This pan bakes 12 - 2\" square brownies all the same size and height, and each brownie has four crispy edges. The pan is non-stick and dishwasher safe so cleanup is a breeze. The Crispy Corner Brownie Pan is so simple to use. All you need to do is pour it, bake it, flip it, and pull them apart. Simply pour in your brownie batter and use a spatula to distribute evenly and bake. When your brownies are cool place a flat surface, like a cutting board, on top of the pan, flip it over, and tap the pan to release the brownies. Now, take your platter and place it on top of the brownies and flip it over so your brownies are right side up.\r\n\r\nNow, comes the best part. It's time to eat. There's no need to cut your brownies. Simply serve your crispy corner brownies to friends and family and watch them be pulled apart. The Crispy Corners Brownie Pan is available online and at a Bed Bath and Beyond store near you.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16.729622,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "5\/23\/2012",
+    "created_date": "8\/19\/2011",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Rock-It 2.0 Portable Vibration Speaker System",
+    "description": "",
+    "referenceId": "35083",
+    "date_created": "1502524966",
+    "date_modified": "1504049172",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110004166",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Rock-It-2-0-Portable-Vibration-Speaker-System",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/thumb-197963b7cfb9157385ee791aa99426d9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004166\/cec4b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Jason Fomorgoto here with the Rock-It. Now this thing is the most amazing product you'll ever see. It will turn anything, yes anything, into a speaker. You pop the cap like so. Unwind it like this. Plug into anything with a standard headphone jack like an IPod or an IPhone; press play. Now you'll hear a little music coming out but when you take it and stick it to something like a Kleenex box for example, it will turn the Kleenex box into a speaker. Say you're in your kitchen and you've got a plastic bowl sitting around, take Rock-It and stick it right to the bottom of the bowl.\r\n\r\nNow water jugs work really good. Say you're thirsty, finish off some water or some juice, plug it, stick it. Now the juice is rocking. Best of all say you're hungry, wake up in the morning, have some Shredded Wheats. Pop some in your mouth. Stick it to the box. It's a speaker and it's nutritious. Now Rock-It is the hottest item of the year and you can buy it right here in the store. Go ahead and grab it now and remember to plug it, stick it, Rock-It!",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 272.16724,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "9\/22\/2012",
+    "created_date": "10\/26\/2011",
+    "creator": null
+}

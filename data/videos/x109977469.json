@@ -1,0 +1,99 @@
+{
+    "title": "Anthology Serengeti Reversible Comforter and Bedding Collection",
+    "description": "",
+    "referenceId": "1416328090",
+    "date_created": "1502520287",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109977469",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Anthology-Serengeti-Reversible-Comforter-and-Bedding-Col-3-notes",
+    "category": "",
+    "duration": "80",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "80",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/thumb-20776b55ff4b44e8940724f7dab195d1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977469\/5244d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "THE SERENGETI COMFORTER & BEDDING\r\n\r\nThe  SERENGETI COMFORTER and BEDDING COLLECTION by Anthology was designed exclusively for Bed Bath and Beyond.\r\n\r\nThe first layer of the bed begins with the Euro Shams.  The Euro Shams add an ideal backdrop to the bed.  They are 100% textured cotton in golden yellow with a smocked effect. \r\n\r\nThe SERENGETI COMFORTER and pillow shams are also 100% cotton with an abstract printed animal pattern in midtone grey and white with pops of golden yellow.  Sold as a set, the coordinating pillow shams and comforter reverse to a white and grey printed pattern.  The resulting bed is modern and sophisticated.\r\n\r\nThe pillows accenting this bed suite are\r\n\r\n- A square, smocked grey and white printed pillow  \r\n\r\n- An oblong pillow with a grey ground and embroidery golden yellow\r\n\r\n- An oblong white corded pillow with yellow pom poms.\r\n\r\nThe pillows add the key fashion elements to complete this bed look.  \r\n\r\nTHE SERENGETI COMFORTER & BEDDING collection is part of the Anthology Collection. It is available exclusively online and at select Bed Bath & Beyond stores.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 155.84317,
+    "delete": "",
+    "notes": null,
+    "uploader": "christina.steel",
+    "modified_date": "6\/27\/2014",
+    "created_date": "",
+    "creator": null
+}

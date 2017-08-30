@@ -1,0 +1,24 @@
+{
+    "title": "KitchenAid",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438300460",
+    "date_modified": "1438300585",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6286047",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "KitchenAid",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "875947620-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "875947620-70223121.png"
+    },
+    "transcripts": null
+}

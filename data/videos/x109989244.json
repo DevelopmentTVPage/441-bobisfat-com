@@ -1,0 +1,102 @@
+{
+    "title": "kob arcadia bedding 1.mp4",
+    "description": "",
+    "referenceId": "1696863217",
+    "date_created": "1502522511",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109989244",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3847",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "kob-arcadia-bedding-1-mp4",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "82",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/thumb-84512ab8cccaa474e1d3aa703881216d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989244\/242dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.387056,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "10\/22\/2013",
+    "created_date": "",
+    "creator": null
+}

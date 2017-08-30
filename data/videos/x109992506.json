@@ -1,0 +1,101 @@
+{
+    "title": "Real Simple How to Put on a Duvet Cover",
+    "description": "",
+    "referenceId": "1791997137",
+    "date_created": "1502523317",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109992506",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Real-Simple-How-to-Put-on-a-Duvet-Cover",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "35",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/thumb-5988b62e16ca798f1eb861d49508f9bb-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992506\/e7319\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20",
+        "9",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 350.62814,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "2\/6\/2017",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Therapedic&reg; Mattress Topper",
+    "description": "",
+    "referenceId": "1509775895",
+    "date_created": "1502521054",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109980732",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Therapedic\u00c2-Mattress-Topper-3-notes",
+    "category": "",
+    "duration": "137",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "137",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/thumb-810fb9031dd892de5de6c8a7c19df46e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980732\/1964f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Not ready to part with your mattress? A Therapedic memory foam mattress topper is a great way to improve the feel of your existing mattress, it adds a new layer of comfort and support, molding to your body and equally supporting all parts so there are no pressure points to cause pain and soreness.\r\n\r\n When selecting a Therapedic mattress topper, consider how much cushion your body needs and the firmness or softness of your underlying mattress. All Therapedic toppers feature high quality materials and high density foams that are performance tested.  Comfortable sleep starts with the Therapedic one-and-a-half inch \u0093memory touch\u0094 mattress topper. It may be the thinnest mattress topper we make, but it\u0092s big on comfort. Made with one-and-a-half inches of high density \u0093memory touch foam,\u0094 it adjusts to your body\u0092s contours and features a \u0093moisture wicking cover\u0094 to keep your body comfortable while you sleep with odor neutralizing technology.\r\n\r\nNeed more cushioning? The Therapedic two-inch \u0093memory touch comfort\u0094 mattress topper is the next step up. This topper features two full inches of high density anti-microbial \u0093memory touch foam,\u0094 a \u0093moisture wicking cover\u0094 and odor neutralizing technology.\r\n\r\n For those who prefer even more cushioning comfort and a cooler sleep experience, the Therapedic three-inch \u0093memory touch\u0094 mattress topper is the best of both worlds. With its unique cooling technology, Therapedic\u0092s three-inch \u0093memory touch\u0094 not only adjusts to your body\u0092s contours, it provides a cooler sleeping environment and breathability for greater airflow. It also includes antimicrobial protection and odor-eliminating technology.\r\n\r\nIf you are a temperature sensitive sleeper, either \u0093hot\u0094 or \u0093cold\u0094 \u0097 or somewhere in between, consider the Therapedic two-inch memory gel mattress enhancer. Similar to traditional memory foam, this two-inch topper offers top-of-the-line comfort with temperature regulating technology to balance sleeping temperature, micro-gel beads to provide personalized support, and odor neutralizing features, with a Nano-Tex cover and a 10-year warranty. This is an ideal mattress topper for either hot or cold sleepers.\r\n\r\n To complete your bed set, see our videos on choosing the right mattress pad and pillow for you!",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "9",
+        "3",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 21.030891,
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "6\/25\/2015",
+    "created_date": "",
+    "creator": null
+}

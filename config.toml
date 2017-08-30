@@ -11,3 +11,238 @@ loginId = "1758166"
 subfolder = ""
 firstpartycookies = false
 cookiedomain = "bobisfat.com"
+
+
+#COOKING
+[menu]
+[[menu.main]]
+name = "Cooking"
+weight = -10
+identifier = "6410335"
+url = "/c/cooking/6410335"
+
+[[menu.main]]
+name = "Featured"
+identifier = "featured_a"
+weight = -11
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Recipes"
+identifier = "recipes"
+weight = -12
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Timesavers"
+identifier = "timesavers"
+weight = -13
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Cookware"
+identifier = "cookware"
+weight = -14
+url = "c/cooking/6410335"
+parent = "6410335"
+
+#HOME
+[[menu.main]]
+name = "Home"
+weight = -20
+identifier = "6410336"
+url = "/c/home/6410336"
+
+[[menu.main]]
+name = "Featured"
+weight = -21
+parent = "6410336"
+identifier = "featured_b"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Living Room"
+weight = -22
+parent = "6410336"
+identifier = "living_room"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Bedroom"
+weight = -23
+parent = "6410336"
+identifier = "bedroom"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Kitchen"
+weight = -24
+parent = "6410336"
+identifier = "kitchen"
+url = "c/home/6410336"
+
+#SEASONAL
+[[menu.main]]
+name = "Seasonal"
+weight = -30
+identifier = "85595586"
+url = "/c/seasonal/85595586"
+
+[[menu.main]]
+name = "Featured"
+weight = -31
+parent = "85595586"
+identifier = "featured_c"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Gardening"
+weight = -32
+parent = "85595586"
+identifier = "gardening"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Outdoor living"
+weight = -33
+parent = "85595586"
+identifier = "outdoor_living"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Dining Entertaining"
+weight = -34
+parent = "85595586"
+identifier = "dining_entertaining"
+url = "c/seasonal/85595586"
+
+#GIFTING
+[[menu.main]]
+name = "Gifting"
+weight = -40
+identifier = "6410338"
+url = "/c/wedding/6410338"
+
+[[menu.main]]
+name = "Featured"
+weight = -41
+parent = "6410338"
+identifier = "featured_d"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "For Him"
+weight = -42
+parent = "6410338"
+identifier = "for_him"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "For Her"
+weight = -43
+parent = "6410338"
+identifier = "for_her"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "Popular Gifts"
+weight = -44
+parent = "6410338"
+identifier = "popular_gifts"
+url = "c/wedding/6410338"
+
+# tvpage0 custom settings
+[params.tvppages]
+    [params.tvppages.channelgalleryids]
+    type = "text"
+    label = "Channel Gallery Ids"
+    code = "channelgalleryids"
+    value = "6410334,6410338,6410335,6410336"
+    [params.tvppages.brandsliderids]
+    type = "text"
+    label = "Brand Slider Ids"
+    code = "brandsliderids"
+    value = "6287008,6287449,6287340,6287393,6287553,6288329,6286995,6288382,6288482,6288535,6287448,6286856,6287240,6286802,6286047"
+    [params.tvppages.homechannelid]
+    type = "text"
+    label = "Home Channel Id"
+    code = "homechannelid"
+    value = "114661406"
+
+    [params.tvppages.homesubchannel]
+    type = "text"
+    label = "Home Sub Channels"
+    code = "homesubchannel"
+    value="85454430,85454431,85454432,85454433"
+    [params.tvppages.cookingsubchannel]
+    type = "text"
+    label = "Cooking Sub Channels"
+    code = "cookingsubchannel"
+    value="85453579,85453580,85453581,85453582"
+    [params.tvppages.holidayssubchannel]
+    type = "text"
+    label = "Holidays Sub Channels"
+    code = "holidayssubchannel"
+    value="85453583,85453584,85453585,85454429"
+    [params.tvppages.weddingsubchannel]
+    type = "text"
+    label = "Wedding Sub Channels"
+    code = "weddingsubchannel"
+    value="85454434,85454435,85454436,85454437"
+
+    [params.tvppages.headerbackground]
+    for = "styles"
+    type = "text"
+    label = "Header Background"
+    code = "headerbackground"
+    value = "white"
+    # the favicon icon is used as https://url.com/favicon without the extension its just because have a file on png and icon
+    [params.tvppages.favicon]
+    for = "styles"
+    type = "text"
+    label = "favicon"
+    code = "favicon"
+    value = "https://www.bedbathandbeyond.com/favicon"
+
+    [params.tvppages.player_version]
+    for = "player"
+    type = "text"
+    label = "Player Version"
+    code = "player_version"
+    value = "3.0.1"
+
+    [params.codebook.featured]
+        query  = "video_type=featured"
+    [params.codebook.recipes]
+        query  = "video_type=recipes"
+    [params.codebook.timesavers]
+        query  = "video_type=timesavers"
+    [params.codebook.cookware]
+        query  = "video_type=cookware"
+    [params.codebook.living_room]
+        query  = "video_type=living_room"
+    [params.codebook.bedroom]
+        query  = "video_type=bedroom"
+    [params.codebook.kitchen]
+        query  = "video_type=kitchen"
+    [params.codebook.food_preparation]
+        query  = "video_type=food_preparation"
+    [params.codebook.gift_ideas]
+        query  = "video_type=gifting"
+    [params.codebook.entertainment]
+        query  = "video_type=entertainment"
+    [params.codebook.for_him]
+        query  = "video_type=for_him"
+    [params.codebook.for_her]
+        query  = "video_type=for_her"
+    [params.codebook.popular_gifts]
+        query  = "video_type=popular_gifts"
+    [params.codebook.dining_entertaining]
+        query  = "video_type=dining_entertaining"
+    [params.codebook.gardening]
+        query  = "video_type=gardening"
+    [params.codebook.outdoor_living]
+        query  = "video_type=outdoor_living"
