@@ -1,0 +1,101 @@
+{
+    "title": "instagram spiralizer approval 01 25 17.mp4",
+    "description": "",
+    "referenceId": "1800576489",
+    "date_created": "1502523374",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109992530",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3573",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "instagram-spiralizer-approval-01-25-17-mp4",
+    "category": "",
+    "duration": "13",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "13",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/thumb-6848bf4bc9b85294816397c2b7cd9a0e-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992530\/e7a94\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "27"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 21.637539,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "1\/30\/2017",
+    "created_date": "",
+    "creator": null
+}

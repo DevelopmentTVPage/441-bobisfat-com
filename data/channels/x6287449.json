@@ -1,0 +1,24 @@
+{
+    "title": "Char-Broil",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438382305",
+    "date_modified": "1447357732",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6287449",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Char-Broil",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "165472716-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "165472716-02191000782.jpg"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,1289 @@
+{
+    "pageNumber": 164,
+    "data": [
+        {
+            "id": "109974303",
+            "title": "Inglesina Net Strollers",
+            "date_created": "1502519835",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "66",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "66",
+                "prettyDuration": "00:01:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/thumb-d583a344da18d89582ea4b4567a93880-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974303\/c583f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109974303\/cc\/vtt\/en_1503617690.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/inglesina-net-strollers-3-notes\/111091684-109974303"
+        },
+        {
+            "id": "109974302",
+            "title": "Travelon&reg; Anti-Theft Classic Travel Bag",
+            "date_created": "1502519833",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "36",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "36",
+                "prettyDuration": "00:00:36",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/thumb-2ffbf9d93275c336c5e86f83c5fdd53c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974302\/a555c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/travelon\u00c2-anti-theft-classic-travel-bag-3-notes\/111091684-109974302"
+        },
+        {
+            "id": "109974301",
+            "title": "Conair&reg; Sonic 3-Speed Facial Brush",
+            "date_created": "1502519830",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/thumb-8892c3cad773697d4b662cfa28d0924f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974301\/c9494\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/conair\u00c2-sonic-3-speed-facial-brush-3-notes\/111091684-109974301"
+        },
+        {
+            "id": "109974300",
+            "title": "real-simple-dinnerware-2.mp4",
+            "date_created": "1502519829",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "67",
+                "prettyDuration": "00:01:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/thumb-2058a281c8e04e890766bb58361d48ca-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974300\/16e30\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/real-simple-dinnerware-2-mp4\/111091684-109974300"
+        },
+        {
+            "id": "109974299",
+            "title": "OXO Good Grips&reg; Shellfish\/Clam Knives",
+            "date_created": "1502519826",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/thumb-8e8bbc4207d31f74f109e5788506d816-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974299\/f73ff\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/oxo-good-grips\u00c2-shellfish-clam-knives-3-notes\/111091684-109974299"
+        },
+        {
+            "id": "109974298",
+            "title": "Breville&reg; Bit More&trade; Toaster",
+            "date_created": "1502519825",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "92",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "92",
+                "prettyDuration": "00:01:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/thumb-147227194b637a93b526c3d26607b5d6-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974298\/4ffec\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville\u00c2-bit-more\u00e2-toaster-3-notes\/111091684-109974298"
+        },
+        {
+            "id": "109973297",
+            "title": "Sheex Aire Dual Performance Sheets",
+            "date_created": "1502519819",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "127",
+                "prettyDuration": "00:02:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/thumb-012f13f2ff65646788a9e056d9b86281-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973297\/58d2f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sheex-aire-dual-performance-sheets\/111091684-109973297"
+        },
+        {
+            "id": "109973296",
+            "title": "Madrigal Coverlet",
+            "date_created": "1502519817",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "70",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/thumb-7aeb9f6d0cc6d921847fc8c46b261e42-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/madrigal-coverlet-3-notes\/111091684-109973296"
+        },
+        {
+            "id": "109973295",
+            "title": "OXO Good Grips&reg; Clean Cut Stainless Steel Pizza Wheel",
+            "date_created": "1502519816",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/thumb-175bd612fd903b962650d7fafbb7ffa0-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/oxo-good-grips\u00c2-clean-cut-stainless-steel-pizza-wheel-3-notes\/111091684-109973295"
+        },
+        {
+            "id": "109973294",
+            "title": "Rowenta DW8183 Pro Master Iron",
+            "date_created": "1502519812",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "50",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/thumb-2fdfea665c1be2cbdfb11546a3202c5a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973294\/f7785\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/rowenta-dw8183-pro-master-iron-2-notes\/111091684-109973294"
+        },
+        {
+            "id": "109973293",
+            "title": "Sistema&reg; Easy Eggs To Go Microwave Cooker",
+            "date_created": "1502519810",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "45",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "45",
+                "prettyDuration": "00:00:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/thumb-8fbcd8331c83b169d862912ac0d77b5d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973293\/58708\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sistema\u00c2-easy-eggs-to-go-microwave-cooker-3-notes\/111091684-109973293"
+        },
+        {
+            "id": "109973292",
+            "title": "Chicco&reg; Cortina&reg; SE Travel System",
+            "date_created": "1502519806",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/thumb-b65f0903bfdd0a96bdccdf4ab0594e93-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973292\/97fa8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109973292\/cc\/vtt\/en_1503617477.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/chicco\u00c2-cortina\u00c2-se-travel-system\/111091684-109973292"
+        },
+        {
+            "id": "109973291",
+            "title": "Philips Norelco Shaver 9500",
+            "date_created": "1502519803",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/thumb-15c34274ae55b73540d3cdc7abc20a07-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973291\/e3eca\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/philips-norelco-shaver-9500-3-notes\/111091684-109973291"
+        },
+        {
+            "id": "109973290",
+            "title": "JAM Trance Plus Wireless Bluetooth Light Show Speaker",
+            "date_created": "1502519800",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "29",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "29",
+                "prettyDuration": "00:00:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/thumb-4d443a6ef2ea6bb81015141552a2e87b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973290\/cceea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jam-trance-plus-wireless-bluetooth-light-show-speaker-2-notes\/111091684-109973290"
+        },
+        {
+            "id": "109973289",
+            "title": "John Louis Home 12-Inch Under Mount Tie and Belt Rack",
+            "date_created": "1502519799",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "106",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "106",
+                "prettyDuration": "00:01:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/thumb-dbedd07a955975059c6253de4befae7e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973289\/b5b03\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/john-louis-home-12-inch-under-mount-tie-and-belt-rack-3-notes\/111091684-109973289"
+        },
+        {
+            "id": "109973288",
+            "title": "5.3 qt. Power AirFryer XL",
+            "date_created": "1502519797",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/thumb-cd34019ef7cdcdc87c10ca77452473b3-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973288\/8b127\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/5-3-qt-power-airfryer-xl-2-notes\/111091684-109973288"
+        },
+        {
+            "id": "109973287",
+            "title": "Peg Perego Duette Piroet",
+            "date_created": "1502519794",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "142",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "142",
+                "prettyDuration": "00:02:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/thumb-17e133190474cd63cc0d188d5028fa5e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973287\/a3678\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109973287\/cc\/vtt\/en_1503617287.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/peg-perego-duette-piroet-3-notes\/111091684-109973287"
+        },
+        {
+            "id": "109973286",
+            "title": "Graco&reg; Extend2Fit&trade; Convertible Car Seat",
+            "date_created": "1502519792",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/thumb-681e1b77ead01c20c3a7368e1cc4ba6b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973286\/7aebd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/graco\u00c2-extend2fit\u00e2-convertible-car-seat\/111091684-109973286"
+        },
+        {
+            "id": "109973285",
+            "title": "Everything Orgo Travel Organizer Case",
+            "date_created": "1502519791",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/thumb-16fa26309bd54fbc2eecf21a4681f99d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973285\/12cf8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/everything-orgo-travel-organizer-case-3-notes\/111091684-109973285"
+        },
+        {
+            "id": "109973284",
+            "title": "Belly Bandit&reg;",
+            "date_created": "1502519788",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "43",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "43",
+                "prettyDuration": "00:00:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/thumb-a6760bc0c5d2bf2fd71a1167d54bd5fa-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973284\/21eac\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/belly-bandit\u00c2-3-notes\/111091684-109973284"
+        }
+    ]
+}

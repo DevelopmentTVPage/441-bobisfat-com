@@ -1,0 +1,1225 @@
+{
+    "pageNumber": 16,
+    "data": [
+        {
+            "id": "111180265",
+            "title": "Riedel Vinum Collection",
+            "date_created": "1502924226",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "113",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "113",
+                "prettyDuration": "00:01:53",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/thumb-31956-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180265\/78900\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/riedel-vinum-collection-2-notes\/111091684-111180265"
+        },
+        {
+            "id": "111180264",
+            "title": "Wilton Armetale Serveware",
+            "date_created": "1502924224",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "84",
+                "prettyDuration": "00:01:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/thumb-31955-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180264\/a66c2\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/wilton-armetale-serveware-2-notes\/111091684-111180264"
+        },
+        {
+            "id": "111180263",
+            "title": "Bella Cucina Triple Slow Cooker",
+            "date_created": "1502924222",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "70",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/thumb-31817-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180263\/12116\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bella-cucina-triple-slow-cooker\/111091684-111180263"
+        },
+        {
+            "id": "111180262",
+            "title": "Indoor LED Lighted Branches",
+            "date_created": "1502924220",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/thumb-31685-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180262\/78a63\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/indoor-led-lighted-branches-2-notes\/111091684-111180262"
+        },
+        {
+            "id": "111180261",
+            "title": "Crispy Corners Brownie Pan",
+            "date_created": "1502924216",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/thumb-31667-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180261\/83ca1\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/crispy-corners-brownie-pan\/111091684-111180261"
+        },
+        {
+            "id": "111180260",
+            "title": "Slice Solutions Brownie Pan",
+            "date_created": "1502924215",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "67",
+                "prettyDuration": "00:01:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/thumb-31665-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180260\/9bb16\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/slice-solutions-brownie-pan-2-notes\/111091684-111180260"
+        },
+        {
+            "id": "111180259",
+            "title": "Sound Asleep Pillow",
+            "date_created": "1502924213",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/thumb-31663-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180259\/8f65f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sound-asleep-pillow-8-18-11-flv-2-notes\/111091684-111180259"
+        },
+        {
+            "id": "111180258",
+            "title": "Pandigital Handheld Wand Scanner",
+            "date_created": "1502924212",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "145",
+                    "width": 800,
+                    "height": 450
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "145",
+                "prettyDuration": "00:02:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/thumb-31551-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180258\/ee3bb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/pandigital-handheld-wand-scanner-3-notes\/111091684-111180258"
+        },
+        {
+            "id": "111180257",
+            "title": "Pandigital Photo Slide and Scanner",
+            "date_created": "1502924210",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "78",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "78",
+                "prettyDuration": "00:01:18",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/thumb-31550-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180257\/aa9a6\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/pandigital-photo-slide-and-scanner-3-notes\/111091684-111180257"
+        },
+        {
+            "id": "111180256",
+            "title": "Wooden Music Center from Innovative Technology",
+            "date_created": "1502924208",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/thumb-31477-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/wooden-music-center-from-innovative-technology-2-notes\/111091684-111180256"
+        },
+        {
+            "id": "111180255",
+            "title": "The Premium Starter Kit for XBOX 360 Kinect",
+            "date_created": "1502924207",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "104",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "104",
+                "prettyDuration": "00:01:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/thumb-31379-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180255\/8f974\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/the-premium-starter-kit-for-xbox-360-kinect-2-notes\/111091684-111180255"
+        },
+        {
+            "id": "111180254",
+            "title": "CTA Wi-Bowl Bowling Ball for Wii",
+            "date_created": "1502924204",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "159",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "159",
+                "prettyDuration": "00:02:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/thumb-31378-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180254\/deaf8\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cta-wi-bowl-bowling-ball-for-wii-2-notes\/111091684-111180254"
+        },
+        {
+            "id": "111180253",
+            "title": "8-in-1 Sports Pack for the Wii Sports Resort",
+            "date_created": "1502924202",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "105",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "105",
+                "prettyDuration": "00:01:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/thumb-31377-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180253\/9e3e0\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/8-in-1-sports-pack-for-the-wii-sports-resort-2-notes\/111091684-111180253"
+        },
+        {
+            "id": "111180252",
+            "title": "Inflatable Kart for Wii",
+            "date_created": "1502924201",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "105",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "105",
+                "prettyDuration": "00:01:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/thumb-31376-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180252\/2769c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/inflatable-kart-for-wii\/111091684-111180252"
+        },
+        {
+            "id": "111180251",
+            "title": "Xbox 360 Kinect Perfect Range Anti-Slip Gaming Mat",
+            "date_created": "1502924200",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/thumb-31375-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180251\/1cf7f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/xbox-360-kinect-perfect-range-anti-slip-gaming-mat-2-notes\/111091684-111180251"
+        },
+        {
+            "id": "111180250",
+            "title": "CTA Dual Charging Dock for Wii with Two Rechargeable Batteries",
+            "date_created": "1502924198",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "118",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "118",
+                "prettyDuration": "00:01:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/thumb-31374-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180250\/5cfbb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cta-dual-charging-dock-for-wii-with-two-rechargeable-bat-2-notes\/111091684-111180250"
+        },
+        {
+            "id": "111180249",
+            "title": "Phillips Sonicare DiamondClean",
+            "date_created": "1502924198",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/thumb-31339-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180249\/413cd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/phillips-sonicare-diamondclean\/111091684-111180249"
+        },
+        {
+            "id": "111180248",
+            "title": "Philips Sonicare AirFloss",
+            "date_created": "1502924197",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "50",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/thumb-31338-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180248\/13910\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/philips-sonicare-airfloss\/111091684-111180248"
+        },
+        {
+            "id": "111180247",
+            "title": "Biggest Loser Digital Food Scale",
+            "date_created": "1502924195",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/thumb-31292-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180247\/3a329\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/biggest-loser-scale-flv\/111091684-111180247"
+        },
+        {
+            "id": "111180246",
+            "title": "Vinturi Wine Aerator",
+            "date_created": "1502924194",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/thumb-31291-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180246\/4c7eb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vinturi-wine-aireator-red-8-5-11-flv-2-notes\/111091684-111180246"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Oster Cooker CA.mp4",
+    "description": "",
+    "referenceId": "49448",
+    "date_created": "1502525975",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110008627",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2539",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Oster-Cooker-CA-mp4",
+    "category": "",
+    "duration": "80",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "80",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/thumb-fe0f5abeb32a1822e1cf3b847d6bfd51-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008627\/5ee1b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.752699,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

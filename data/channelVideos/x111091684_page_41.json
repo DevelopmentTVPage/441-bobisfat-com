@@ -1,0 +1,1257 @@
+{
+    "pageNumber": 41,
+    "data": [
+        {
+            "id": "111179761",
+            "title": "Ab Circle Pro",
+            "date_created": "1502923094",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/thumb-11127-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179761\/af762\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ab-circle-pro\/111091684-111179761"
+        },
+        {
+            "id": "111179760",
+            "title": "Air-O-Swiss Ultrasonic Digital Humidifier",
+            "date_created": "1502923091",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "215",
+                    "width": 720,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 540,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "215",
+                "prettyDuration": "00:03:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/thumb-11126-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179760\/36660\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179760\/cc\/vtt\/en_1503533328.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/air-o-swiss-ultrasonic-digital-humidifier\/111091684-111179760"
+        },
+        {
+            "id": "111179759",
+            "title": "iHome iA5 App-Enhanced Alarm Clock Speaker System for iPhone and iPod",
+            "date_created": "1502923089",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "125",
+                "prettyDuration": "00:02:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/thumb-11082-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ihome-ia5-app-enhanced-alarm-clock-speaker-system-for-ip\/111091684-111179759"
+        },
+        {
+            "id": "111179758",
+            "title": "How to Make Your Food Beautiful",
+            "date_created": "1502923086",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "149",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "149",
+                "prettyDuration": "00:02:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/thumb-1105825835-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179758\/b7584\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/how-to-make-your-food-beautiful-2-notes\/111091684-111179758"
+        },
+        {
+            "id": "111179757",
+            "title": "Tefal Actifry Deep Fryer",
+            "date_created": "1502923084",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 640,
+                    "height": 352
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 352
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 352
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 352
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 352
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 176
+                    }
+                ],
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/thumb-10949-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179757\/1805a\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179757\/cc\/vtt\/en_1503533286.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/tefal-actifry-deep-fryer\/111091684-111179757"
+        },
+        {
+            "id": "111179756",
+            "title": "Jorge Registry One Redo",
+            "date_created": "1502923082",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "118",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "118",
+                "prettyDuration": "00:01:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/thumb-10935-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179756\/a8b5b\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jorge-registry-one-redo-ft9529\/111091684-111179756"
+        },
+        {
+            "id": "111179755",
+            "title": "Jorge Welcome",
+            "date_created": "1502923079",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "29",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "29",
+                "prettyDuration": "00:00:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/thumb-10929-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179755\/f44a7\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jorge-welcome-ft9528\/111091684-111179755"
+        },
+        {
+            "id": "111179754",
+            "title": "Jorge Registry Two",
+            "date_created": "1502923076",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "222",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "222",
+                "prettyDuration": "00:03:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/thumb-10928-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179754\/7cc63\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jorge-registry-two-ft9527\/111091684-111179754"
+        },
+        {
+            "id": "111179753",
+            "title": "Jorge Registry One",
+            "date_created": "1502923075",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "125",
+                "prettyDuration": "00:02:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/thumb-10926-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179753\/a3be3\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jorge-registry-one-ft9526\/111091684-111179753"
+        },
+        {
+            "id": "111179752",
+            "title": "Mighty Mug  Desk Mugs",
+            "date_created": "1502923072",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "24",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "24",
+                "prettyDuration": "00:00:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/thumb-1086576383-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179752\/e8e58\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/mighty-mug-desk-mugs-2-notes\/111091684-111179752"
+        },
+        {
+            "id": "111179751",
+            "title": "Kenneth Cole Reaction Home Urban Stripe Area Rug",
+            "date_created": "1502923070",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "47",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "47",
+                "prettyDuration": "00:00:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/thumb-1081105273-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179751\/abe44\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-urban-stripe-area-rug-2-notes\/111091684-111179751"
+        },
+        {
+            "id": "111179750",
+            "title": "Evolve Ladybug Showerhead Adapter",
+            "date_created": "1502923067",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 960,
+                    "height": 540
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/thumb-10722-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/evolve-ladybug-showerhead-adapter\/111091684-111179750"
+        },
+        {
+            "id": "111179749",
+            "title": "evolve ShowerStart Technology Shower Heads",
+            "date_created": "1502923066",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 960,
+                    "height": 540
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "127",
+                "prettyDuration": "00:02:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/thumb-10721-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179749\/27ccc\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179749\/cc\/vtt\/en_1503527323.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/evolve-showerstart-technology-shower-heads\/111091684-111179749"
+        },
+        {
+            "id": "111179748",
+            "title": "Hurom&reg; Slow Juicers",
+            "date_created": "1502923062",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "274",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "274",
+                "prettyDuration": "00:04:34",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/thumb-1066415032-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179748\/573f6\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/hurom\u00c2-slow-juicers-2-notes\/111091684-111179748"
+        },
+        {
+            "id": "111179746",
+            "title": "Fabor Pressure Cookers",
+            "date_created": "1502923060",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "81",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "81",
+                "prettyDuration": "00:01:21",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/thumb-10632-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179746\/312b8\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179746\/cc\/vtt\/en_1503527263.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/fabor-pressure-cookers\/111091684-111179746"
+        },
+        {
+            "id": "111179745",
+            "title": "simplehuman&reg; Pet Food Can",
+            "date_created": "1502923059",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/thumb-1053705730-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179745\/6fc9c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/simplehuman\u00c2-pet-food-can-2-notes\/111091684-111179745"
+        },
+        {
+            "id": "111179744",
+            "title": "VuPoint Solutions Magic Wand Portable Scanner",
+            "date_created": "1502923058",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "66",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "66",
+                "prettyDuration": "00:01:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/thumb-10518-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179744\/9b2cb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vupoint-solutions-magic-wand-portable-scanner\/111091684-111179744"
+        },
+        {
+            "id": "111179743",
+            "title": "miami-beach-.mp4",
+            "date_created": "1502923057",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/thumb-1040195546-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179743\/57cfd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/miami-beach-mp4\/111091684-111179743"
+        },
+        {
+            "id": "111179742",
+            "title": "Change Of Season Motion Art",
+            "date_created": "1502923057",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "24",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "24",
+                "prettyDuration": "00:00:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/thumb-10389-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179742\/d8f23\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/change-of-season-motion-art\/111091684-111179742"
+        },
+        {
+            "id": "111179741",
+            "title": "The Original&trade; Dish Drying Mat",
+            "date_created": "1502923053",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/thumb-1035787025-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179741\/d6ca3\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/the-original\u00e2-dish-drying-mat-2-notes\/111091684-111179741"
+        }
+    ]
+}

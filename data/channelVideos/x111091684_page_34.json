@@ -1,0 +1,1281 @@
+{
+    "pageNumber": 34,
+    "data": [
+        {
+            "id": "111179901",
+            "title": "Dryer Lint Removal Kit",
+            "date_created": "1502923407",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/thumb-12727-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179901\/f53f5\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179901\/cc\/vtt\/en_1503535748.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/dryer-lint-removal-kit\/111091684-111179901"
+        },
+        {
+            "id": "111179900",
+            "title": "ANSR Beam Anti-Aging Phototherapy Device",
+            "date_created": "1502923407",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/thumb-12725-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ansr-beam-anti-aging-phototherapy-device\/111091684-111179900"
+        },
+        {
+            "id": "111179899",
+            "title": "Electrolux Versatility Bagless Upright Vacuum Cleaner",
+            "date_created": "1502923404",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/thumb-12714-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179899\/1d7c9\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179899\/cc\/vtt\/en_1503535708.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/electrolux-versatility-bagless-upright-vacuum-cleaner\/111091684-111179899"
+        },
+        {
+            "id": "111179898",
+            "title": "Electrolux ErgoRapido 2-in-1 Stick Vac\/Handheld Vacuum",
+            "date_created": "1502923402",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/thumb-12713-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179898\/5aabd\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179898\/cc\/vtt\/en_1503535691.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/electrolux-ergorapido-2-in-1-stick-vac-handheld-vacuum\/111091684-111179898"
+        },
+        {
+            "id": "111179897",
+            "title": "Richmond Collection 2 and 6 Compartment Cabinet",
+            "date_created": "1502923400",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "207",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "207",
+                "prettyDuration": "00:03:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/thumb-1266859537-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179897\/ee78e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/richmond-collection-2-and-6-compartment-cabinet-2-notes\/111091684-111179897"
+        },
+        {
+            "id": "111179896",
+            "title": "Fairfax Blue Bath Ensemble",
+            "date_created": "1502923400",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/thumb-1263452997-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179896\/0f99d\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/fairfax-blue-bath-ensemble-2-notes\/111091684-111179896"
+        },
+        {
+            "id": "111179895",
+            "title": "Breville&reg; Mini Smart Oven&reg; with Element IQ&trade;",
+            "date_created": "1502923396",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "203",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "203",
+                "prettyDuration": "00:03:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/thumb-1253275442-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179895\/a0b03\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville\u00c2-mini-smart-oven\u00c2-with-element-iq\u00e2-2-notes\/111091684-111179895"
+        },
+        {
+            "id": "111179894",
+            "title": "Neat Receipts",
+            "date_created": "1502923393",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "208",
+                    "width": 576,
+                    "height": 324
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 324
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 324
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 324
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 324
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "208",
+                "prettyDuration": "00:03:28",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/thumb-12468-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179894\/6c927\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/neat-receipts-2-notes\/111091684-111179894"
+        },
+        {
+            "id": "111179893",
+            "title": "Kenneth Cole Reaction Home Marble Bath Ensemble",
+            "date_created": "1502923392",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/thumb-1245448515-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179893\/277b2\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-marble-bath-ensemble-2-notes\/111091684-111179893"
+        },
+        {
+            "id": "111179892",
+            "title": "Ozone Bath Ensemble",
+            "date_created": "1502923391",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "27",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "27",
+                "prettyDuration": "00:00:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/thumb-1243725507-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179892\/26b67\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ozone-bath-ensemble-2-notes\/111091684-111179892"
+        },
+        {
+            "id": "111179891",
+            "title": "How To Carve a Turkey",
+            "date_created": "1502923389",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "127",
+                "prettyDuration": "00:02:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/thumb-1241303235-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179891\/c8aed\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/how-to-carve-a-turkey-2-notes\/111091684-111179891"
+        },
+        {
+            "id": "111179890",
+            "title": "Foaming Soap Dispenser",
+            "date_created": "1502923385",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/thumb-1240666992-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179890\/45b24\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/foaming-soap-dispenser-2-notes\/111091684-111179890"
+        },
+        {
+            "id": "111179889",
+            "title": "Meat Tenderizer",
+            "date_created": "1502923381",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "77",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "77",
+                "prettyDuration": "00:01:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/thumb-1220280313-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179889\/09ffb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/meat-tenderizer-usa-3-mov-2-notes\/111091684-111179889"
+        },
+        {
+            "id": "111179888",
+            "title": "CaliBowl - Serving, Mixing, and Toddler Bowls",
+            "date_created": "1502923380",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/thumb-12151-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179888\/96000\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179888\/cc\/vtt\/en_1503535657.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/calibowl-serving-mixing-and-toddler-bowls\/111091684-111179888"
+        },
+        {
+            "id": "111179887",
+            "title": "Starbucks&reg; Verismo&trade; 580 Brewer",
+            "date_created": "1502923379",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "47",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "47",
+                "prettyDuration": "00:00:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/thumb-1214727048-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179887\/7f938\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/starbucks\u00c2-verismo\u00e2-580-brewer-2-notes\/111091684-111179887"
+        },
+        {
+            "id": "111179886",
+            "title": "Cabinet Binz",
+            "date_created": "1502923376",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/thumb-1211384495-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179886\/0b7a1\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cabinet-binz-2-notes\/111091684-111179886"
+        },
+        {
+            "id": "111179885",
+            "title": "Kenneth Cole Reaction Home Woodgrain Shower Curtain",
+            "date_created": "1502923374",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/thumb-1209835794-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179885\/a99ec\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-woodgrain-shower-curtain-2-notes\/111091684-111179885"
+        },
+        {
+            "id": "111179884",
+            "title": "Cordless Swivel Sweeper G2",
+            "date_created": "1502923373",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/thumb-11994-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179884\/2cecf\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179884\/cc\/vtt\/en_1503535639.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cordless-swivel-sweeper-g2\/111091684-111179884"
+        },
+        {
+            "id": "111179883",
+            "title": "Stick N Click",
+            "date_created": "1502923372",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "83",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "83",
+                "prettyDuration": "00:01:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/thumb-11982-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179883\/31fdd\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179883\/cc\/vtt\/en_1503535622.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/stick-n-click\/111091684-111179883"
+        },
+        {
+            "id": "111179882",
+            "title": "Breville Smart Grill",
+            "date_created": "1502923368",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "84",
+                "prettyDuration": "00:01:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/thumb-11935-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179882\/a4cdd\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179882\/cc\/vtt\/en_1503535526.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-smart-grill\/111091684-111179882"
+        }
+    ]
+}

@@ -1,0 +1,1265 @@
+{
+    "pageNumber": 194,
+    "data": [
+        {
+            "id": "109966701",
+            "title": "T-Fal&reg; OptiGrill Plus&trade;",
+            "date_created": "1502518087",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/thumb-6a485b9095cfe419e56a50c4b9a29e9d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966701\/f575a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/t-fal\u00c2-optigrill-plus\u00e2-3-notes\/111091684-109966701"
+        },
+        {
+            "id": "109966700",
+            "title": "Keurig&reg; KOLD&trade; Drinkmaker",
+            "date_created": "1502518086",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "31",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "31",
+                "prettyDuration": "00:00:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/thumb-cc147d4438ee2619f56479cd1dd84a18-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966700\/bd4af\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/keurig\u00c2-kold\u00e2-drinkmaker-4-notes\/111091684-109966700"
+        },
+        {
+            "id": "109966699",
+            "title": "Citizen Ladies' Eco-Drive A - T Watch",
+            "date_created": "1502518081",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/thumb-a0672bcef0dcb195f9320d118b16223f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966699\/4419d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/citizen-ladies-eco-drive-a-t-watch-3-notes\/111091684-109966699"
+        },
+        {
+            "id": "109966698",
+            "title": "Vitamix&reg; A2500 Ascent&trade; Series Blender",
+            "date_created": "1502518079",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1920,
+                    "height": 960
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/thumb-7d726a22738c4db010ce642a01430f85-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 960
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 426
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 320
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966698\/74f76\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 160
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vitamix\u00c2-a2500-ascent\u00e2-series-blender-3-notes\/111091684-109966698"
+        },
+        {
+            "id": "109966697",
+            "title": "Angelcare Near and Dear Angelfish Bather",
+            "date_created": "1502518077",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/thumb-4d2d27fbcff0c07591d9071a2942f818-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966697\/322d9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/angelcare-near-and-dear-angelfish-bather\/111091684-109966697"
+        },
+        {
+            "id": "109966696",
+            "title": "Chicco&reg; NaturalFit&reg; Bottles",
+            "date_created": "1502518076",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/thumb-2c6035d8cdef88948772b8c72ae49a59-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966696\/16b63\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/chicco\u00c2-naturalfit\u00c2-bottles-3-notes\/111091684-109966696"
+        },
+        {
+            "id": "109966695",
+            "title": "QuickZip Sheets",
+            "date_created": "1502518074",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "78",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "78",
+                "prettyDuration": "00:01:18",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/thumb-f82c3d2b29ad7b4a019471fb9815d9cc-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966695\/09c65\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/quickzip-sheets\/111091684-109966695"
+        },
+        {
+            "id": "109966694",
+            "title": "GB Pockit Stroller",
+            "date_created": "1502518073",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "17",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "17",
+                "prettyDuration": "00:00:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/thumb-3fce7d385b9910e018b48f85ed0b40f5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966694\/796a7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/gb-pockit-stroller\/111091684-109966694"
+        },
+        {
+            "id": "109965693",
+            "title": "bbbwamsutta bed greek key v2.mov",
+            "date_created": "1502518069",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/thumb-0ced38b31d1195ef4e658bceb3787f5c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965693\/c9e36\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bbbwamsutta-bed-greek-key-v2-mov\/111091684-109965693"
+        },
+        {
+            "id": "109965692",
+            "title": "Joovy&reg; Tricycoo&trade;4.1&trade;Tricycle",
+            "date_created": "1502518067",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "124",
+                "prettyDuration": "00:02:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/thumb-ed6aca84667b0288eae265eb08d32857-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965692\/3c9ab\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/joovy\u00c2-tricycoo\u00e2-4-1\u00e2-tricycle-3-notes\/111091684-109965692"
+        },
+        {
+            "id": "109965691",
+            "title": "Cuisinart&reg; X-Cold&trade; 7-Piece Cocktail Set",
+            "date_created": "1502518066",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/thumb-fc3e1e7ec497aa511396cf3cf3ff3a72-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965691\/1478d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart\u00c2-x-cold\u00e2-7-piece-cocktail-set-3-notes\/111091684-109965691"
+        },
+        {
+            "id": "109965690",
+            "title": "Cuisinart ICE 21 Ice Cream\/Yogurt Maker",
+            "date_created": "1502518065",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/thumb-479848afe68dab09451166bf4bc9e1c4-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965690\/6e18c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ice-21-ice-cream-yogurt-maker\/111091684-109965690"
+        },
+        {
+            "id": "109965689",
+            "title": "Graco&reg; Size4Me&trade;65 Convertible Car Seat",
+            "date_created": "1502518062",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/thumb-a6193f6d5b44178598f23269aeafd23a-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965689\/1a246\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/graco\u00c2-size4me\u00e2-65-convertible-car-seat-3-notes\/111091684-109965689"
+        },
+        {
+            "id": "109965688",
+            "title": "Peg Perego Book for Two Double Stroller",
+            "date_created": "1502518059",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "142",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "142",
+                "prettyDuration": "00:02:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/thumb-10a8150da565777f8015958fdda4f143-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965688\/3ebf2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/peg-perego-book-for-two-double-stroller-3-notes\/111091684-109965688"
+        },
+        {
+            "id": "109965687",
+            "title": "iTouchless&reg; Trash Can",
+            "date_created": "1502518055",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "23",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "23",
+                "prettyDuration": "00:00:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/thumb-dac2a328007107df39fefbb57163466c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965687\/0ee25\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/itouchless\u00c2-trash-can-3-notes\/111091684-109965687"
+        },
+        {
+            "id": "109965686",
+            "title": "Mama Mio 1 oz. Keep Calm Nipple Balm&trade;",
+            "date_created": "1502518053",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "45",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "45",
+                "prettyDuration": "00:00:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/thumb-b17938d3a2f2e18b9bd5be2843b2038f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965686\/11982\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/mama-mio-1-oz-keep-calm-nipple-balm\u00e2\/111091684-109965686"
+        },
+        {
+            "id": "109965685",
+            "title": "Joovy Boob Baby Bottle",
+            "date_created": "1502518026",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "179",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "179",
+                "prettyDuration": "00:02:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/thumb-669cfbe910ab3ea2a6879b869b5d6176-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965685\/a67fc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/joovy-boob-baby-bottle\/111091684-109965685"
+        },
+        {
+            "id": "109965684",
+            "title": "Neu Home Lohas Bamboo Floor Towers",
+            "date_created": "1502518023",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/thumb-f19df9e1b77203521141e4d988337b2a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965684\/680da\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/neu-home-lohas-bamboo-floor-towers-2-notes\/111091684-109965684"
+        },
+        {
+            "id": "109965683",
+            "title": "Coastal Collage Bath Ensemble",
+            "date_created": "1502518022",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/thumb-575c0cd6426da64cbb0747fa5125166e-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965683\/cd5eb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/coastal-collage-bath-ensemble-2-notes\/111091684-109965683"
+        },
+        {
+            "id": "109965682",
+            "title": "SteamOne 500-1600W Personal Garment Steamer w\/Adjustable Power Setting",
+            "date_created": "1502518021",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "104",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "104",
+                "prettyDuration": "00:01:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/thumb-1fd9eea761eb0e87f8231f46253f096f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109965682\/5d1ef\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/steamone-500-1600w-personal-garment-steamer-w-adjustable-3-notes\/111091684-109965682"
+        }
+    ]
+}

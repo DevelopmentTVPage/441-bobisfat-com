@@ -1,0 +1,1297 @@
+{
+    "pageNumber": 192,
+    "data": [
+        {
+            "id": "109966741",
+            "title": "Breville Variable Temperature Kettle BKE820XL",
+            "date_created": "1502518213",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/thumb-13bb28c3c53fb33da4d0d95dad533e59-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966741\/dfeae\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109966741\/cc\/vtt\/en_1503534704.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-variable-temperature-kettle-bke820xl\/111091684-109966741"
+        },
+        {
+            "id": "109966740",
+            "title": "Breville Gourmet Wok EW30XL",
+            "date_created": "1502518206",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/thumb-ae0335cfd819e042b05b4d0ed919d1d2-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966740\/d6ede\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-gourmet-wok-ew30xl\/111091684-109966740"
+        },
+        {
+            "id": "109966739",
+            "title": "Progressive Ratchet Salad Spinner",
+            "date_created": "1502518205",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/thumb-e02edac523ed1b7c2dfe91a06020ebfd-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109966739\/cc\/vtt\/en_1503534686.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966739\/d1deb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/progressive-ratchet-salad-spinner\/111091684-109966739"
+        },
+        {
+            "id": "109966738",
+            "title": "Collapsible Salad Spinner by Progressive International",
+            "date_created": "1502518204",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "125",
+                "prettyDuration": "00:02:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/thumb-9b171d798f867104b42c841b422a302a-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109966738\/cc\/vtt\/en_1503534669.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966738\/268df\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/collapsible-salad-spinner-by-progressive-international\/111091684-109966738"
+        },
+        {
+            "id": "109966737",
+            "title": "Misto Olive Oil Sprayer",
+            "date_created": "1502518201",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "115",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "115",
+                "prettyDuration": "00:01:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/thumb-a08478c06cb773d823f0e2247259415e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966737\/d3ad4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109966737\/cc\/vtt\/en_1503534656.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/misto-olive-oil-sprayer\/111091684-109966737"
+        },
+        {
+            "id": "109966736",
+            "title": "Margaritaville Key West Frozen Concoction&trade;Maker",
+            "date_created": "1502518199",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/thumb-0e726745b9eedc3ceb80a34b122d56d3-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966736\/351b3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/margaritaville-key-west-frozen-concoction\u00e2-maker\/111091684-109966736"
+        },
+        {
+            "id": "109966735",
+            "title": "Progressive Lettuce Keeper",
+            "date_created": "1502518198",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "101",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "101",
+                "prettyDuration": "00:01:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/thumb-8b619aa731e3deb444183944cb61729b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966735\/1ed9d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/progressive-lettuce-keeper\/111091684-109966735"
+        },
+        {
+            "id": "109966734",
+            "title": "Salter Folding Digital Kitchen Scale",
+            "date_created": "1502518192",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "28",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "28",
+                "prettyDuration": "00:00:28",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/thumb-23b1e2682a04eecf76d712236a57574c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966734\/0537c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/salter-folding-digital-kitchen-scale-2-notes\/111091684-109966734"
+        },
+        {
+            "id": "109966733",
+            "title": "kob khaya bedding v3.mp4",
+            "date_created": "1502518189",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "67",
+                "prettyDuration": "00:01:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/thumb-55382beeb06c6dbd6958c2caf7e663ba-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966733\/d8a25\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kob-khaya-bedding-v3-mp4\/111091684-109966733"
+        },
+        {
+            "id": "109966732",
+            "title": "SALAV Professional Series 1500-Watt Garment Steamer",
+            "date_created": "1502518187",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/thumb-6422c770227ef085a381d4be905b7e51-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966732\/a9992\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/salav-professional-series-1500-watt-garment-steamer\/111091684-109966732"
+        },
+        {
+            "id": "109966731",
+            "title": "Jetpik&reg; Water Flossers",
+            "date_created": "1502518185",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/thumb-af0d779794f4165a22cc7cac3542f8e5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966731\/b2ba5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/jetpik\u00c2-water-flossers-3-notes\/111091684-109966731"
+        },
+        {
+            "id": "109966730",
+            "title": "Wilton Advance Non-Stick Bakeware",
+            "date_created": "1502518181",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "50",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/thumb-337da4824fa8658368ed471badd5ae6a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966730\/ee439\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/wilton-advance-non-stick-bakeware-3-notes\/111091684-109966730"
+        },
+        {
+            "id": "109966729",
+            "title": "Baby Patent Clean Flush&trade; Potty",
+            "date_created": "1502518181",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/thumb-e707fad2613bf9b610f12c1e46a20316-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966729\/bee38\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/baby-patent-clean-flush\u00e2-potty\/111091684-109966729"
+        },
+        {
+            "id": "109966728",
+            "title": "Motorola&reg; MBP36XL Portable 5&quot; Video Baby Monitor",
+            "date_created": "1502518178",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/thumb-22a34622cfc45fc6bf11578f359990ae-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966728\/8c5ca\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/motorola\u00c2-mbp36xl-portable-5\u00e2-\u0153-video-baby-monitor-3-notes\/111091684-109966728"
+        },
+        {
+            "id": "109966727",
+            "title": "Architec&reg; FlipCup&trade;",
+            "date_created": "1502518176",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/thumb-6c0483e80f9f8286c4a0170145a5d0ec-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966727\/a23ef\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/architec\u00c2-flipcup\u00e2-3-notes\/111091684-109966727"
+        },
+        {
+            "id": "109966726",
+            "title": "iHome iSP5 Smart Plug",
+            "date_created": "1502518175",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/thumb-3f163dd4553d3038e62a8edc3ecc39a8-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966726\/390bf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ihome-isp5-smart-plug-2-notes\/111091684-109966726"
+        },
+        {
+            "id": "109966725",
+            "title": "Men's Hudson Collection",
+            "date_created": "1502518170",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/thumb-5848de6def43259ec8bc99ae085db68f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966725\/d3597\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/men-s-hudson-collection-2-notes\/111091684-109966725"
+        },
+        {
+            "id": "109966724",
+            "title": "Joy Mangano-Hangers",
+            "date_created": "1502518169",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/thumb-7b52a3492c562282f36d2e74ab6a310d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966724\/e01db\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/joy-mangano-hangers\/111091684-109966724"
+        },
+        {
+            "id": "109966723",
+            "title": "Pearhead Pregnancy Chalkboard",
+            "date_created": "1502518168",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/thumb-d01125e2afc651f4706abd393cc445a4-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966723\/09094\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/pearhead-pregnancy-chalkboard-3-notes\/111091684-109966723"
+        },
+        {
+            "id": "109966722",
+            "title": "53507mayo bbb harborlinen renaissance spread v4.mp4",
+            "date_created": "1502518164",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/thumb-80d1e7d3abbcd35798c3867eafc1ed0d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966722\/09a5e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/53507mayo-bbb-harborlinen-renaissance-spread-v4-mp4\/111091684-109966722"
+        }
+    ]
+}

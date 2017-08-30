@@ -1,0 +1,24 @@
+{
+    "title": "OXO",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438387294",
+    "date_modified": "1447355919",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6287553",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "OXO",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "491258167-0.jpeg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "491258167-420709375.jpeg"
+    },
+    "transcripts": null
+}

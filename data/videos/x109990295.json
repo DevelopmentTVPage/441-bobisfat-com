@@ -1,0 +1,101 @@
+{
+    "title": "liegha no last name-.mp4",
+    "description": "",
+    "referenceId": "1715354249",
+    "date_created": "1502522646",
+    "date_modified": "1504049174",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109990295",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3800",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "liegha-no-last-name-mp4",
+    "category": "",
+    "duration": "139",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "139",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/thumb-5cc06e9f3b1258b001e75a8e42ab4c66-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990295\/80f5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16.532547,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "2\/15\/2016",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,1313 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "111180581",
+            "title": "CARES Child Aviation Safety Restraint",
+            "date_created": "1502924788",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "234",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "234",
+                "prettyDuration": "00:03:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/thumb-6029-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180581\/cc\/vtt\/en_1503526442.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cares-child-aviation-safety-restraint\/111091684-111180581"
+        },
+        {
+            "id": "111180580",
+            "title": "Silicone Bottle",
+            "date_created": "1502924787",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "67",
+                "prettyDuration": "00:01:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/thumb-6027-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180580\/1b258\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/silicone-bottle-ft7657\/111091684-111180580"
+        },
+        {
+            "id": "111180579",
+            "title": "Born Free",
+            "date_created": "1502924784",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/thumb-6023-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180579\/2de6b\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180579\/cc\/vtt\/en_1503526406.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/born-free-ft7653\/111091684-111180579"
+        },
+        {
+            "id": "111180578",
+            "title": "HydroRight",
+            "date_created": "1502924782",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "124",
+                "prettyDuration": "00:02:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/thumb-6011-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180578\/0a38f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/hydroright-ft7652\/111091684-111180578"
+        },
+        {
+            "id": "111180577",
+            "title": "Vitamix Professional Series",
+            "date_created": "1502924781",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "202",
+                    "width": 580,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 580,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 580,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 580,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 436,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 290,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "202",
+                "prettyDuration": "00:03:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/thumb-5995-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180577\/cc\/vtt\/en_1503526376.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vitamix-professional-series-ft7617-2-notes\/111091684-111180577"
+        },
+        {
+            "id": "111180576",
+            "title": "Tassimo-0219",
+            "date_created": "1502924779",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "108",
+                    "width": 352,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 352,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 352,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 352,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 352,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 218
+                    }
+                ],
+                "mediaDuration": "108",
+                "prettyDuration": "00:01:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/thumb-5982-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180576\/a81b1\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/tassimo-0219\/111091684-111180576"
+        },
+        {
+            "id": "111180575",
+            "title": "Tassimo 0219 Post2 MPEG",
+            "date_created": "1502924777",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "108",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "108",
+                "prettyDuration": "00:01:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/thumb-5979-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180575\/64c74\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/tassimo-0219-post2-mpeg-ft7607\/111091684-111180575"
+        },
+        {
+            "id": "111180574",
+            "title": "Breville Juice Fountain Plus JE95XL",
+            "date_created": "1502924775",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/thumb-5974-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180574\/3eb80\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180574\/cc\/vtt\/en_1503526331.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-juice-fountain-plus-je95xl\/111091684-111180574"
+        },
+        {
+            "id": "111180573",
+            "title": "Breville Cordless Hand Blender",
+            "date_created": "1502924774",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/thumb-5973-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180573\/8733a\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-cordless-hand-blender\/111091684-111180573"
+        },
+        {
+            "id": "111180572",
+            "title": "BrevilleToasters",
+            "date_created": "1502924773",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "66",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "66",
+                "prettyDuration": "00:01:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/thumb-5972-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180572\/35cd0\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180572\/cc\/vtt\/en_1503526309.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/brevilletoasters\/111091684-111180572"
+        },
+        {
+            "id": "111180571",
+            "title": "Breville Cirtus Press",
+            "date_created": "1502924771",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/thumb-5971-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180571\/459d3\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-cirtus-press\/111091684-111180571"
+        },
+        {
+            "id": "111180570",
+            "title": "Aerobed",
+            "date_created": "1502924771",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "63",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "63",
+                "prettyDuration": "00:01:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/thumb-5963-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180570\/b98c8\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/aerobed\/111091684-111180570"
+        },
+        {
+            "id": "111180569",
+            "title": "Samsonite Spinner",
+            "date_created": "1502924770",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 470,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 470,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 470,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 470,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 470,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 184
+                    }
+                ],
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/thumb-5962-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180569\/1f69c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/samsonite-spinner\/111091684-111180569"
+        },
+        {
+            "id": "111180568",
+            "title": "FlushRight",
+            "date_created": "1502924769",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "109",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "109",
+                "prettyDuration": "00:01:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/thumb-5943-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180568\/c55da\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180568\/cc\/vtt\/en_1503526283.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/flushright\/111091684-111180568"
+        },
+        {
+            "id": "111180567",
+            "title": "NinjaPrep",
+            "date_created": "1502924767",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "121",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "121",
+                "prettyDuration": "00:02:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/thumb-5880-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ninjaprep\/111091684-111180567"
+        },
+        {
+            "id": "111180566",
+            "title": "Emeril AnodizedBBBWeb11 11 09",
+            "date_created": "1502924765",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "126",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "126",
+                "prettyDuration": "00:02:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/thumb-5840-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180566\/ac14c\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180566\/cc\/vtt\/en_1503526227.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/emeril-anodizedbbbweb11-11-09-ft7562\/111091684-111180566"
+        },
+        {
+            "id": "111180565",
+            "title": "Emerilware Stainless Steel and Copper Cookware Sets",
+            "date_created": "1502924762",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "125",
+                "prettyDuration": "00:02:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/thumb-5837-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180565\/160a0\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180565\/cc\/vtt\/en_1503526206.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/emeril-stainlessbbbweb11-11-09-ft7559\/111091684-111180565"
+        },
+        {
+            "id": "111180564",
+            "title": "Emerilware Cast Iron Cookware",
+            "date_created": "1502924762",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/thumb-5836-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180564\/5c85a\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180564\/cc\/vtt\/en_1503526171.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/emeril-castironbbbweb11-11-09-ft7558\/111091684-111180564"
+        },
+        {
+            "id": "111180563",
+            "title": "Emeril EnamelCastIronBBBWeb11 11 09",
+            "date_created": "1502924761",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/thumb-5831-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180563\/acc54\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180563\/cc\/vtt\/en_1503526152.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/emeril-enamelcastironbbbweb11-11-09-ft7553\/111091684-111180563"
+        },
+        {
+            "id": "111180562",
+            "title": "Waring Pro PC200 Double Wine Chiller Warmer",
+            "date_created": "1502924760",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "106",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "106",
+                "prettyDuration": "00:01:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/thumb-5786-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180562\/2445f\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180562\/cc\/vtt\/en_1503526124.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/waring-pro-pc200-double-wine-chiller-warmer-ft7542\/111091684-111180562"
+        }
+    ]
+}

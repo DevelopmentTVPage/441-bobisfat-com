@@ -1,0 +1,99 @@
+{
+    "title": "VSA Humm Gruyere Sandwich For Youtube 082610",
+    "description": "",
+    "referenceId": "17860",
+    "date_created": "1502923752",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180047",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "1421",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "VSA-Humm-Gruyere-Sandwich-For-Youtube-082610",
+    "category": "",
+    "duration": "160",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "160",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "160",
+        "prettyDuration": "00:02:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/thumb-17860-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180047\/a04d7\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 15.42922,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "3\/5\/2014",
+    "created_date": "",
+    "creator": null
+}

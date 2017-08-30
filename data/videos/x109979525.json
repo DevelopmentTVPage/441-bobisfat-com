@@ -1,0 +1,101 @@
+{
+    "title": "Electrolux ErgoRapido 2-in-1 Stick Vac\/Handheld Vacuum",
+    "description": "",
+    "referenceId": "14310",
+    "date_created": "1502520475",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979525",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4562",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Electrolux-ErgoRapido-2-in-1-Stick-Vac-Handheld-Vacuum",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 480,
+            "height": 360
+        },
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/thumb-3e41214f5e4e026075f9dbddc989e8d3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979525\/b25fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 341.6647,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "KitchenAid Slicer Shredder Attachment",
+    "description": "",
+    "referenceId": "3856",
+    "date_created": "1502924483",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180365",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "607",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "KitchenAid-Slicer-Shredder-Attachment-FTP5578",
+    "category": "",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "41",
+            "width": 504,
+            "height": 336
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 504,
+                "height": 336
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ],
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/thumb-3856-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180365\/cbe60\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 263.61902,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

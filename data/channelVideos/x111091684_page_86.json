@@ -1,0 +1,1274 @@
+{
+    "pageNumber": 86,
+    "data": [
+        {
+            "id": "109998934",
+            "title": "SKIP*HOP&reg; Giraffe Safari Twist &amp; Smile Crocodile",
+            "date_created": "1502524320",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "29",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "29",
+                "prettyDuration": "00:00:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/thumb-921a02312f121d88fce7801c175554bc-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998934\/01af1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/109998934\/cc\/vtt\/en_1503697999.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/skip-hop\u00c2-giraffe-safari-twist-smile-crocodile-3-notes\/111091684-109998934"
+        },
+        {
+            "id": "109998932",
+            "title": "Star Shower&trade;Laser Light",
+            "date_created": "1502524316",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "83",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "83",
+                "prettyDuration": "00:01:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/thumb-6917cb030a854f209e9449beda683b93-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998932\/238f9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": []
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/star-shower\u00e2-laser-light\/111091684-109998932"
+        },
+        {
+            "id": "109998931",
+            "title": "chicco bravofortwo.mp4",
+            "date_created": "1502524313",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/thumb-7953087b5e2cccef6206998e44d8a3e8-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998931\/d5a0a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/chicco-bravofortwo-mp4-2-notes\/111091684-109998931"
+        },
+        {
+            "id": "109998930",
+            "title": "calphalon waffle maker can.mov",
+            "date_created": "1502524310",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 512,
+                    "height": 288
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/thumb-0bd61bc6208f4db1192e594caa89eb6b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998930\/a2286\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/calphalon-waffle-maker-can-mov\/111091684-109998930"
+        },
+        {
+            "id": "109998929",
+            "title": "Real Simple Roll-Up Ironing Pad",
+            "date_created": "1502524308",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "76",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "76",
+                "prettyDuration": "00:01:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/thumb-b67ed0e9c8dfb75182898bd80b5a65dd-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998929\/83e6c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/real-simple-roll-up-ironing-pad\/111091684-109998929"
+        },
+        {
+            "id": "109998928",
+            "title": "bbb-wamsutta bed greektitlefix.mov",
+            "date_created": "1502524304",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/thumb-c49bf33e69219fd6bacb5729f55bb659-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998928\/200ea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bbb-wamsutta-bed-greektitlefix-mov\/111091684-109998928"
+        },
+        {
+            "id": "109998927",
+            "title": "Wamsutta Collection Positano",
+            "date_created": "1502524303",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/thumb-9554cb0d5886718dd760e31beecbc304-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998927\/4361b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/wamsutta-collection-positano-2-notes\/111091684-109998927"
+        },
+        {
+            "id": "109998926",
+            "title": "Bona PowerPlus Hardwood Floor Deep Cleaner",
+            "date_created": "1502524302",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "15",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "15",
+                "prettyDuration": "00:00:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/thumb-3b2f66e04343033a863a769b49fd2310-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998926\/be35d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bona-powerplus-mp4-3-notes\/111091684-109998926"
+        },
+        {
+            "id": "109998925",
+            "title": "Motorola&reg; MBP27T DigitalMonitor with Infrared Thermometer",
+            "date_created": "1502524299",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/thumb-1c6d98104c68445f2e9889280d312935-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998925\/596c3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/motorola\u00c2-mbp27t-digital-baby-monitor-with-infrared-the-2-notes\/111091684-109998925"
+        },
+        {
+            "id": "109998924",
+            "title": "14640630 vblademandolineslicer.mp4",
+            "date_created": "1502524295",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "125",
+                    "width": 640,
+                    "height": 480
+                },
+                "mediaDuration": "125",
+                "prettyDuration": "00:02:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/thumb-f78f4db0045e50736f78bd358d1bd514-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998924\/5f84a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/14640630-vblademandolineslicer-mp4\/111091684-109998924"
+        },
+        {
+            "id": "109998923",
+            "title": "Ergobaby&trade;Natural Curve&trade;Nursing Pillow.",
+            "date_created": "1502524295",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/thumb-6a541a5bd71b05fbdbd3f85314283270-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998923\/3f85b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ergobaby\u00e2-natural-curve\u00e2-nursing-pillow-3-notes\/111091684-109998923"
+        },
+        {
+            "id": "109998922",
+            "title": "Peg Perego Siesta High Chair",
+            "date_created": "1502524293",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1080,
+                    "height": 720
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/thumb-042a6f52759c3e0fcad882df03d72360-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 540,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998922\/b8cbc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/peg-perego-siesta-high-chair\/111091684-109998922"
+        },
+        {
+            "id": "109998921",
+            "title": "Valeo Yoga Kit",
+            "date_created": "1502524289",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "14",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "mediaDuration": "14",
+                "prettyDuration": "00:00:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/thumb-52d52fc86bb7122b49f1b17eb92bb998-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998921\/857ea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/valeo-yoga-kit-2-notes\/111091684-109998921"
+        },
+        {
+            "id": "109998920",
+            "title": "Kenneth Cole Reaction Home Shades Shower Curtain",
+            "date_created": "1502524288",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/thumb-f58d48cda172a86a0cd87a2916190144-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998920\/9be93\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-shades-shower-curtain-3-notes\/111091684-109998920"
+        },
+        {
+            "id": "109998919",
+            "title": "Joovy&reg; ScooterX2 Double Stroller",
+            "date_created": "1502524283",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "80",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "80",
+                "prettyDuration": "00:01:20",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/thumb-6eb2c80999d328114cfbbe15004dbad3-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998919\/a81d2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/joovy\u00c2-scooterx2-double-stroller\/111091684-109998919"
+        },
+        {
+            "id": "109998918",
+            "title": "Sistema&reg; 30.9 oz. Microwavable Round Bowl",
+            "date_created": "1502524281",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/thumb-a478a3b7ac62b7e4433b5c2f7002372c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998918\/fab10\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sistema\u00c2-30-9-oz-microwavable-round-bowl-3-notes\/111091684-109998918"
+        },
+        {
+            "id": "109998917",
+            "title": "Wilton Two-Tone 2-Piece Cupcake Insert",
+            "date_created": "1502524279",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "45",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "45",
+                "prettyDuration": "00:00:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/thumb-ff3a791e64259b64bc9eb2e0f934d876-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998917\/692e9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/wilton-two-tone-2-piece-cupcake-insert-3-notes\/111091684-109998917"
+        },
+        {
+            "id": "109998916",
+            "title": "Bamboo Small Floor Cabinet",
+            "date_created": "1502524276",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/thumb-d045c0b66a1cf7f0ced16446d9266dd5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998916\/138e4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bamboo-small-floor-cabinet-2-notes\/111091684-109998916"
+        },
+        {
+            "id": "109998915",
+            "title": "Pearhead&reg; First Toast 4-Inch x 6-Inch Photo Frame",
+            "date_created": "1502524273",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/thumb-65cab037bcd9c8d477cc40fde6fbc3e4-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998915\/9f6de\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/pearhead\u00c2-first-toast-4-inch-x-6-inch-photo-frame-3-notes\/111091684-109998915"
+        },
+        {
+            "id": "109998913",
+            "title": "Sleep Angel &reg; Pillow With A Filter&trade;",
+            "date_created": "1502524245",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "76",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "76",
+                "prettyDuration": "00:01:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/thumb-55052ee5c4d76d40b2a7da94c5e33cae-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109998913\/6cf50\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sleep-angel-\u00c2-pillow-with-a-filter\u00e2-3-notes\/111091684-109998913"
+        }
+    ]
+}

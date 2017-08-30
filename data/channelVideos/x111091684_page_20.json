@@ -1,0 +1,1225 @@
+{
+    "pageNumber": 20,
+    "data": [
+        {
+            "id": "111180184",
+            "title": "CSR - Fagor Induction - Part 1",
+            "date_created": "1502924059",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "527",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "527",
+                "prettyDuration": "00:08:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/thumb-27895-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180184\/db8df\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/csr-fagor-induction-part-1\/111091684-111180184"
+        },
+        {
+            "id": "111180183",
+            "title": "CSR - Fagor Induction - Part 2",
+            "date_created": "1502924055",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "93",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "93",
+                "prettyDuration": "00:01:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/thumb-27894-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180183\/9a93e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/csr-fagor-induction-part-2-2-notes\/111091684-111180183"
+        },
+        {
+            "id": "111180182",
+            "title": "Breville Deep Fryer - How to Make a Tempura",
+            "date_created": "1502924050",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/thumb-27371-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180182\/f69a9\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-deep-fryer-how-to-make-a-tempura\/111091684-111180182"
+        },
+        {
+            "id": "111180181",
+            "title": "FroliCat Sway Magnetically Suspended Cat Toy",
+            "date_created": "1502924048",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/thumb-27364-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180181\/ddd23\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/frolicat-sway-magnetically-suspended-cat-toy\/111091684-111180181"
+        },
+        {
+            "id": "111180180",
+            "title": "FroliCat Dart Automatic Rotating Laser Light Pet Toy",
+            "date_created": "1502924046",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/thumb-27363-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180180\/4a54b\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/frolicat-dart-automatic-rotating-laser-light-pet-toy\/111091684-111180180"
+        },
+        {
+            "id": "111180179",
+            "title": "FroliCat Bolt Automatic Laser Light Cat Toy",
+            "date_created": "1502924044",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/thumb-27362-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180179\/f5091\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/frolicat-bolt-automatic-laser-light-cat-toy\/111091684-111180179"
+        },
+        {
+            "id": "111180178",
+            "title": "Breville Deep Fryer BDF600XL",
+            "date_created": "1502924040",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "180",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "180",
+                "prettyDuration": "00:03:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/thumb-27328-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-deep-fryer-bdf600xl\/111091684-111180178"
+        },
+        {
+            "id": "111180177",
+            "title": "Melon Slicer",
+            "date_created": "1502924039",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 768,
+                    "height": 576
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 768,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 768,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/thumb-27279-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180177\/46a8e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/melon-slicer-ft17943\/111091684-111180177"
+        },
+        {
+            "id": "111180176",
+            "title": "GelPro Gel Filled Comfort Floor Mats @ Bed Bath &amp; Beyond",
+            "date_created": "1502924038",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "81",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "81",
+                "prettyDuration": "00:01:21",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/thumb-27196-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180176\/dc146\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/gelpro-gel-filled-comfort-floor-mats-bed-bath-beyond\/111091684-111180176"
+        },
+        {
+            "id": "111180175",
+            "title": "oxo tot highchair",
+            "date_created": "1502924034",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "131",
+                    "width": 654,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 654,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 654,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 654,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 492,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 234
+                    }
+                ],
+                "mediaDuration": "131",
+                "prettyDuration": "00:02:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/thumb-27092-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180175\/377e0\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/oxo-tot-highchair\/111091684-111180175"
+        },
+        {
+            "id": "111180174",
+            "title": "Kids Line Baby Chef Food Center",
+            "date_created": "1502924032",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "46",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "46",
+                "prettyDuration": "00:00:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/thumb-26782-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180174\/8e3aa\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kids-line-baby-chef-food-center\/111091684-111180174"
+        },
+        {
+            "id": "111180173",
+            "title": "Kids Line Baby Chef Flawless Formula Maker",
+            "date_created": "1502924029",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "46",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "46",
+                "prettyDuration": "00:00:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/thumb-26781-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180173\/2ead0\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kids-line-baby-chef-flawless-formula-maker\/111091684-111180173"
+        },
+        {
+            "id": "111180172",
+            "title": "Sheex Performance Sheet Set",
+            "date_created": "1502924026",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "110",
+                    "width": 1360,
+                    "height": 768
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1360,
+                        "height": 768
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1274,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 850,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 638,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "110",
+                "prettyDuration": "00:01:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/thumb-26687-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180172\/e2335\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sheex-performance-sheet-set\/111091684-111180172"
+        },
+        {
+            "id": "111180171",
+            "title": "Hydro Pet Toys",
+            "date_created": "1502924025",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "43",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "43",
+                "prettyDuration": "00:00:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/thumb-26616-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180171\/c2a74\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/hydro-pet-toys\/111091684-111180171"
+        },
+        {
+            "id": "111180170",
+            "title": "Easy2Pick Wireless Luggage Finder",
+            "date_created": "1502924025",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/thumb-26429-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180170\/2f028\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/easy2pick-wireless-luggage-finder\/111091684-111180170"
+        },
+        {
+            "id": "111180169",
+            "title": "Epicurean Cutting Boards",
+            "date_created": "1502924024",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/thumb-26424-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180169\/5d1d3\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/epicurean-cutting-boards\/111091684-111180169"
+        },
+        {
+            "id": "111180168",
+            "title": "Espresso Recipe Iced Cappuccino",
+            "date_created": "1502924021",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "127",
+                "prettyDuration": "00:02:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/thumb-26353-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180168\/e6e7c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/espresso-recipe-iced-cappuccino\/111091684-111180168"
+        },
+        {
+            "id": "111180167",
+            "title": "Perfect Tear Paper Towel Holder",
+            "date_created": "1502924020",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/thumb-26325-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180167\/cbccd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/perfect-tear-paper-towel-holder\/111091684-111180167"
+        },
+        {
+            "id": "111180166",
+            "title": "Epicurean Cutting Board",
+            "date_created": "1502924019",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/thumb-26324-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180166\/c4e63\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/epicurean-cutting-board\/111091684-111180166"
+        },
+        {
+            "id": "111180165",
+            "title": "Chop and Scoop Cutting Boards",
+            "date_created": "1502924015",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/thumb-26323-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180165\/cdb39\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/chop-and-scoop-cutting-boards\/111091684-111180165"
+        }
+    ]
+}

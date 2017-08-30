@@ -1,0 +1,99 @@
+{
+    "title": "Cuisinart DLC 4CHB Mini Prep Plus Food Processor",
+    "description": "",
+    "referenceId": "5580",
+    "date_created": "1502924713",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180512",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "219",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Cuisinart-DLC-4CHB-Mini-Prep-Plus-Food-Processor-FT7452",
+    "category": "",
+    "duration": "71",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "71",
+            "width": 480,
+            "height": 270
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/thumb-5580-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180512\/f8b45\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 257.9244,
+    "delete": "",
+    "notes": null,
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

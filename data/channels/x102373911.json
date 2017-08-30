@@ -1,0 +1,41 @@
+{
+    "title": "DEMO - Category",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1498846022",
+    "date_modified": "1498846124",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "102373911",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "DEMO-Category",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "Block",
+                "add": "videos",
+                "conditions": {
+                    "order": "conversion_score",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "category": ""
+                    }
+                },
+                "options": {},
+                "extras": {}
+            }
+        ]
+    },
+    "transcripts": null
+}

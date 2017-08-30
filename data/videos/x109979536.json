@@ -1,0 +1,103 @@
+{
+    "title": "Aerobed Products",
+    "description": "",
+    "referenceId": "14330",
+    "date_created": "1502520495",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979536",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4551",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Aerobed-Products",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/thumb-f1c652b68fa6dabd453e396bce7e7759-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979536\/6b2c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "15",
+        "4",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.110859,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

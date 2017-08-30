@@ -1,0 +1,1257 @@
+{
+    "pageNumber": 6,
+    "data": [
+        {
+            "id": "111180480",
+            "title": "EZ Slider",
+            "date_created": "1502924660",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "134",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "134",
+                "prettyDuration": "00:02:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/thumb-5470-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180480\/717cd\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180480\/cc\/vtt\/en_1503522291.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ez-slider-ft7407\/111091684-111180480"
+        },
+        {
+            "id": "111180479",
+            "title": "Winix PlasmaWave 5300 Air Cleaner",
+            "date_created": "1502924657",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 960,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/thumb-5464-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180479\/42a86\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/winix-640x480-ft7398\/111091684-111180479"
+        },
+        {
+            "id": "111180478",
+            "title": "Shiatsu Massage Cushion",
+            "date_created": "1502924655",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/thumb-5457-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/shiatsu-massage-cushion\/111091684-111180478"
+        },
+        {
+            "id": "111180477",
+            "title": "Homedics Deluxe Shiatsu Massage Cushion",
+            "date_created": "1502924653",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "89",
+                    "width": 512,
+                    "height": 288
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "89",
+                "prettyDuration": "00:01:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/thumb-5456-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/deluxe-shiatsu-massage-cushion\/111091684-111180477"
+        },
+        {
+            "id": "111180476",
+            "title": "Emeril Fryer V2",
+            "date_created": "1502924648",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/thumb-5429-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180476\/dba62\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180476\/cc\/vtt\/en_1503522184.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/emeril-fryer-v2\/111091684-111180476"
+        },
+        {
+            "id": "111180475",
+            "title": "Babycook",
+            "date_created": "1502924647",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "135",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "135",
+                "prettyDuration": "00:02:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/thumb-5200-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180475\/19c25\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/babycook-ft6925\/111091684-111180475"
+        },
+        {
+            "id": "111180474",
+            "title": "MiPump",
+            "date_created": "1502924645",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "168",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "168",
+                "prettyDuration": "00:02:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/thumb-5199-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180474\/ab570\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/mipump-ft6929\/111091684-111180474"
+        },
+        {
+            "id": "111180473",
+            "title": "Buy Buy Baby Bottle",
+            "date_created": "1502924645",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/thumb-5198-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180473\/78628\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180473\/cc\/vtt\/en_1503521980.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/buy-buy-baby-bottle-ft6926\/111091684-111180473"
+        },
+        {
+            "id": "111180472",
+            "title": "4Moms Tub",
+            "date_created": "1502924644",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/thumb-5197-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180472\/60249\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/4moms-tub-ft6924\/111091684-111180472"
+        },
+        {
+            "id": "111180471",
+            "title": "Freestyler Pump",
+            "date_created": "1502924643",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/thumb-5196-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/freestyler-pump-ft6927\/111091684-111180471"
+        },
+        {
+            "id": "111180470",
+            "title": "Instyler Loop",
+            "date_created": "1502924642",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/thumb-5192-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180470\/1c855\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180470\/cc\/vtt\/en_1503521927.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/instyler-loop-ft6928\/111091684-111180470"
+        },
+        {
+            "id": "111180466",
+            "title": "BlackDecker Sizzle Reel",
+            "date_created": "1502924640",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "192",
+                    "width": 480,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "192",
+                "prettyDuration": "00:03:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/thumb-5094-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180466\/6eb5f\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/blackdecker-sizzle-reel\/111091684-111180466"
+        },
+        {
+            "id": "111180459",
+            "title": "MilkBank Storage System - Breast Milk Storage &amp; Feeding",
+            "date_created": "1502924638",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 640,
+                    "height": 368
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 626,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 184
+                    }
+                ],
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/thumb-5093-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180459\/23a1c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/milkbank-dex\/111091684-111180459"
+        },
+        {
+            "id": "111180458",
+            "title": "simmons video",
+            "date_created": "1502924637",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/thumb-5080-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180458\/d0fda\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/simmons-video\/111091684-111180458"
+        },
+        {
+            "id": "111180457",
+            "title": "Norelco Arcitec Rechargeable Cordess Razor",
+            "date_created": "1502924636",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "176",
+                    "width": 320,
+                    "height": 180
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "176",
+                "prettyDuration": "00:02:56",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/thumb-5072-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bbb-philips-norelco-arcitec-ft6895\/111091684-111180457"
+        },
+        {
+            "id": "111180456",
+            "title": "WELSPUNfinal 16x9 2",
+            "date_created": "1502924632",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 888,
+                    "height": 500
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 888,
+                        "height": 500
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 888,
+                        "height": 500
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/thumb-5071-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180456\/b5bb8\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/welspunfinal-16x9-2-ft6894\/111091684-111180456"
+        },
+        {
+            "id": "111180455",
+            "title": "Nautica J Class Bleach Safe Bath Towels",
+            "date_created": "1502924631",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/thumb-5069-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180455\/f1547\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/nauticatowels-16x9\/111091684-111180455"
+        },
+        {
+            "id": "111180454",
+            "title": "Nautica J Class Bleach Safe Bath Towels",
+            "date_created": "1502924629",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 960,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/thumb-5030-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180454\/63ddb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/welspunfinal-03-1-ft6711\/111091684-111180454"
+        },
+        {
+            "id": "111180453",
+            "title": "Trevi Race Stroller Overview",
+            "date_created": "1502924629",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "92",
+                    "width": 324,
+                    "height": 242
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "92",
+                "prettyDuration": "00:01:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/thumb-4961-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180453\/95118\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/trevi-race-stroller-overview\/111091684-111180453"
+        },
+        {
+            "id": "111180452",
+            "title": "Trevi Atmosphere Video",
+            "date_created": "1502924628",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "104",
+                    "width": 324,
+                    "height": 242
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 324,
+                        "height": 242
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "104",
+                "prettyDuration": "00:01:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/thumb-4945-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180452\/61dea\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/trevi-atmosphere-video-ft6272\/111091684-111180452"
+        }
+    ]
+}

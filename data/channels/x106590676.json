@@ -1,0 +1,43 @@
+{
+    "title": "Demo - Brand Channel 2",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1501016707",
+    "date_modified": "1501016775",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "106590676",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "Demo-Brand-Channel-2",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "Block",
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "brand": ""
+                    }
+                },
+                "options": {},
+                "extras": {
+                    "channelName": ""
+                }
+            }
+        ]
+    },
+    "transcripts": null
+}

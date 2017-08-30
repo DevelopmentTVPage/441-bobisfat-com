@@ -1,0 +1,41 @@
+{
+    "title": "DEMO - PDP",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1498770371",
+    "date_modified": "1498770408",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "102255761",
+    "loginId": "1758166",
+    "entityType": "5",
+    "titleTextEncoded": "DEMO-PDP",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "Block",
+                "add": "videos",
+                "conditions": {
+                    "order": "conversion_score",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "referenceId": ""
+                    }
+                },
+                "options": {},
+                "extras": {}
+            }
+        ]
+    },
+    "transcripts": null
+}

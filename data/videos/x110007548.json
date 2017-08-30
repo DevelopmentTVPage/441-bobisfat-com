@@ -1,0 +1,103 @@
+{
+    "title": "BS chip and dip 7 21 CA.mp4",
+    "description": "",
+    "referenceId": "49118",
+    "date_created": "1502525787",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007548",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2616",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "BS-chip-and-dip-7-21-CA-mp4",
+    "category": "",
+    "duration": "57",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "57",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/thumb-e24c225ce1ab35653d7c951377bf4384-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007548\/a847e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "2",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 19.195778,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

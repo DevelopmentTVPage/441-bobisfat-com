@@ -1,0 +1,101 @@
+{
+    "title": "RS Faux wood blind CA.mp4",
+    "description": "",
+    "referenceId": "58454",
+    "date_created": "1502526234",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010755",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2439",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "RS-Faux-wood-blind-CA-mp4",
+    "category": "",
+    "duration": "81",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "81",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/thumb-524e93e3cf0281b2e0f0f5e3c25af354-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010755\/f4a89\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 99.032074,
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "10\/8\/2012",
+    "created_date": "",
+    "creator": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "media brett 03 01 Cameleon2",
+    "description": "",
+    "referenceId": "14472",
+    "date_created": "1502923508",
+    "date_modified": "1504049176",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111179944",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "1564",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "media-brett-03-01-Cameleon2",
+    "category": "",
+    "duration": "691",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "691",
+            "width": 960,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "691",
+        "prettyDuration": "00:11:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/thumb-14472-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179944\/48b19\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 23.928764,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

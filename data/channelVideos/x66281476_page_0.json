@@ -1,0 +1,313 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "65934728",
+            "title": "Father's Day Steak Add Ons",
+            "date_created": "1464363988",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Make dad an outstanding steak this Father's Day with Sam the Cooking Guy's suggested add-ons.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-aG4887L2nc\/hqdefault.jpg",
+                "uploadDate": 1464363988,
+                "videoId": "-aG4887L2nc",
+                "title": "Father's Day Steak Add Ons",
+                "description": "Make dad an outstanding steak this Father's Day with Sam the Cooking Guy's suggested add-ons.",
+                "author": "Bed Bath & Beyond",
+                "mediaDuration": 44,
+                "prettyDuration": "00:00:44",
+                "views": "10",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/father-s-day-steak-add-ons\/66281476-65934728"
+        },
+        {
+            "id": "66281477",
+            "title": "TEST EMBED MP4",
+            "date_created": "1466701613",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "description description",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "14",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "14",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/thumb-60abbdde3a3638e77950e23d7fc2fb4b-00001.jpg",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:00:14",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281477\/63976\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/test-embed-mp4\/66281476-66281477"
+        },
+        {
+            "id": "3785244",
+            "title": "Turtle on the Roomba.mp4",
+            "date_created": "1417722426",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Soft Shell Turtle on Roomba Vacuum!",
+            "asset": {
+                "author": "iRobot",
+                "videoId": "oo9Df0thFy0",
+                "hookText": "Soft Shell Turtle on Roomba Vacuum!",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oo9Df0thFy0\/hqdefault.jpg",
+                "mediaDuration": "46",
+                "hdvFlag": 0,
+                "uploadDate": 1272367885,
+                "prettyDuration": "00:00:46",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/turtle-on-the-roomba-mp4\/66281476-3785244"
+        },
+        {
+            "id": "66281481",
+            "title": "SampleVideo_1280x720_2mb.mp4",
+            "date_created": "1466703669",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "SampleVideo_1280x720_2mb.mp4",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "14",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "14",
+                "prettyDuration": "00:00:14",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/thumb-9110180e2885ac1293b4b9803159cd02-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758166\/66281481\/9f827\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/samplevideo-1280x720-2mb-mp4\/66281476-66281481"
+        },
+        {
+            "id": "3785623",
+            "title": "1_RR Masterclass_Safest.mp4",
+            "date_created": "1417722451",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "1_RR Masterclass_Safest.mp4",
+            "asset": {
+                "author": "Victorinox AG",
+                "videoId": "IwK73PHrUr0",
+                "hookText": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/IwK73PHrUr0\/maxresdefault.jpg",
+                "mediaDuration": "33",
+                "hdvFlag": 1,
+                "uploadDate": 1317768931,
+                "prettyDuration": "00:00:33",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/1-rr-masterclass-safest-mp4\/66281476-3785623"
+        },
+        {
+            "id": "66122249",
+            "title": "iRobot\u00ae Braava jet\u2122 Mopping Robot Overview",
+            "date_created": "1458036039",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "This video is an overview video of the iRobot\u00ae Braava jet\u2122 Mopping Robot from iRobot. Say 'hello' to the Braava jet\u2122 mopping robot from iRobot and say 'goodbye' to everyday messes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zxM1vWY663k\/hqdefault.jpg",
+                "uploadDate": 1458036039,
+                "videoId": "zxM1vWY663k",
+                "title": "iRobot\u00ae Braava jet\u2122 Mopping Robot Overview",
+                "description": "This video is an overview video of the iRobot\u00ae Braava jet\u2122 Mopping Robot from iRobot. Say 'hello' to the Braava jet\u2122 mopping robot from iRobot and say 'goodbye' to everyday messes.\n\nFor more information on Braava jet, please visit http:\/\/bit.ly\/1RLeEJh.\nSubscribe to the iRobot YouTube channel http:\/\/bit.ly\/1QcFGlb",
+                "author": "iRobot",
+                "mediaDuration": 97,
+                "prettyDuration": "00:01:37",
+                "views": "116368",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/irobot-braava-jet-mopping-robot-overview\/66281476-66122249"
+        },
+        {
+            "id": "66122134",
+            "title": "Skinny Can New Colors",
+            "date_created": "1392227817",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Design: Karim Rashid \/ David Quan\n\nAll rights reserved. Umbra (C) 2013",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A6-N5CPQB3g\/hqdefault.jpg",
+                "uploadDate": 1392227817,
+                "videoId": "A6-N5CPQB3g",
+                "title": "Skinny Can New Colors",
+                "description": "Design: Karim Rashid \/ David Quan\n\nBuy this design here: http:\/\/www.umbra.com\/ustore\/product\/082610-514.store\nhttp:\/\/www.umbra.com\/ustore\/product\/082610-276.store\nhttp:\/\/www.umbra.com\/ustore\/product\/082610-460.store\nhttp:\/\/www.umbra.com\/ustore\/product\/082610-386.store\nhttp:\/\/www.umbra.com\/ustore\/product\/082610-438.store\n\nAll rights reserved. Umbra (C) 2013",
+                "author": "Umbra",
+                "mediaDuration": 16,
+                "prettyDuration": "00:00:16",
+                "views": "999",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/skinny-can-new-colors\/66281476-66122134"
+        },
+        {
+            "id": "66122485",
+            "title": "simplehuman round brushed steel step trash can",
+            "date_created": "1362179729",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Our classic round step can is the ideal choice for any home. Its iconic round shape fits in corners, against the wall \u2014 just about anywhere. The strong steel pedal is designed to last, and our patented lid shox technology ensures a smooth, silent close every time.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/h1Ju0sfNacw\/hqdefault.jpg",
+                "uploadDate": 1362179729,
+                "videoId": "h1Ju0sfNacw",
+                "title": "simplehuman round brushed steel step trash can",
+                "description": "Our classic round step can is the ideal choice for any home. Its iconic round shape fits in corners, against the wall \u2014 just about anywhere. The strong steel pedal is designed to last, and our patented lid shox technology ensures a smooth, silent close every time.\n\nhttp:\/\/www.simplehuman.com\/30-litre-round-step-can-fingerprint-proof-brushed-stainless-steel\n\nwww.facebook.com\/simplehuman\nwww.twitter.com\/simplehuman\nwww.pinterest.com\/simplehuman",
+                "author": "simplehuman",
+                "mediaDuration": 20,
+                "prettyDuration": "00:00:20",
+                "views": "1682",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/simplehuman-round-brushed-steel-step-trash-can\/66281476-66122485"
+        },
+        {
+            "id": "66122436",
+            "title": "simplehuman steel frame dishrack - stainless steel",
+            "date_created": "1402438096",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Our steel frame dishrack has a solid steel frame that matches the aesthetic of modern upscale kitchen appliances. It has an integrated drip tray with a swivel spout that pivots so you can position it to drain water directly into the sink. The wine glass holder hangs up to 4 wine glasses and a natural bamboo knife block is gentle on sharp blades.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mschRFIJllI\/hqdefault.jpg",
+                "uploadDate": 1402438096,
+                "videoId": "mschRFIJllI",
+                "title": "simplehuman steel frame dishrack - stainless steel",
+                "description": "http:\/\/www.simplehuman.com\/steel-frame-dishrack-with-wine-glass-holder-fingerprint-proof-stainless-steel-grey\n\nOur steel frame dishrack has a solid steel frame that matches the aesthetic of modern upscale kitchen appliances. It has an integrated drip tray with a swivel spout that pivots so you can position it to drain water directly into the sink. The wine glass holder hangs up to 4 wine glasses and a natural bamboo knife block is gentle on sharp blades.\n\nwww.facebook.com\/simplehuman\nwww.twitter.com\/simplehuman\nwww.pinterest.com\/simplehuman",
+                "author": "simplehuman",
+                "mediaDuration": 53,
+                "prettyDuration": "00:00:53",
+                "views": "22938",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/simplehuman-steel-frame-dishrack-stainless-steel\/66281476-66122436"
+        },
+        {
+            "id": "65578474",
+            "title": "ED Ellen DeGeneres Bedding Collection",
+            "date_created": "1461592353",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Ellen DeGeneres has created a new bedding collection exclusively for Bed Bath & Beyond. Hear what she has to say about it!",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/t4ZYnAZ3MeE\/hqdefault.jpg",
+                "uploadDate": 1461592353,
+                "videoId": "t4ZYnAZ3MeE",
+                "title": "ED Ellen DeGeneres Bedding Collection",
+                "description": "Ellen DeGeneres has created a new bedding collection exclusively for Bed Bath & Beyond. Hear what she has to say about it!",
+                "author": "Bed Bath & Beyond",
+                "mediaDuration": 16,
+                "prettyDuration": "00:00:16",
+                "views": "34",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66281476",
+            "url": "\/test-embed-channel\/ed-ellen-degeneres-bedding-collection\/66281476-65578474"
+        }
+    ]
+}

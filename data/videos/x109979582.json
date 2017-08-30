@@ -1,0 +1,99 @@
+{
+    "title": "productexperiencesashley.mp4",
+    "description": "",
+    "referenceId": "1447585830",
+    "date_created": "1502520605",
+    "date_modified": "1504049173",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109979582",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4505",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "productexperiencesashley-mp4",
+    "category": "",
+    "duration": "341",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "341",
+            "width": 1440,
+            "height": 1080
+        },
+        "mediaDuration": "341",
+        "prettyDuration": "00:05:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/thumb-1a280b33dbb0efe75e79bc82d017e50b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979582\/8fe73\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0,
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "11\/21\/2016",
+    "created_date": "",
+    "creator": null
+}

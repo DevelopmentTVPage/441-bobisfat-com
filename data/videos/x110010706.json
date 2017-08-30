@@ -1,0 +1,103 @@
+{
+    "title": "Sandringham Deluxe  61412 CA.mp4",
+    "description": "",
+    "referenceId": "57499",
+    "date_created": "1502526178",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010706",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2461",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Sandringham-Deluxe-61412-CA-mp4",
+    "category": "",
+    "duration": "94",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "94",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/thumb-fc29b77ed00b30876b711c0a7edba4c3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010706\/fd0c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "7",
+        "3",
+        "21"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.8717117,
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "9\/18\/2012",
+    "created_date": "",
+    "creator": null
+}

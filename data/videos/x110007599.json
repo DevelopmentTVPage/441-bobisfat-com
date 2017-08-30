@@ -1,0 +1,103 @@
+{
+    "title": "One Touch Single Serving Teapot CA.mp4",
+    "description": "",
+    "referenceId": "49188",
+    "date_created": "1502525908",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007599",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2567",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "One-Touch-Single-Serving-Teapot-CA-mp4",
+    "category": "",
+    "duration": "292",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "292",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "292",
+        "prettyDuration": "00:04:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/thumb-033e8f89966d2bf4d93b184949186366-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007599\/d159c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "24",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 105.98932,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

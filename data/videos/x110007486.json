@@ -1,0 +1,103 @@
+{
+    "title": "Waterpik Water Flossing",
+    "description": "",
+    "referenceId": "47515",
+    "date_created": "1502525597",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007486",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2678",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Waterpik-Water-Flossing",
+    "category": "",
+    "duration": "39",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "39",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/thumb-41abde433271dad7016c878012496bfc-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007486\/8dddb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "34",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.1350317,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

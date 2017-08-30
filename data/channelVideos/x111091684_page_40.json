@@ -1,0 +1,1297 @@
+{
+    "pageNumber": 40,
+    "data": [
+        {
+            "id": "111179781",
+            "title": "Breville Art of Coffee Series - Latte Art - Tulip",
+            "date_created": "1502923122",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/thumb-11267-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179781\/1ccc6\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179781\/cc\/vtt\/en_1503533578.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee-series-latte-art-tulip\/111091684-111179781"
+        },
+        {
+            "id": "111179780",
+            "title": "Breville Art Of Coffee Series - Latte Art - Cinnamon Stencil",
+            "date_created": "1502923122",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/thumb-11266-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179780\/0bb2e\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179780\/cc\/vtt\/en_1503533548.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee-series-latte-art-cinnamon-ste\/111091684-111179780"
+        },
+        {
+            "id": "111179779",
+            "title": "Breville Art Of Coffee - How to make a Cinnamon Stencil",
+            "date_created": "1502923121",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "53",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "53",
+                "prettyDuration": "00:00:53",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/thumb-11265-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179779\/daf97\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179779\/cc\/vtt\/en_1503533527.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee-how-to-make-a-cinnamon-stencil\/111091684-111179779"
+        },
+        {
+            "id": "111179778",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923120",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/thumb-11264-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179778\/1a9cc\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179778"
+        },
+        {
+            "id": "111179777",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923120",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "50",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/thumb-11263-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179777\/1d05f\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179777\/cc\/vtt\/en_1503533511.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179777"
+        },
+        {
+            "id": "111179776",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923119",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "165",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "165",
+                "prettyDuration": "00:02:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/thumb-11262-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179776\/07d8e\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179776\/cc\/vtt\/en_1503533491.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179776"
+        },
+        {
+            "id": "111179775",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923118",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/thumb-11261-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179775\/e378e\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179775\/cc\/vtt\/en_1503533475.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179775"
+        },
+        {
+            "id": "111179774",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923118",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "66",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "66",
+                "prettyDuration": "00:01:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/thumb-11260-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179774\/05305\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179774"
+        },
+        {
+            "id": "111179773",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923117",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/thumb-11259-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179773\/71fda\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179773\/cc\/vtt\/en_1503533454.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179773"
+        },
+        {
+            "id": "111179772",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923117",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "79",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "79",
+                "prettyDuration": "00:01:19",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/thumb-11258-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179772\/aaea9\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179772"
+        },
+        {
+            "id": "111179771",
+            "title": "Breville Art of Coffee",
+            "date_created": "1502923116",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "58",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "58",
+                "prettyDuration": "00:00:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/thumb-11257-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179771\/bd7b0\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179771"
+        },
+        {
+            "id": "111179770",
+            "title": "Breville SlowCooker BSC560XL",
+            "date_created": "1502923115",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 592,
+                    "height": 332
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 592,
+                        "height": 332
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/thumb-11256-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179770\/1002c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/breville-art-of-coffee\/111091684-111179770"
+        },
+        {
+            "id": "111179769",
+            "title": "Back2Life&trade; Therapeutic Massager",
+            "date_created": "1502923112",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/thumb-11199-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/back2life\u00e2-therapeutic-massager\/111091684-111179769"
+        },
+        {
+            "id": "111179768",
+            "title": "Vornado Air Quality System 500",
+            "date_created": "1502923110",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "136",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "136",
+                "prettyDuration": "00:02:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/thumb-11172-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vornado-air-quality-system-500\/111091684-111179768"
+        },
+        {
+            "id": "111179767",
+            "title": "Avocado Slicer",
+            "date_created": "1502923109",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/thumb-11171-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179767\/d94dd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/avocado-slicer\/111091684-111179767"
+        },
+        {
+            "id": "111179766",
+            "title": "BackJoy Seat Topper",
+            "date_created": "1502923104",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "130",
+                    "width": 960,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "130",
+                "prettyDuration": "00:02:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/thumb-11170-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179766\/4c8bd\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/backjoy-seat-topper\/111091684-111179766"
+        },
+        {
+            "id": "111179765",
+            "title": "30s Dyson AirMultiplierTitled 2",
+            "date_created": "1502923103",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "31",
+                    "width": 960,
+                    "height": 544
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "mediaDuration": "31",
+                "prettyDuration": "00:00:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/thumb-11163-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179765\/1b369\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/30s-dyson-airmultipliertitled-2-ft9645\/111091684-111179765"
+        },
+        {
+            "id": "111179764",
+            "title": "Bad Air Sponge",
+            "date_created": "1502923100",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/thumb-11131-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179764\/516b9\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179764\/cc\/vtt\/en_1503533402.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bad-air-sponge-2-notes\/111091684-111179764"
+        },
+        {
+            "id": "111179763",
+            "title": "Adjust-A-Cup Pro Satin Measuring Cup",
+            "date_created": "1502923097",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "81",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "81",
+                "prettyDuration": "00:01:21",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/thumb-11130-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179763\/fdc16\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111179763\/cc\/vtt\/en_1503533387.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/adjust-a-cup-pro-satin-measuring-cup\/111091684-111179763"
+        },
+        {
+            "id": "111179762",
+            "title": "ab rocket - OOS",
+            "date_created": "1502923095",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "82",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "82",
+                "prettyDuration": "00:01:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/thumb-11129-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179762\/c4a2a\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/ab-rocket-oos\/111091684-111179762"
+        }
+    ]
+}

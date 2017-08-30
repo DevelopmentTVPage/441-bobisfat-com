@@ -1,0 +1,101 @@
+{
+    "title": "Freestyler Pump",
+    "description": "",
+    "referenceId": "5196",
+    "date_created": "1502924643",
+    "date_modified": "1504049177",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "rejected",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "111180471",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "338",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Freestyler-Pump-FT6927",
+    "category": "",
+    "duration": "97",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "97",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/thumb-5196-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180471\/a4c89\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "2",
+        "28",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5.1260667,
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "",
+    "creator": null
+}

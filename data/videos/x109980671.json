@@ -1,0 +1,102 @@
+{
+    "title": "50887target smartiron yellow 1280 x 720.m4v",
+    "description": "",
+    "referenceId": "1488384988",
+    "date_created": "1502520877",
+    "date_modified": "1504049173",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109980671",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "4416",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "50887target-smartiron-yellow-1280-x-720-m4v",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/thumb-6af5ec18cadd77b716e09e6040c28d33-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980671\/0b3f7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 152.06804,
+    "delete": "",
+    "notes": null,
+    "uploader": "samantha.stevens",
+    "modified_date": "7\/27\/2016",
+    "created_date": "",
+    "creator": null
+}

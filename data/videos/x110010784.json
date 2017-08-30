@@ -1,0 +1,101 @@
+{
+    "title": "Pandigital 10 inch 7 19 12 CA.mp4",
+    "description": "",
+    "referenceId": "59012",
+    "date_created": "1502526252",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110010784",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2433",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Pandigital-10-inch-7-19-12-CA-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "52",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/thumb-94eb360a81b8ed3ff7ecbfc27ca0a29f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010784\/037bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 138.89433,
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "12\/29\/2012",
+    "created_date": "",
+    "creator": null
+}

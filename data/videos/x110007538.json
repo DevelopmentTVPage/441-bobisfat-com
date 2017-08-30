@@ -1,0 +1,101 @@
+{
+    "title": "Old fash ice cream maker CA.mp4",
+    "description": "",
+    "referenceId": "49108",
+    "date_created": "1502525770",
+    "date_modified": "1503590930",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007538",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2626",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "Old-fash-ice-cream-maker-CA-mp4",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "125",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/thumb-60ccbb16a766de8dfeb692e03b3ee81e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007538\/06822\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 258.84976,
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

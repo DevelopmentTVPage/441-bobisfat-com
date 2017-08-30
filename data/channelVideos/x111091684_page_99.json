@@ -1,0 +1,1265 @@
+{
+    "pageNumber": 99,
+    "data": [
+        {
+            "id": "109994672",
+            "title": "Petcube Interactive Wi-Fi Pet Camera",
+            "date_created": "1502523627",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/thumb-b00cd955d43dde5dfb1754efc8dcd3f1-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994672\/4da7d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/petcube-46724069-mp4-3-notes\/111091684-109994672"
+        },
+        {
+            "id": "109994671",
+            "title": "Baby Brezza&reg; Bottles",
+            "date_created": "1502523623",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "54",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "54",
+                "prettyDuration": "00:00:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/thumb-9cdd64fbca1478e7ae1fb03fb7792910-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994671\/f9742\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/baby-brezza\u00c2-bottles-3-notes\/111091684-109994671"
+        },
+        {
+            "id": "109994670",
+            "title": "Withings Digital Scale",
+            "date_created": "1502523622",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/thumb-5069b923f6d502f44126b6ec2f67132d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994670\/f8a1e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/withings-digital-scale-2-notes\/111091684-109994670"
+        },
+        {
+            "id": "109994669",
+            "title": "Vera Wang Bedding",
+            "date_created": "1502523616",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/thumb-5da09c574731379a3949429f8d2528e9-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994669\/473b7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/vera-wang-bedding-2-notes\/111091684-109994669"
+        },
+        {
+            "id": "109994668",
+            "title": "97580in store animation 20sec. canada 05 16 14 1.mov",
+            "date_created": "1502523614",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "20",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "20",
+                "prettyDuration": "00:00:20",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/thumb-818ac9fda19e728ed76cfd48ab49d1c4-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994668\/660f5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/97580in-store-animation-20sec-canada-05-16-14-1-mov\/111091684-109994668"
+        },
+        {
+            "id": "109994667",
+            "title": "Kuvings&reg; Silent Juicer",
+            "date_created": "1502523612",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/thumb-f428a258fdbfdbd9d6bbb9cc27b0d293-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994667\/40a2b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kuvings\u00c2-silent-juicer-3-notes\/111091684-109994667"
+        },
+        {
+            "id": "109994666",
+            "title": "rectangular sensor can",
+            "date_created": "1502523609",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/thumb-9cb4943c4216e3bbb83bb459b08b2ff1-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994666\/81a1d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/sensor-rectangular-1080-mov-2-notes\/111091684-109994666"
+        },
+        {
+            "id": "109994665",
+            "title": "Peg Perego Prima Pappa Best Paloma Highchair",
+            "date_created": "1502523608",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/thumb-37b13d154f04f783d1e570fcb09c4ec0-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994665\/98b0d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/peg-perego-prima-pappa-best-paloma-highchair\/111091684-109994665"
+        },
+        {
+            "id": "109994664",
+            "title": "kob jardine bedding v3.mp4",
+            "date_created": "1502523605",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/thumb-3b8ef58cc31038843040fc114112dd3c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994664\/f2b75\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kob-jardine-bedding-v3-mp4\/111091684-109994664"
+        },
+        {
+            "id": "109994663",
+            "title": "Philips Satin Perfect Epilator",
+            "date_created": "1502523603",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 512,
+                    "height": 288
+                },
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/thumb-c7af3f3a6b25a0f7e45b4fdc0b5aa392-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994663\/ec79e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/philips-satin-perfect-epilator-2-notes\/111091684-109994663"
+        },
+        {
+            "id": "109994662",
+            "title": "Dash&trade; Everyday Stand Mixer",
+            "date_created": "1502523602",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/thumb-d8b4829811113f172c53a6f400ce3947-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994662\/78205\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/dash\u00e2-everyday-stand-mixer-3-notes\/111091684-109994662"
+        },
+        {
+            "id": "109994661",
+            "title": "Angry Mama Microwave Cleaner",
+            "date_created": "1502523600",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/thumb-11e80a67c54670d6fc29989739e1f374-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/angry-mama-microwave-cleaner-2-notes\/111091684-109994661"
+        },
+        {
+            "id": "109994660",
+            "title": "Dyson Hard DC56 Cordless Vacuum Cleaner",
+            "date_created": "1502523598",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 800,
+                    "height": 450
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/thumb-5f4e5eb1799434b447aa890f0f07d8c6-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994660\/89213\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/dyson-hard-dc56-cordless-vacuum-cleaner-2-notes\/111091684-109994660"
+        },
+        {
+            "id": "109994659",
+            "title": "SmartPlanet Collapsible Soup &amp; Salad Bowl Meal Kit",
+            "date_created": "1502523595",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "43",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "43",
+                "prettyDuration": "00:00:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/thumb-7986f26722e24d9bdecf30079981c258-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994659\/ca2e6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/smartplanet-collapsible-soup-salad-bowl-meal-kit-2-notes\/111091684-109994659"
+        },
+        {
+            "id": "109994658",
+            "title": "Chicco&reg; KeyFit Caddy Lightweight Aluminum Infant Car Seat Carrier Stroller",
+            "date_created": "1502523587",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/thumb-e3fdfb01d50cf45b1a5bc1c082410176-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994658\/cd40e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/chicco\u00c2-keyfit-caddy-lightweight-aluminum-infant-car-se\/111091684-109994658"
+        },
+        {
+            "id": "109994657",
+            "title": "OXO Good Grips&reg; Pro Nonstick Bakeware",
+            "date_created": "1502523586",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/thumb-e8e6a969aa3c856705624d77e2ce4722-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994657\/a579e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/oxo-good-grips\u00c2-pro-nonstick-bakeware-3-notes\/111091684-109994657"
+        },
+        {
+            "id": "109994656",
+            "title": "Kenneth Cole Reaction Home Tribeca Bath Ensemble",
+            "date_created": "1502523585",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/thumb-ece0eee2dd1d7b30dd26657737519086-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994656\/6d35f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kenneth-cole-reaction-home-tribeca-bath-ensemble\/111091684-109994656"
+        },
+        {
+            "id": "109994655",
+            "title": "Gotham&trade; Steel Pans",
+            "date_created": "1502523583",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/thumb-79bbece7d380d79c288d783ba030b5e4-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994655\/fdd91\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/gotham\u00e2-steel-pans-3-notes\/111091684-109994655"
+        },
+        {
+            "id": "109994654",
+            "title": "Swifty Sharp&trade; Cordless Motorized Knife Sharpener",
+            "date_created": "1502523581",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/thumb-3650f4f4214e7be4190c1f0e917c1239-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994654\/7203b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/swifty-sharp\u00e2-cordless-motorized-knife-sharpener-2-notes\/111091684-109994654"
+        },
+        {
+            "id": "109994653",
+            "title": "InterDesign&reg; Classic Suction Shelves Medium Shower Caddy",
+            "date_created": "1502523577",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/thumb-770c15deb770e52e8df64ec536c40ddd-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994653\/7d1d6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/interdesign\u00c2-classic-suction-shelves-medium-shower-cadd-3-notes\/111091684-109994653"
+        }
+    ]
+}

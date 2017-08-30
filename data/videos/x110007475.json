@@ -1,0 +1,102 @@
+{
+    "title": "The Original Baby Bullet Food Processor",
+    "description": "",
+    "referenceId": "47501",
+    "date_created": "1502525576",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110007475",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2689",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "The-Original-Baby-Bullet-Food-Processor",
+    "category": "",
+    "duration": "448",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "448",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "448",
+        "prettyDuration": "00:07:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/thumb-cc7c00e23bdac44c643d10fa06e9ce87-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007475\/83674\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 199.59099,
+    "delete": "",
+    "notes": null,
+    "uploader": "Richard.Fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

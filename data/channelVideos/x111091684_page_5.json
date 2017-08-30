@@ -1,0 +1,1289 @@
+{
+    "pageNumber": 5,
+    "data": [
+        {
+            "id": "111180501",
+            "title": "Cuisinart DFP 14BCN Custom 14 Food Processor",
+            "date_created": "1502924677",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "273",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "273",
+                "prettyDuration": "00:04:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/thumb-5553-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180501\/d3e2e\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-dfp-14bcn-custom-14-food-processor-ft7439\/111091684-111180501"
+        },
+        {
+            "id": "111180500",
+            "title": "Cuisinart DCC 1200 Programmable Coffeemaker",
+            "date_created": "1502924676",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "192",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "192",
+                "prettyDuration": "00:03:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/thumb-5551-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180500\/0ead1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180500\/cc\/vtt\/en_1503522735.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-dcc-1200-programmable-coffeemaker-ft7438\/111091684-111180500"
+        },
+        {
+            "id": "111180499",
+            "title": "Cuisinart CVR 1000 Vertical Rotisserie Oven",
+            "date_created": "1502924675",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "144",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "144",
+                "prettyDuration": "00:02:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/thumb-5550-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180499\/876d1\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cvr-1000-vertical-rotisserie-oven-ft7434\/111091684-111180499"
+        },
+        {
+            "id": "111180498",
+            "title": "Cuisinart CSB 78 Smart Stick Cordless Hand Blender",
+            "date_created": "1502924674",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "124",
+                "prettyDuration": "00:02:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/thumb-5548-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180498\/3172a\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-csb-78-smart-stick-cordless-hand-blender-ft74\/111091684-111180498"
+        },
+        {
+            "id": "111180497",
+            "title": "Cuisinart CWC 3200 Private Reserve Wine Cellar",
+            "date_created": "1502924673",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "79",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "79",
+                "prettyDuration": "00:01:19",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/thumb-5547-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180497\/b7362\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cwc-3200-private-reserve-wine-cellar-ft7436\/111091684-111180497"
+        },
+        {
+            "id": "111180496",
+            "title": "Cuisinart CPC 600 6 Quart Pressure Cooker",
+            "date_created": "1502924673",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "142",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "142",
+                "prettyDuration": "00:02:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/thumb-5546-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180496\/95a27\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180496\/cc\/vtt\/en_1503522688.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cpc-600-6-quart-pressure-cooker-ft7431\/111091684-111180496"
+        },
+        {
+            "id": "111180495",
+            "title": "Cuisinart CWC 800 Private Reserve Wine Cellar",
+            "date_created": "1502924672",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/thumb-5545-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180495\/c3690\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cwc-800-private-reserve-wine-cellar-ft7437\/111091684-111180495"
+        },
+        {
+            "id": "111180494",
+            "title": "Cuisinart CWC 1600 Private Reserve Wine Cellar",
+            "date_created": "1502924671",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "54",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "54",
+                "prettyDuration": "00:00:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/thumb-5544-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180494\/05128\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180494\/cc\/vtt\/en_1503522666.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cwc-1600-private-reserve-wine-cellar-ft7435\/111091684-111180494"
+        },
+        {
+            "id": "111180493",
+            "title": "Cuisinart Chefs Classic Cookware",
+            "date_created": "1502924670",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "132",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "132",
+                "prettyDuration": "00:02:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/thumb-5543-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180493\/0a82d\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180493\/cc\/vtt\/en_1503522644.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-chefs-classic-cookware-ft7430\/111091684-111180493"
+        },
+        {
+            "id": "111180492",
+            "title": "Cuisinart CPM 900 EasyPop Popcorn Maker",
+            "date_created": "1502924670",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/thumb-5542-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180492\/40f8a\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180492\/cc\/vtt\/en_1503522565.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cpm-900-easypop-popcorn-maker-ft7432\/111091684-111180492"
+        },
+        {
+            "id": "111180491",
+            "title": "Cuisinart CVR 1000 Vertical Rotisserie Oven",
+            "date_created": "1502924670",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "144",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "144",
+                "prettyDuration": "00:02:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/thumb-5541-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cvr-1000-vertical-rotisserie-oven-ft7424\/111091684-111180491"
+        },
+        {
+            "id": "111180490",
+            "title": "Cuisinart CSB 78 Smart Stick Cordless Hand Blender",
+            "date_created": "1502924669",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "124",
+                "prettyDuration": "00:02:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/thumb-5534-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180490\/9576a\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180490\/cc\/vtt\/en_1503522510.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-csb-78-smart-stick-cordless-hand-blender-ft74\/111091684-111180490"
+        },
+        {
+            "id": "111180489",
+            "title": "Cuisinart CH 4DC Elite Collection Chopper Grinder",
+            "date_created": "1502924668",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/thumb-5508-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180489\/e68f8\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ch-4dc-elite-collection-chopper-grinder-ft741\/111091684-111180489"
+        },
+        {
+            "id": "111180488",
+            "title": "Cuisinart Stainless Steel Citrus Juicer CCJ 100",
+            "date_created": "1502924668",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/thumb-5507-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-ccj-100-citrus-juicer-ft7417\/111091684-111180488"
+        },
+        {
+            "id": "111180487",
+            "title": "Cuisinart CBT 700 PowerEdge Blender",
+            "date_created": "1502924667",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "171",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "171",
+                "prettyDuration": "00:02:51",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/thumb-5506-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180487\/e95ad\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180487\/cc\/vtt\/en_1503522385.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cbt-700-poweredge-blender-ft7416\/111091684-111180487"
+        },
+        {
+            "id": "111180486",
+            "title": "Cuisinart BRK 100 Brick Oven",
+            "date_created": "1502924666",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/thumb-5504-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-brk-100-brick-oven-ft7414\/111091684-111180486"
+        },
+        {
+            "id": "111180485",
+            "title": "Cuisinart CBT 500 SmartPower Premier Blender",
+            "date_created": "1502924665",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "89",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "89",
+                "prettyDuration": "00:01:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/thumb-5501-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180485\/02663\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180485\/cc\/vtt\/en_1503522337.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-cbt-500-smartpower-premier-blender-ft7415\/111091684-111180485"
+        },
+        {
+            "id": "111180484",
+            "title": "Cuisinart BFP 703 Blender Food Processor",
+            "date_created": "1502924665",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "131",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "131",
+                "prettyDuration": "00:02:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/thumb-5497-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180484\/db71c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-bfp-703-blender-food-processor-ft7413\/111091684-111180484"
+        },
+        {
+            "id": "111180483",
+            "title": "Cuisinart BFP 10CH Blender Food Processor",
+            "date_created": "1502924663",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/thumb-5496-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-bfp-10ch-blender-food-processor-ft7412\/111091684-111180483"
+        },
+        {
+            "id": "111180482",
+            "title": "Cuisinart BCRF Pink Series",
+            "date_created": "1502924662",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "22",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "22",
+                "prettyDuration": "00:00:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/thumb-5492-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180482\/4fe6c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/cuisinart-bcrf-pink-series-ft7410\/111091684-111180482"
+        }
+    ]
+}

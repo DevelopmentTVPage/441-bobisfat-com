@@ -1,0 +1,101 @@
+{
+    "title": "FroliCat Dart Automatic Rotating Laser Light Pet Toy",
+    "description": "",
+    "referenceId": "47399",
+    "date_created": "1502525435",
+    "date_modified": "1504049170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "110005381",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2781",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "FroliCat-Dart-Automatic-Rotating-Laser-Light-Pet-Toy",
+    "category": "",
+    "duration": "59",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "59",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/thumb-9db74771311106cbe48d579890877f3b-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005381\/f902e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 118.54072,
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "",
+    "creator": null
+}

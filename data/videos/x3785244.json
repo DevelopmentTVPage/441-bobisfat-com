@@ -1,0 +1,69 @@
+{
+    "title": "Turtle on the Roomba.mp4",
+    "description": "Soft Shell Turtle on Roomba Vacuum!",
+    "referenceId": null,
+    "date_created": "1417722426",
+    "date_modified": "1484872623",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": "N1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "3785244",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "66281476",
+    "titleTextEncoded": "Turtle-on-the-Roomba-mp4",
+    "category": null,
+    "duration": "46",
+    "settings": [],
+    "asset": {
+        "author": "iRobot",
+        "videoId": "oo9Df0thFy0",
+        "hookText": "Soft Shell Turtle on Roomba Vacuum!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oo9Df0thFy0\/hqdefault.jpg",
+        "mediaDuration": "46",
+        "hdvFlag": 0,
+        "uploadDate": 1272367885,
+        "prettyDuration": "00:00:46",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": 0,
+    "conversion_score": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "30",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 76.451546,
+    "delete": null,
+    "notes": null,
+    "uploader": null,
+    "modified_date": null,
+    "created_date": null,
+    "creator": null
+}

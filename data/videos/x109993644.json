@@ -1,0 +1,103 @@
+{
+    "title": "552542014.8.7 bbb hotel bedding.mp4",
+    "description": "",
+    "referenceId": "1823114279",
+    "date_created": "1502523556",
+    "date_modified": "1504049171",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109993644",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3509",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "552542014-8-7-bbb-hotel-bedding-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "61",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/thumb-91b7d4b4c3fcbb3ba92a676d70efae83-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993644\/a5b69\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "3",
+        "18",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5.8834014,
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "8\/7\/2014",
+    "created_date": "",
+    "creator": null
+}

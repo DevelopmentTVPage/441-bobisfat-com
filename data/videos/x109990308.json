@@ -1,0 +1,102 @@
+{
+    "title": "64706real simple blind - outside mount final.mp4",
+    "description": "",
+    "referenceId": "1718813860",
+    "date_created": "1502522689",
+    "date_modified": "1504049175",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "pending",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109990308",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "3788",
+    "entityIdParent": "111091684",
+    "titleTextEncoded": "64706real-simple-blind-outside-mount-final-mp4",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "125",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/thumb-6ed5cac99da6482b280d50a241b893da-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990308\/73640\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "15"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 18.467392,
+    "delete": "",
+    "notes": null,
+    "uploader": "christina.steel",
+    "modified_date": "12\/9\/2014",
+    "created_date": "",
+    "creator": null
+}

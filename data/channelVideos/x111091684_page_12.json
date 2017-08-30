@@ -1,0 +1,1273 @@
+{
+    "pageNumber": 12,
+    "data": [
+        {
+            "id": "111180345",
+            "title": "KitchenAid Pasta Roller Attachment",
+            "date_created": "1502924460",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/thumb-3713-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180345\/1c5c1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180345\/cc\/vtt\/en_1503518875.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-pasta-roller-attachment\/111091684-111180345"
+        },
+        {
+            "id": "111180344",
+            "title": "KitchenAid Food Grinder Attachment",
+            "date_created": "1502924459",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/thumb-3712-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180344\/ebac1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180344\/cc\/vtt\/en_1503518822.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-food-grinder-attachment-ftp5488-2-notes\/111091684-111180344"
+        },
+        {
+            "id": "111180343",
+            "title": "KitchenAid Slicer Shredder Attachment",
+            "date_created": "1502924459",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/thumb-3711-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180343\/25ce1\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180343\/cc\/vtt\/en_1503518750.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-slicer-shredder-attachment-ftp5487\/111091684-111180343"
+        },
+        {
+            "id": "111180342",
+            "title": "Waterpik Ultra Dental Water Jet WP100",
+            "date_created": "1502924458",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 480,
+                    "height": 320
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 320
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 320
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 320
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 320
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/thumb-3710-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180342\/4862c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/waterpik-ultra-dental-water-jet-wp100\/111091684-111180342"
+        },
+        {
+            "id": "111180341",
+            "title": "KitchenAid Can Opener Attachment",
+            "date_created": "1502924457",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/thumb-3708-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180341\/05413\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-can-opener-attachment\/111091684-111180341"
+        },
+        {
+            "id": "111180340",
+            "title": "Kitchen Aid Ravioli Attachment",
+            "date_created": "1502924457",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/thumb-3707-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180340\/5e871\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180340\/cc\/vtt\/en_1503518580.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchen-aid-ravioli-attachment\/111091684-111180340"
+        },
+        {
+            "id": "111180339",
+            "title": "KitchenAid Grain Mill Attachment",
+            "date_created": "1502924456",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/thumb-3706-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180339\/0f8f0\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180339\/cc\/vtt\/en_1503518546.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-grain-mill-attachment-ftp5483\/111091684-111180339"
+        },
+        {
+            "id": "111180338",
+            "title": "KitchenAid Fruit &amp; Vegetable Strainer Attachment",
+            "date_created": "1502924456",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 504,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ],
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/thumb-3705-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180338\/3efac\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "https:\/\/s3-us-west-2.amazonaws.com\/video.tvpage.com\/1758166\/111180338\/cc\/vtt\/en_1503518498.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-fruit-vegetable-strainer-attachmen-ftp5482\/111091684-111180338"
+        },
+        {
+            "id": "111180337",
+            "title": "Black &amp; Decker 18 Volt Pivot Vac",
+            "date_created": "1502924455",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "74",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "74",
+                "prettyDuration": "00:01:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/thumb-3704-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/black-decker-18-volt-pivot-vac\/111091684-111180337"
+        },
+        {
+            "id": "111180336",
+            "title": "KitchenAid Artisan 5 Quart Tilt Head Stand Mixer",
+            "date_created": "1502924455",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "95",
+                    "width": 320,
+                    "height": 150
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 150
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 150
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 150
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 150
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 150
+                    }
+                ],
+                "mediaDuration": "95",
+                "prettyDuration": "00:01:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/thumb-3703-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180336\/7e080\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/kitchenaid-artisan-5-quart-tilt-head-stand-mixer-ftp548\/111091684-111180336"
+        },
+        {
+            "id": "111180335",
+            "title": "Hunter Large Room Total Air Sanitizer",
+            "date_created": "1502924448",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "136",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "136",
+                "prettyDuration": "00:02:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/thumb-36349-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180335\/fd083\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/hunter-large-room-total-air-sanitizer-3-notes\/111091684-111180335"
+        },
+        {
+            "id": "111180334",
+            "title": "Classic Collection by Nambe",
+            "date_created": "1502924445",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/thumb-36324-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180334\/aee51\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/classic-collection-by-nambe-2-notes\/111091684-111180334"
+        },
+        {
+            "id": "111180333",
+            "title": "Anvil Collection by Nambe",
+            "date_created": "1502924443",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "68",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "68",
+                "prettyDuration": "00:01:08",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/thumb-36323-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180333\/dcabb\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/anvil-collection-by-nambe-2-notes\/111091684-111180333"
+        },
+        {
+            "id": "111180332",
+            "title": "Copper Canyon Collection by Nambe",
+            "date_created": "1502924441",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/thumb-36321-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180332\/0d37b\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/copper-canyon-collection-by-nambe-2-notes\/111091684-111180332"
+        },
+        {
+            "id": "111180331",
+            "title": "Heritage Collection by Nambe",
+            "date_created": "1502924439",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "74",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "74",
+                "prettyDuration": "00:01:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/thumb-36319-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180331\/94c62\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/heritage-collection-by-nambe-2-notes\/111091684-111180331"
+        },
+        {
+            "id": "111180330",
+            "title": "Top Down Bottom Up Shade",
+            "date_created": "1502924438",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "99",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "99",
+                "prettyDuration": "00:01:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/thumb-3609-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180330\/10e9b\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/top-down-bottom-up-shade\/111091684-111180330"
+        },
+        {
+            "id": "111180329",
+            "title": "simplehuman Sensor Pump Touch-Free Soap Dispenser",
+            "date_created": "1502924434",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/thumb-35549-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/simplehuman-sensor-pump-touch-free-soap-dispenser\/111091684-111180329"
+        },
+        {
+            "id": "111180328",
+            "title": "Shark Professional Steam Pocket Mop",
+            "date_created": "1502924430",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1440,
+                    "height": 1080
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1440,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/thumb-35244-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180328\/bff2a\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/shark-professional-steam-pocket-mop\/111091684-111180328"
+        },
+        {
+            "id": "111180327",
+            "title": "Bake Pops Kit",
+            "date_created": "1502924429",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "67",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "67",
+                "prettyDuration": "00:01:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/thumb-35243-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/bake-pops-kit\/111091684-111180327"
+        },
+        {
+            "id": "111180326",
+            "title": "Slice O Matic Slicer",
+            "date_created": "1502924427",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 640,
+                    "height": 480
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/thumb-35241-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180326\/4fd15\/media.m3u8"
+            },
+            "parentId": "111091684",
+            "url": "\/bbbusa-latest-videos\/slice-o-matic-slicer\/111091684-111180326"
+        }
+    ]
+}
